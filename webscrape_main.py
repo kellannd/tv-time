@@ -8,7 +8,7 @@ import re
 
 # episodes = ["Pilot", "The_Thing_You_Love_Most", "Snow_Falls", "The_Price_of_Gold", "That_Still_Small_Voice", "The_Shepherd", "The_Heart_Is_a_Lonely_Hunter", "Desperate_Souls", "True_North", "7:15_A.M.", "Fruit_of_the_Poisonous_Tree", "An_Apple_Red_as_Blood", "A_Land_Without_Magic"]
 
-episodes = ["A_Tale_of_Two_Sisters", "White_Out"]
+episodes = ["A_Curious_Thing"]
 
 for ep in episodes:
     url = "https://onceuponatime.fandom.com/api.php"
@@ -22,8 +22,11 @@ for ep in episodes:
     response = requests.get(url, params=params)
     data = response.json()
 
-    html = data["parse"]["text"]["*"]
+    # html = data["parse"]["text"]["*"]
+    # with open("ep.json", "r") as file:
+    #     data = json.load(file)
 
+    html = data["parse"]["text"]["*"]
     soup = BeautifulSoup(html, "html.parser")
 
     content = soup.find("div", class_="mw-parser-output")
@@ -120,7 +123,7 @@ for ep in episodes:
 
 
 
-    file = "scripts/" + ep + ".json"
+    file = ep + ".json"
     # print(ep_count)
 
     # ep_count = ep_count + 1

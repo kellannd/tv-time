@@ -10,29 +10,32 @@ import re
 
 # episodes = ["Skin_Deep"]
 
-episodes = ["A_Tale_of_Two_Sisters", "White_Out"]
+episodes = ["The_Jolly_Roger"]
 
 for ep in episodes:
-    url = "https://onceuponatime.fandom.com/api.php"
+    # url = "https://onceuponatime.fandom.com/api.php"
 
-    params = {
-        "action": "parse",
-        "page":  ep + "/Transcript",
-        "format": "json"
-    }
+    # params = {
+    #     "action": "parse",
+    #     "page":  ep + "/Transcript",
+    #     "format": "json"
+    # }
 
-    response = requests.get(url, params=params)
-    data = response.json()
-
+    # response = requests.get(url, params=params)
+    # data = response.json()
+    with open("ep.json", "r") as file:
+        data = json.load(file)
     html = data["parse"]["text"]["*"]
 
     soup = BeautifulSoup(html, "html.parser")
 
     content = soup.find("div", class_="mw-parser-output")
 
+    print(content)
+
     td = content.find_all("td")
 
-    bold = td[4].find_all("center")
+    bold = td[0].find_all("center")
 
     sceneNum = 0
     scenes = []
@@ -119,7 +122,7 @@ for ep in episodes:
 
 
 
-    file = "scripts/" + ep + ".json"
+    file = "data/scripts/" + ep + ".json"
     # print(ep_count)
 
     # ep_count = ep_count + 1

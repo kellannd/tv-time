@@ -1,14 +1,16 @@
 Issues with:
 season 1 ep Dreamy
-season 2 the miller's daughter and straight on til morning
-season 3 think lovely thoughts and its not easy being green and the jolly roger and theres no place like home a curious thing
+season 3
+think lovely thoughts
 
 an apple red as blood needs original webscraper
 
 some issues with Hat Trick. need to manually modify.
 
 things that could be included as "other" location:
-land without magic/boston/nyc
+land without magic (normal world)
 the netherworld
 fairy tale land
 neverland
+
+https://onceuponatime.fandom.com/api.php?action=parse&page=And_Straight_On_%27Til_Morning/Transcript&format=json
