@@ -1,0 +1,4204 @@
+{
+  "episode": "Hat_Trick",
+  "scenes": [
+    {
+      "sceneDesc": " Storybrooke. Present. Storybrooke Sheriff's Department. Mary Margaret Blanchard's cell stands empty, the door open. The scene transitions to Mary Margaret running in the woods. She stops briefly at a tree, then continues. The scene then transitions back to the sheriff's station. Henry Mills is seated in a chair, reading from his book. A young Snow White is very visible on the page. Emma Swan and Mr. Gold are seen coming down the hallway.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " Henry? What are you doing here?",
+          "dialogSplit": ["Henry", "What", "are", "you", "doing", "here"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " I came to congratulate you.",
+          "dialogSplit": ["I", "came", "to", "congratulate", "you"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " For what?",
+          "dialogSplit": ["For", "what"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Your genius plan.",
+          "dialogSplit": ["Your", "genius", "plan"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " And what plan's that, Henry?  Right. ",
+          "dialogSplit": ["And", "what", "plan's", "that", "Henry", "Right"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Sorry, I thought MrGold was in on it now that he's Miss Blanchard's lawyer.",
+          "dialogSplit": [
+            "Sorry",
+            "I",
+            "thought",
+            "MrGold",
+            "was",
+            "in",
+            "on",
+            "it",
+            "now",
+            "that",
+            "he's",
+            "Miss",
+            "Blanchard's",
+            "lawyer"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " In on what?",
+          "dialogSplit": ["In", "on", "what"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " The escape plan.",
+          "dialogSplit": ["The", "escape", "plan"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " The what?",
+          "dialogSplit": ["The", "what"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Sheriff, could you join me, please?  She's gone.",
+          "dialogSplit": [
+            "Sheriff",
+            "could",
+            "you",
+            "join",
+            "me",
+            "please",
+            "She's",
+            "gone"
+          ]
+        },
+        {
+          "character": "Emma: ",
+          "dialog": "Henry, what did you do?",
+          "dialogSplit": ["Henry", "what", "did", "you", "do"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Nothing. She was gone when I got here.",
+          "dialogSplit": [
+            "Nothing",
+            "She",
+            "was",
+            "gone",
+            "when",
+            "I",
+            "got",
+            "here"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Her arraignment's tomorrow. If she's not there--",
+          "dialogSplit": [
+            "Her",
+            "arraignment's",
+            "tomorrow",
+            "If",
+            "she's",
+            "not",
+            "there"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " She's a fugitive. Doesn't matter if she's convicted for Kathryn or not, she's screwed. I have to go find her before someone notices she's missing.",
+          "dialogSplit": [
+            "She's",
+            "a",
+            "fugitive",
+            "Doesn't",
+            "matter",
+            "if",
+            "she's",
+            "convicted",
+            "for",
+            "Kathryn",
+            "or",
+            "not",
+            "she's",
+            "screwed",
+            "I",
+            "have",
+            "to",
+            "go",
+            "find",
+            "her",
+            "before",
+            "someone",
+            "notices",
+            "she's",
+            "missing"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Oh, you mean Regina.",
+          "dialogSplit": ["Oh", "you", "mean", "Regina"]
+        },
+        {
+          "character": "Emma",
+          "dialog": "\u00a0Thee arraignment's at 8:00 A.M. I'm sure she'll be here bright and early to celebrate her victory.",
+          "dialogSplit": [
+            "Thee",
+            "arraignment's",
+            "at",
+            "8",
+            "00",
+            "A",
+            "M",
+            "I'm",
+            "sure",
+            "she'll",
+            "be",
+            "here",
+            "bright",
+            "and",
+            "early",
+            "to",
+            "celebrate",
+            "her",
+            "victory"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Well, you have until 8:00 A.M. then.",
+          "dialogSplit": [
+            "Well",
+            "you",
+            "have",
+            "until",
+            "8",
+            "00",
+            "A",
+            "M",
+            "then"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " What about me, how can I help?",
+          "dialogSplit": ["What", "about", "me", "how", "can", "I", "help"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Go home.",
+          "dialogSplit": ["Go", "home"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Emma, if she leaves Storybrooke--",
+          "dialogSplit": ["Emma", "if", "she", "leaves", "Storybrooke"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Not now, Henry. Come on. ",
+          "dialogSplit": ["Not", "now", "Henry", "Come", "on"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Miss Swan, I know that time is of the essence, but if Miss Blanchard doesn't return, her future's in jeopardy. And if you're caught helping her, so is yours.",
+          "dialogSplit": [
+            "Miss",
+            "Swan",
+            "I",
+            "know",
+            "that",
+            "time",
+            "is",
+            "of",
+            "the",
+            "essence",
+            "but",
+            "if",
+            "Miss",
+            "Blanchard",
+            "doesn't",
+            "return",
+            "her",
+            "future's",
+            "in",
+            "jeopardy",
+            "And",
+            "if",
+            "you're",
+            "caught",
+            "helping",
+            "her",
+            "so",
+            "is",
+            "yours"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I don't care. I'd rather lose my job than my friend. ",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "care",
+            "I'd",
+            "rather",
+            "lose",
+            "my",
+            "job",
+            "than",
+            "my",
+            "friend"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Woods. Night.Emma drives her Bug along the road. Distracted, she narrowly avoids hitting Jefferson. She stops and gets out of the car, running to him and helping him up.",
+      "tense": null,
+      "location": null,
+      "dialog": [
+        {
+          "character": "EMMA",
+          "dialog": " I'm so sorry! Are you okay? I didn't see you there.",
+          "dialogSplit": [
+            "I'm",
+            "so",
+            "sorry",
+            "Are",
+            "you",
+            "okay",
+            "I",
+            "didn't",
+            "see",
+            "you",
+            "there"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I-I think so--",
+          "dialogSplit": ["I", "I", "think", "so"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Are you sure?",
+          "dialogSplit": ["Are", "you", "sure"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm fine. I'm not used to sharing the road with cars so late. You're the Sheriff, aren't you?",
+          "dialogSplit": [
+            "I'm",
+            "fine",
+            "I'm",
+            "not",
+            "used",
+            "to",
+            "sharing",
+            "the",
+            "road",
+            "with",
+            "cars",
+            "so",
+            "late",
+            "You're",
+            "the",
+            "Sheriff",
+            "aren't",
+            "you"
+          ]
+        },
+        { "character": "Emma", "dialog": " Yeah.", "dialogSplit": ["Yeah"] },
+        {
+          "character": "Jefferson",
+          "dialog": " What brings you out here in the middle of the night?",
+          "dialogSplit": [
+            "What",
+            "brings",
+            "you",
+            "out",
+            "here",
+            "in",
+            "the",
+            "middle",
+            "of",
+            "the",
+            "night"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Oh, nothing to worry about. I'm just looking for a lost dog.",
+          "dialogSplit": [
+            "Oh",
+            "nothing",
+            "to",
+            "worry",
+            "about",
+            "I'm",
+            "just",
+            "looking",
+            "for",
+            "a",
+            "lost",
+            "dog"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Well, I hope you find it.",
+          "dialogSplit": ["Well", "I", "hope", "you", "find", "it"]
+        },
+        {
+          "character": "Emma",
+          "dialog": "\u00a0Thank you. (He starts to walk away, visibly limping) Oh, you are hurt!",
+          "dialogSplit": [
+            "Thank",
+            "you",
+            "He",
+            "starts",
+            "to",
+            "walk",
+            "away",
+            "visibly",
+            "limping",
+            "Oh",
+            "you",
+            "are",
+            "hurt"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " No, I just twisted my ankle, I think. I live just a mile down the road, I'll make it okay.",
+          "dialogSplit": [
+            "No",
+            "I",
+            "just",
+            "twisted",
+            "my",
+            "ankle",
+            "I",
+            "think",
+            "I",
+            "live",
+            "just",
+            "a",
+            "mile",
+            "down",
+            "the",
+            "road",
+            "I'll",
+            "make",
+            "it",
+            "okay"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " No, let me drive you. I insist.",
+          "dialogSplit": ["No", "let", "me", "drive", "you", "I", "insist"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": ": Thank you. I'm Jefferson.",
+          "dialogSplit": ["Thank", "you", "I'm", "Jefferson"]
+        },
+        { "character": "Emma", "dialog": " Emma. ", "dialogSplit": ["Emma"] },
+        {
+          "character": "Emma",
+          "dialog": " Wow, this is your house? It looks more like a hotel! You must have a huge family.",
+          "dialogSplit": [
+            "Wow",
+            "this",
+            "is",
+            "your",
+            "house",
+            "It",
+            "looks",
+            "more",
+            "like",
+            "a",
+            "hotel",
+            "You",
+            "must",
+            "have",
+            "a",
+            "huge",
+            "family"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Nope. It's just me.",
+          "dialogSplit": ["Nope", "It's", "just", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Here. Wait. ",
+          "dialogSplit": ["Here", "Wait"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Here we go. Thought you might want to warm up for your search. It's cold out there.",
+          "dialogSplit": [
+            "Here",
+            "we",
+            "go",
+            "Thought",
+            "you",
+            "might",
+            "want",
+            "to",
+            "warm",
+            "up",
+            "for",
+            "your",
+            "search",
+            "It's",
+            "cold",
+            "out",
+            "there"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " That is kind of you, but I think I should get back to it.",
+          "dialogSplit": [
+            "That",
+            "is",
+            "kind",
+            "of",
+            "you",
+            "but",
+            "I",
+            "think",
+            "I",
+            "should",
+            "get",
+            "back",
+            "to",
+            "it"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I know. That's why I brought this.  I'm a bit of an amateur cartographer. Mapping the area is a hobby. Maybe this will help you track down your dog.",
+          "dialogSplit": [
+            "I",
+            "know",
+            "That's",
+            "why",
+            "I",
+            "brought",
+            "this",
+            "I'm",
+            "a",
+            "bit",
+            "of",
+            "an",
+            "amateur",
+            "cartographer",
+            "Mapping",
+            "the",
+            "area",
+            "is",
+            "a",
+            "hobby",
+            "Maybe",
+            "this",
+            "will",
+            "help",
+            "you",
+            "track",
+            "down",
+            "your",
+            "dog"
+          ]
+        },
+        { "character": "Emma", "dialog": " Wow.", "dialogSplit": ["Wow"] },
+        {
+          "character": "Jefferson",
+          "dialog": " What's his name?",
+          "dialogSplit": ["What's", "his", "name"]
+        },
+        { "character": "Emma", "dialog": " Spot.", "dialogSplit": ["Spot"] },
+        {
+          "character": "Jefferson",
+          "dialog": " Cute.",
+          "dialogSplit": ["Cute"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Well, Route 6 runs the boundary of the forest, so...  So if I just follow that I should... be able to...",
+          "dialogSplit": [
+            "Well",
+            "Route",
+            "6",
+            "runs",
+            "the",
+            "boundary",
+            "of",
+            "the",
+            "forest",
+            "so",
+            "So",
+            "if",
+            "I",
+            "just",
+            "follow",
+            "that",
+            "I",
+            "should",
+            "be",
+            "able",
+            "to"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Something wrong?",
+          "dialogSplit": ["Something", "wrong"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I'm just, uh, feeling a little...",
+          "dialogSplit": ["I'm", "just", "uh", "feeling", "a", "little"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Oh. Let me help you. ",
+          "dialogSplit": ["Oh", "Let", "me", "help", "you"]
+        },
+        { "character": "Emma", "dialog": " Dizzy.", "dialogSplit": ["Dizzy"] },
+        {
+          "character": "Jefferson",
+          "dialog": " Let's just lie you down here.  There you go. Let me get you some air. ",
+          "dialogSplit": [
+            "Let's",
+            "just",
+            "lie",
+            "you",
+            "down",
+            "here",
+            "There",
+            "you",
+            "go",
+            "Let",
+            "me",
+            "get",
+            "you",
+            "some",
+            "air"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Your limp...",
+          "dialogSplit": ["Your", "limp"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Oh. That.  I guess you caught me.",
+          "dialogSplit": ["Oh", "That", "I", "guess", "you", "caught", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Who are you?",
+          "dialogSplit": ["Who", "are", "you"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. Jefferson runs through the forest. He hides behind a tree and catches his breath.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Grace",
+          "dialog": " Papa, I found you.",
+          "dialogSplit": ["Papa", "I", "found", "you"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You certainly did. You must be part bloodhound, my dear Grace.",
+          "dialogSplit": [
+            "You",
+            "certainly",
+            "did",
+            "You",
+            "must",
+            "be",
+            "part",
+            "bloodhound",
+            "my",
+            "dear",
+            "Grace"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Now it's my turn to hide and you seek.",
+          "dialogSplit": [
+            "Now",
+            "it's",
+            "my",
+            "turn",
+            "to",
+            "hide",
+            "and",
+            "you",
+            "seek"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm afraid playtime's over. Though you can still use that nose of yours to hunt mushrooms, enough to sell at market tomorrow. Do you think you can do that? Ready or not, here we come.  Wait.",
+          "dialogSplit": [
+            "I'm",
+            "afraid",
+            "playtime's",
+            "over",
+            "Though",
+            "you",
+            "can",
+            "still",
+            "use",
+            "that",
+            "nose",
+            "of",
+            "yours",
+            "to",
+            "hunt",
+            "mushrooms",
+            "enough",
+            "to",
+            "sell",
+            "at",
+            "market",
+            "tomorrow",
+            "Do",
+            "you",
+            "think",
+            "you",
+            "can",
+            "do",
+            "that",
+            "Ready",
+            "or",
+            "not",
+            "here",
+            "we",
+            "come",
+            "Wait"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Whose carriage is that?",
+          "dialogSplit": ["Whose", "carriage", "is", "that"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The Queen's.",
+          "dialogSplit": ["The", "Queen's"]
+        },
+        {
+          "character": "Grace",
+          "dialog": " In our house? Do you know her?",
+          "dialogSplit": ["In", "our", "house", "Do", "you", "know", "her"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Of course not. Now listen carefully. Hey. I want you to stay hidden in the woods, like our game. I'm gonna find out what she's doing here. ",
+          "dialogSplit": [
+            "Of",
+            "course",
+            "not",
+            "Now",
+            "listen",
+            "carefully",
+            "Hey",
+            "I",
+            "want",
+            "you",
+            "to",
+            "stay",
+            "hidden",
+            "in",
+            "the",
+            "woods",
+            "like",
+            "our",
+            "game",
+            "I'm",
+            "gonna",
+            "find",
+            "out",
+            "what",
+            "she's",
+            "doing",
+            "here"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " I'd like to say you're looking well, Jefferson, but I'd be lying. Poverty doesn't suit you.",
+          "dialogSplit": [
+            "I'd",
+            "like",
+            "to",
+            "say",
+            "you're",
+            "looking",
+            "well",
+            "Jefferson",
+            "but",
+            "I'd",
+            "be",
+            "lying",
+            "Poverty",
+            "doesn't",
+            "suit",
+            "you"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " What are you doing here, Regina?",
+          "dialogSplit": ["What", "are", "you", "doing", "here", "Regina"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " I have a job for you.",
+          "dialogSplit": ["I", "have", "a", "job", "for", "you"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I don't do that anymore.",
+          "dialogSplit": ["I", "don't", "do", "that", "anymore"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Yes, I heard you hung up your hat. Why? Is it because of your sweet daughter Grace?",
+          "dialogSplit": [
+            "Yes",
+            "I",
+            "heard",
+            "you",
+            "hung",
+            "up",
+            "your",
+            "hat",
+            "Why",
+            "Is",
+            "it",
+            "because",
+            "of",
+            "your",
+            "sweet",
+            "daughter",
+            "Grace"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Because of my work, she lost her mother. I don't want her to lose her father, too.",
+          "dialogSplit": [
+            "Because",
+            "of",
+            "my",
+            "work",
+            "she",
+            "lost",
+            "her",
+            "mother",
+            "I",
+            "don't",
+            "want",
+            "her",
+            "to",
+            "lose",
+            "her",
+            "father",
+            "too"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " So now you're foraging for fungus? What kind of future does your daughter have here with you? Do this one last favor for me, and you can give her the life she deserves.",
+          "dialogSplit": [
+            "So",
+            "now",
+            "you're",
+            "foraging",
+            "for",
+            "fungus",
+            "What",
+            "kind",
+            "of",
+            "future",
+            "does",
+            "your",
+            "daughter",
+            "have",
+            "here",
+            "with",
+            "you",
+            "Do",
+            "this",
+            "one",
+            "last",
+            "favor",
+            "for",
+            "me",
+            "and",
+            "you",
+            "can",
+            "give",
+            "her",
+            "the",
+            "life",
+            "she",
+            "deserves"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " That's why I'm staying. You don't abandon family. That's... what she deserves. Now, please leave.",
+          "dialogSplit": [
+            "That's",
+            "why",
+            "I'm",
+            "staying",
+            "You",
+            "don't",
+            "abandon",
+            "family",
+            "That's",
+            "what",
+            "she",
+            "deserves",
+            "Now",
+            "please",
+            "leave"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " All I need is your special skills to get me somewhere. Somewhere you've been before. Do it, and I can change your life. ",
+          "dialogSplit": [
+            "All",
+            "I",
+            "need",
+            "is",
+            "your",
+            "special",
+            "skills",
+            "to",
+            "get",
+            "me",
+            "somewhere",
+            "Somewhere",
+            "you've",
+            "been",
+            "before",
+            "Do",
+            "it",
+            "and",
+            "I",
+            "can",
+            "change",
+            "your",
+            "life"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " What business could you possibly have there?",
+          "dialogSplit": [
+            "What",
+            "business",
+            "could",
+            "you",
+            "possibly",
+            "have",
+            "there"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Something of mine was taken and found its way over there. I want it back.",
+          "dialogSplit": [
+            "Something",
+            "of",
+            "mine",
+            "was",
+            "taken",
+            "and",
+            "found",
+            "its",
+            "way",
+            "over",
+            "there",
+            "I",
+            "want",
+            "it",
+            "back"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Then find someone else to get it.",
+          "dialogSplit": ["Then", "find", "someone", "else", "to", "get", "it"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " I see. Hard living has strengthened your resolve. Well, I'm sorry I couldn't convince you, but I understand. There's nothing more important than family. ",
+          "dialogSplit": [
+            "I",
+            "see",
+            "Hard",
+            "living",
+            "has",
+            "strengthened",
+            "your",
+            "resolve",
+            "Well",
+            "I'm",
+            "sorry",
+            "I",
+            "couldn't",
+            "convince",
+            "you",
+            "but",
+            "I",
+            "understand",
+            "There's",
+            "nothing",
+            "more",
+            "important",
+            "than",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. A market. Jefferson and Grace walk amongst the stalls.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Grace",
+          "dialog": " The toy cart! ",
+          "dialogSplit": ["The", "toy", "cart"]
+        },
+        {
+          "character": "Old Woman",
+          "dialog": " Come. ",
+          "dialogSplit": ["Come"]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Wouldn't this make the perfect guests for our tea parties, Papa? Can I have him? Please?",
+          "dialogSplit": [
+            "Wouldn't",
+            "this",
+            "make",
+            "the",
+            "perfect",
+            "guests",
+            "for",
+            "our",
+            "tea",
+            "parties",
+            "Papa",
+            "Can",
+            "I",
+            "have",
+            "him",
+            "Please"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Excuse me, but how much for the rabbit?",
+          "dialogSplit": [
+            "Excuse",
+            "me",
+            "but",
+            "how",
+            "much",
+            "for",
+            "the",
+            "rabbit"
+          ]
+        },
+        {
+          "character": "Old Woman",
+          "dialog": " That costs one silver. ",
+          "dialogSplit": ["That", "costs", "one", "silver"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Would you take it for eight coppers? It's all I have.",
+          "dialogSplit": [
+            "Would",
+            "you",
+            "take",
+            "it",
+            "for",
+            "eight",
+            "coppers",
+            "It's",
+            "all",
+            "I",
+            "have"
+          ]
+        },
+        {
+          "character": "Old Woman",
+          "dialog": " Ooh, you are good father. Your last coppers for your little girl's happiness, ah?",
+          "dialogSplit": [
+            "Ooh",
+            "you",
+            "are",
+            "good",
+            "father",
+            "Your",
+            "last",
+            "coppers",
+            "for",
+            "your",
+            "little",
+            "girl's",
+            "happiness",
+            "ah"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Thank you.",
+          "dialogSplit": ["Thank", "you"]
+        },
+        {
+          "character": "Old woman",
+          "dialog": " Oh, I did not say I accept. Alas, I cannot take less than one silver. The economy. You understand.",
+          "dialogSplit": [
+            "Oh",
+            "I",
+            "did",
+            "not",
+            "say",
+            "I",
+            "accept",
+            "Alas",
+            "I",
+            "cannot",
+            "take",
+            "less",
+            "than",
+            "one",
+            "silver",
+            "The",
+            "economy",
+            "You",
+            "understand"
+          ]
+        },
+        {
+          "character": "Man",
+          "dialog": " Make up your mind. Come on. Let's go.",
+          "dialogSplit": [
+            "Make",
+            "up",
+            "your",
+            "mind",
+            "Come",
+            "on",
+            "Let's",
+            "go"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " It's OK, Papa. Come on. People are waiting.",
+          "dialogSplit": [
+            "It's",
+            "OK",
+            "Papa",
+            "Come",
+            "on",
+            "People",
+            "are",
+            "waiting"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I will not take \"no\" for an answer.",
+          "dialogSplit": [
+            "I",
+            "will",
+            "not",
+            "take",
+            "no",
+            "for",
+            "an",
+            "answer"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Papa, please. I don't need it.",
+          "dialogSplit": ["Papa", "please", "I", "don't", "need", "it"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Come on, sweetie. ",
+          "dialogSplit": ["Come", "on", "sweetie"]
+        },
+        {
+          "character": "Magic Mirror",
+          "dialog": " Well, that was awfully cruel. You could've at least let the girl have her toy.",
+          "dialogSplit": [
+            "Well",
+            "that",
+            "was",
+            "awfully",
+            "cruel",
+            "You",
+            "could've",
+            "at",
+            "least",
+            "let",
+            "the",
+            "girl",
+            "have",
+            "her",
+            "toy"
+          ]
+        },
+        {
+          "character": "Old Woman",
+          "dialog": " Where's the fun in that?  Hmm?",
+          "dialogSplit": ["Where's", "the", "fun", "in", "that", "Hmm"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. Jefferson's house. He puts the finishing touches on a stuffed rabbit and presents it to Grace, who plays tea party.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Jefferson",
+          "dialog": " I know it's not the same as what you wanted.",
+          "dialogSplit": [
+            "I",
+            "know",
+            "it's",
+            "not",
+            "the",
+            "same",
+            "as",
+            "what",
+            "you",
+            "wanted"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " I love it, Papa. Thank you.  Mmm. This is really good. Don't you think so, MrTortoise? Papa, do you like your tea?",
+          "dialogSplit": [
+            "I",
+            "love",
+            "it",
+            "Papa",
+            "Thank",
+            "you",
+            "Mmm",
+            "This",
+            "is",
+            "really",
+            "good",
+            "Don't",
+            "you",
+            "think",
+            "so",
+            "MrTortoise",
+            "Papa",
+            "do",
+            "you",
+            "like",
+            "your",
+            "tea"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Grace... I want you to go to the neighbors' for the rest of the day. There's work I have to do.",
+          "dialogSplit": [
+            "Grace",
+            "I",
+            "want",
+            "you",
+            "to",
+            "go",
+            "to",
+            "the",
+            "neighbors",
+            "for",
+            "the",
+            "rest",
+            "of",
+            "the",
+            "day",
+            "There's",
+            "work",
+            "I",
+            "have",
+            "to",
+            "do"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Can't I come with you? I like being with you in the forest.",
+          "dialogSplit": [
+            "Can't",
+            "I",
+            "come",
+            "with",
+            "you",
+            "I",
+            "like",
+            "being",
+            "with",
+            "you",
+            "in",
+            "the",
+            "forest"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm not going to the forest, sweetie.",
+          "dialogSplit": [
+            "I'm",
+            "not",
+            "going",
+            "to",
+            "the",
+            "forest",
+            "sweetie"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " This has to do with the Queen's visit, doesn't it? Whatever she wants you to do, don't do it!",
+          "dialogSplit": [
+            "This",
+            "has",
+            "to",
+            "do",
+            "with",
+            "the",
+            "Queen's",
+            "visit",
+            "doesn't",
+            "it",
+            "Whatever",
+            "she",
+            "wants",
+            "you",
+            "to",
+            "do",
+            "don't",
+            "do",
+            "it"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Grace, I have to. I want you to have what you need.",
+          "dialogSplit": [
+            "Grace",
+            "I",
+            "have",
+            "to",
+            "I",
+            "want",
+            "you",
+            "to",
+            "have",
+            "what",
+            "you",
+            "need"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " All I need is you, Papa. Please stay.",
+          "dialogSplit": [
+            "All",
+            "I",
+            "need",
+            "is",
+            "you",
+            "Papa",
+            "Please",
+            "stay"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Come here. I know. I'm sorry, baby. I have to go.",
+          "dialogSplit": [
+            "Come",
+            "here",
+            "I",
+            "know",
+            "I'm",
+            "sorry",
+            "baby",
+            "I",
+            "have",
+            "to",
+            "go"
+          ]
+        },
+        {
+          "character": "Grace",
+          "dialog": " Just promise me you'll come back. You have to promise.",
+          "dialogSplit": [
+            "Just",
+            "promise",
+            "me",
+            "you'll",
+            "come",
+            "back",
+            "You",
+            "have",
+            "to",
+            "promise"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Of course.",
+          "dialogSplit": ["Of", "course"]
+        },
+        {
+          "character": "Grace",
+          "dialog": " For our tea party. Promise?",
+          "dialogSplit": ["For", "our", "tea", "party", "Promise"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I promise. I won't miss it for the world.  Go. ",
+          "dialogSplit": [
+            "I",
+            "promise",
+            "I",
+            "won't",
+            "miss",
+            "it",
+            "for",
+            "the",
+            "world",
+            "Go"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Jefferson's house. Emma watches Jefferson sharpen scissors. Emma closes the door quietly and moves down the hallway. A floorboard creaks under her weight, and the scene cuts to Jefferson turning his head slightly. Cut back to Emma, and she quickly opens a door and slips into a room. Mary Margaret is tied to a chair in this room.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Mary Margaret",
+          "dialog": " Help me.",
+          "dialogSplit": ["Help", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What is going on? ",
+          "dialogSplit": ["What", "is", "going", "on"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Emma, thank God.",
+          "dialogSplit": ["Emma", "thank", "God"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What are you doing here?",
+          "dialogSplit": ["What", "are", "you", "doing", "here"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " I was in the woods, trying to get away. This man appeared out of nowhere and grabbed me. Why are you here?",
+          "dialogSplit": [
+            "I",
+            "was",
+            "in",
+            "the",
+            "woods",
+            "trying",
+            "to",
+            "get",
+            "away",
+            "This",
+            "man",
+            "appeared",
+            "out",
+            "of",
+            "nowhere",
+            "and",
+            "grabbed",
+            "me",
+            "Why",
+            "are",
+            "you",
+            "here"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I've been trying to find you. You escaped, remember? How did you get out?",
+          "dialogSplit": [
+            "I've",
+            "been",
+            "trying",
+            "to",
+            "find",
+            "you",
+            "You",
+            "escaped",
+            "remember",
+            "How",
+            "did",
+            "you",
+            "get",
+            "out"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " There was a key... In my cell, under my pillow. Someone put it there.",
+          "dialogSplit": [
+            "There",
+            "was",
+            "a",
+            "key",
+            "In",
+            "my",
+            "cell",
+            "under",
+            "my",
+            "pillow",
+            "Someone",
+            "put",
+            "it",
+            "there"
+          ]
+        },
+        { "character": "Emma", "dialog": " Who?", "dialogSplit": ["Who"] },
+        {
+          "character": "Mary Margaret",
+          "dialog": " I don't know, I'd like to know just as much as you. ",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "know",
+            "I'd",
+            "like",
+            "to",
+            "know",
+            "just",
+            "as",
+            "much",
+            "as",
+            "you"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I see you found \"Spot\"!",
+          "dialogSplit": ["I", "see", "you", "found", "Spot"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I've already called for backup, they'll be here any second.",
+          "dialogSplit": [
+            "I've",
+            "already",
+            "called",
+            "for",
+            "backup",
+            "they'll",
+            "be",
+            "here",
+            "any",
+            "second"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You haven't called anybody... for the same reason you didn't tell me about her. You don't want anybody to know you're here, which means nobody does. So now tie her back up. ",
+          "dialogSplit": [
+            "You",
+            "haven't",
+            "called",
+            "anybody",
+            "for",
+            "the",
+            "same",
+            "reason",
+            "you",
+            "didn't",
+            "tell",
+            "me",
+            "about",
+            "her",
+            "You",
+            "don't",
+            "want",
+            "anybody",
+            "to",
+            "know",
+            "you're",
+            "here",
+            "which",
+            "means",
+            "nobody",
+            "does",
+            "So",
+            "now",
+            "tie",
+            "her",
+            "back",
+            "up"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Emma...",
+          "dialogSplit": ["Emma"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " It's gonna be okay.  Your telescope. You've been watching me. Why?",
+          "dialogSplit": [
+            "It's",
+            "gonna",
+            "be",
+            "okay",
+            "Your",
+            "telescope",
+            "You've",
+            "been",
+            "watching",
+            "me",
+            "Why"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I need you to do something ",
+          "dialogSplit": ["I", "need", "you", "to", "do", "something"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. Evil Queen's palace. Jefferson arrives, carrying the hatbox.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Evil Queen",
+          "dialog": " Jefferson. So good to see you looking more like yourself. I assume you're here because you've reconsidered my offer?",
+          "dialogSplit": [
+            "Jefferson",
+            "So",
+            "good",
+            "to",
+            "see",
+            "you",
+            "looking",
+            "more",
+            "like",
+            "yourself",
+            "I",
+            "assume",
+            "you're",
+            "here",
+            "because",
+            "you've",
+            "reconsidered",
+            "my",
+            "offer"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I want your guarantee that if I do what you ask, my daughter will want for nothing.",
+          "dialogSplit": [
+            "I",
+            "want",
+            "your",
+            "guarantee",
+            "that",
+            "if",
+            "I",
+            "do",
+            "what",
+            "you",
+            "ask",
+            "my",
+            "daughter",
+            "will",
+            "want",
+            "for",
+            "nothing"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " You have my word. Now let's open that box of yours and see what it can do.  I do so like a man who dresses for the occasion.",
+          "dialogSplit": [
+            "You",
+            "have",
+            "my",
+            "word",
+            "Now",
+            "let's",
+            "open",
+            "that",
+            "box",
+            "of",
+            "yours",
+            "and",
+            "see",
+            "what",
+            "it",
+            "can",
+            "do",
+            "I",
+            "do",
+            "so",
+            "like",
+            "a",
+            "man",
+            "who",
+            "dresses",
+            "for",
+            "the",
+            "occasion"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Step back.  After you.",
+          "dialogSplit": ["Step", "back", "After", "you"]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " Together.",
+          "dialogSplit": ["Together"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Hold on. ",
+          "dialogSplit": ["Hold", "on"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Jefferson's house. A door opens and Jefferson shoves Emma into a room.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " I don't know what you think you're doing, but if you hurt my friend, I swear I'll make you regret it.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "know",
+            "what",
+            "you",
+            "think",
+            "you're",
+            "doing",
+            "but",
+            "if",
+            "you",
+            "hurt",
+            "my",
+            "friend",
+            "I",
+            "swear",
+            "I'll",
+            "make",
+            "you",
+            "regret",
+            "it"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Hurt her? I'm saving her life.",
+          "dialogSplit": ["Hurt", "her", "I'm", "saving", "her", "life"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " How do you figure that?",
+          "dialogSplit": ["How", "do", "you", "figure", "that"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Don't play stupid. We both know what happens when people try to leave Storybrooke.",
+          "dialogSplit": [
+            "Don't",
+            "play",
+            "stupid",
+            "We",
+            "both",
+            "know",
+            "what",
+            "happens",
+            "when",
+            "people",
+            "try",
+            "to",
+            "leave",
+            "Storybrooke"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What are you talking about?",
+          "dialogSplit": ["What", "are", "you", "talking", "about"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The curse.",
+          "dialogSplit": ["The", "curse"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What curse?",
+          "dialogSplit": ["What", "curse"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The one keeping us all trapped. All except you.",
+          "dialogSplit": [
+            "The",
+            "one",
+            "keeping",
+            "us",
+            "all",
+            "trapped",
+            "All",
+            "except",
+            "you"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Have you been reading Henry's book?",
+          "dialogSplit": ["Have", "you", "been", "reading", "Henry's", "book"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Henry? You mean the Queen's father?",
+          "dialogSplit": ["Henry", "You", "mean", "the", "Queen's", "father"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Henry, the Mayor's adopted kid.",
+          "dialogSplit": ["Henry", "the", "Mayor's", "adopted", "kid"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Oh, Henry. Your Henry... and his book of stories, the ones that you choose to ignore. Maybe if you knew what I know, you wouldn't.",
+          "dialogSplit": [
+            "Oh",
+            "Henry",
+            "Your",
+            "Henry",
+            "and",
+            "his",
+            "book",
+            "of",
+            "stories",
+            "the",
+            "ones",
+            "that",
+            "you",
+            "choose",
+            "to",
+            "ignore",
+            "Maybe",
+            "if",
+            "you",
+            "knew",
+            "what",
+            "I",
+            "know",
+            "you",
+            "wouldn't"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Why have you been spying on me?",
+          "dialogSplit": ["Why", "have", "you", "been", "spying", "on", "me"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Because for the last 28 years, I've been stuck in this house, day after day, always the same. Until one night, you, in your little yellow Bug, roll into town, and the clock ticks and things start to change. You see... I know what you refuse to acknowledge, Emma. You're special. You brought something precious to Storybrooke\u2014magic.",
+          "dialogSplit": [
+            "Because",
+            "for",
+            "the",
+            "last",
+            "28",
+            "years",
+            "I've",
+            "been",
+            "stuck",
+            "in",
+            "this",
+            "house",
+            "day",
+            "after",
+            "day",
+            "always",
+            "the",
+            "same",
+            "Until",
+            "one",
+            "night",
+            "you",
+            "in",
+            "your",
+            "little",
+            "yellow",
+            "Bug",
+            "roll",
+            "into",
+            "town",
+            "and",
+            "the",
+            "clock",
+            "ticks",
+            "and",
+            "things",
+            "start",
+            "to",
+            "change",
+            "You",
+            "see",
+            "I",
+            "know",
+            "what",
+            "you",
+            "refuse",
+            "to",
+            "acknowledge",
+            "Emma",
+            "You're",
+            "special",
+            "You",
+            "brought",
+            "something",
+            "precious",
+            "to",
+            "Storybrooke",
+            "magic"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You're insane.",
+          "dialogSplit": ["You're", "insane"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Because I speak the truth?",
+          "dialogSplit": ["Because", "I", "speak", "the", "truth"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Because you're talking about magic.",
+          "dialogSplit": ["Because", "you're", "talking", "about", "magic"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm talking about what I've seen. Perhaps you're the one that's mad.",
+          "dialogSplit": [
+            "I'm",
+            "talking",
+            "about",
+            "what",
+            "I've",
+            "seen",
+            "Perhaps",
+            "you're",
+            "the",
+            "one",
+            "that's",
+            "mad"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Really?",
+          "dialogSplit": ["Really"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " What's crazier than seeing and not believing? Because that's exactly what you've been doing since you got to our little hamlet.  Open your eyes. Look around. Wake up. Isn't it about time?",
+          "dialogSplit": [
+            "What's",
+            "crazier",
+            "than",
+            "seeing",
+            "and",
+            "not",
+            "believing",
+            "Because",
+            "that's",
+            "exactly",
+            "what",
+            "you've",
+            "been",
+            "doing",
+            "since",
+            "you",
+            "got",
+            "to",
+            "our",
+            "little",
+            "hamlet",
+            "Open",
+            "your",
+            "eyes",
+            "Look",
+            "around",
+            "Wake",
+            "up",
+            "Isn't",
+            "it",
+            "about",
+            "time"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What do you want?",
+          "dialogSplit": ["What", "do", "you", "want"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I want you to get it to work. ",
+          "dialogSplit": ["I", "want", "you", "to", "get", "it", "to", "work"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You want me to get what to work? ",
+          "dialogSplit": [
+            "You",
+            "want",
+            "me",
+            "to",
+            "get",
+            "what",
+            "to",
+            "work"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You're the only one that can do this. You're gonna get it to work.",
+          "dialogSplit": [
+            "You're",
+            "the",
+            "only",
+            "one",
+            "that",
+            "can",
+            "do",
+            "this",
+            "You're",
+            "gonna",
+            "get",
+            "it",
+            "to",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Portal of Doors. Past. Jefferson and Evil Queen cross the room.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Evil Queen",
+          "dialog": " I forgot how magnificent you are.",
+          "dialogSplit": ["I", "forgot", "how", "magnificent", "you", "are"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm not here to relive the past. I'm here for my daughter.  Here. This is the entrance. It's important that we stick together. Same amount of people that go through have to come back. No more, no less. It's the hat's rule, not mine.",
+          "dialogSplit": [
+            "I'm",
+            "not",
+            "here",
+            "to",
+            "relive",
+            "the",
+            "past",
+            "I'm",
+            "here",
+            "for",
+            "my",
+            "daughter",
+            "Here",
+            "This",
+            "is",
+            "the",
+            "entrance",
+            "It's",
+            "important",
+            "that",
+            "we",
+            "stick",
+            "together",
+            "Same",
+            "amount",
+            "of",
+            "people",
+            "that",
+            "go",
+            "through",
+            "have",
+            "to",
+            "come",
+            "back",
+            "No",
+            "more",
+            "no",
+            "less",
+            "It's",
+            "the",
+            "hat's",
+            "rule",
+            "not",
+            "mine"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " I understand. ",
+          "dialogSplit": ["I", "understand"]
+        },
+        {
+          "character": "Caterpillar",
+          "dialog": " Who are you? Who... Who... ",
+          "dialogSplit": ["Who", "are", "you", "Who", "Who"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I hate Wonderland. ",
+          "dialogSplit": ["I", "hate", "Wonderland"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Jefferson's house. Jefferson drops some cloth on the table before Emma and points to the hat on the table.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Jefferson",
+          "dialog": " Make one like that.",
+          "dialogSplit": ["Make", "one", "like", "that"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You want me to make a hat? You don't have enough?",
+          "dialogSplit": [
+            "You",
+            "want",
+            "me",
+            "to",
+            "make",
+            "a",
+            "hat",
+            "You",
+            "don't",
+            "have",
+            "enough"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Well, none of them work, do they? Or else you wouldn't be here.  Now make a hat and get it to work.",
+          "dialogSplit": [
+            "Well",
+            "none",
+            "of",
+            "them",
+            "work",
+            "do",
+            "they",
+            "Or",
+            "else",
+            "you",
+            "wouldn't",
+            "be",
+            "here",
+            "Now",
+            "make",
+            "a",
+            "hat",
+            "and",
+            "get",
+            "it",
+            "to",
+            "work"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I don't--",
+          "dialogSplit": ["I", "don't"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You have magic, you can do it.",
+          "dialogSplit": ["You", "have", "magic", "you", "can", "do", "it"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " The hats, the tea... your psychotic behavior... You think you're the Mad Hatter.",
+          "dialogSplit": [
+            "The",
+            "hats",
+            "the",
+            "tea",
+            "your",
+            "psychotic",
+            "behavior",
+            "You",
+            "think",
+            "you're",
+            "the",
+            "Mad",
+            "Hatter"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " My name's Jefferson.",
+          "dialogSplit": ["My", "name's", "Jefferson"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Okay. You've clearly glommed onto my kid Henry's thing. They're just stories. The Mad Hatter is in \"Alice in Wonderland,\" a book. A book I actually read.",
+          "dialogSplit": [
+            "Okay",
+            "You've",
+            "clearly",
+            "glommed",
+            "onto",
+            "my",
+            "kid",
+            "Henry's",
+            "thing",
+            "They're",
+            "just",
+            "stories",
+            "The",
+            "Mad",
+            "Hatter",
+            "is",
+            "in",
+            "Alice",
+            "in",
+            "Wonderland",
+            "a",
+            "book",
+            "A",
+            "book",
+            "I",
+            "actually",
+            "read"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Stories... stories? What's a story? When you were in high school, did you learn about the Civil War?",
+          "dialogSplit": [
+            "Stories",
+            "stories",
+            "What's",
+            "a",
+            "story",
+            "When",
+            "you",
+            "were",
+            "in",
+            "high",
+            "school",
+            "did",
+            "you",
+            "learn",
+            "about",
+            "the",
+            "Civil",
+            "War"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Yeah, of course.",
+          "dialogSplit": ["Yeah", "of", "course"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " How? Did you read about it, perchance, in a book? How is that any less than any other book?",
+          "dialogSplit": [
+            "How",
+            "Did",
+            "you",
+            "read",
+            "about",
+            "it",
+            "perchance",
+            "in",
+            "a",
+            "book",
+            "How",
+            "is",
+            "that",
+            "any",
+            "less",
+            "than",
+            "any",
+            "other",
+            "book"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " History books are based on history.",
+          "dialogSplit": ["History", "books", "are", "based", "on", "history"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " And storybooks are based on what, imagination? Where does that come from? It has to come from somewhere.  You know what the issue is with this world? Everyone wants some magical solution to their problem, and everyone refuses to believe in magic.  Now get it to work.",
+          "dialogSplit": [
+            "And",
+            "storybooks",
+            "are",
+            "based",
+            "on",
+            "what",
+            "imagination",
+            "Where",
+            "does",
+            "that",
+            "come",
+            "from",
+            "It",
+            "has",
+            "to",
+            "come",
+            "from",
+            "somewhere",
+            "You",
+            "know",
+            "what",
+            "the",
+            "issue",
+            "is",
+            "with",
+            "this",
+            "world",
+            "Everyone",
+            "wants",
+            "some",
+            "magical",
+            "solution",
+            "to",
+            "their",
+            "problem",
+            "and",
+            "everyone",
+            "refuses",
+            "to",
+            "believe",
+            "in",
+            "magic",
+            "Now",
+            "get",
+            "it",
+            "to",
+            "work"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Here's the thing, Jefferson. This is it. This is the real world.",
+          "dialogSplit": [
+            "Here's",
+            "the",
+            "thing",
+            "Jefferson",
+            "This",
+            "is",
+            "it",
+            "This",
+            "is",
+            "the",
+            "real",
+            "world"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": "A real world.  How arrogant are you to think yours is the only one? There are infinite more. You have to open your mind. They touch one another, pressing up in a long line of lands, each just as real as the last. All have their own rules. Some have magic, some don't. And some need magic... Like this one.  And that's where you come in. You and your friend are not leaving here until you make my hat. Until you get it to work.",
+          "dialogSplit": [
+            "A",
+            "real",
+            "world",
+            "How",
+            "arrogant",
+            "are",
+            "you",
+            "to",
+            "think",
+            "yours",
+            "is",
+            "the",
+            "only",
+            "one",
+            "There",
+            "are",
+            "infinite",
+            "more",
+            "You",
+            "have",
+            "to",
+            "open",
+            "your",
+            "mind",
+            "They",
+            "touch",
+            "one",
+            "another",
+            "pressing",
+            "up",
+            "in",
+            "a",
+            "long",
+            "line",
+            "of",
+            "lands",
+            "each",
+            "just",
+            "as",
+            "real",
+            "as",
+            "the",
+            "last",
+            "All",
+            "have",
+            "their",
+            "own",
+            "rules",
+            "Some",
+            "have",
+            "magic",
+            "some",
+            "don't",
+            "And",
+            "some",
+            "need",
+            "magic",
+            "Like",
+            "this",
+            "one",
+            "And",
+            "that's",
+            "where",
+            "you",
+            "come",
+            "in",
+            "You",
+            "and",
+            "your",
+            "friend",
+            "are",
+            "not",
+            "leaving",
+            "here",
+            "until",
+            "you",
+            "make",
+            "my",
+            "hat",
+            "Until",
+            "you",
+            "get",
+            "it",
+            "to",
+            "work"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " And then what?",
+          "dialogSplit": ["And", "then", "what"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Then I go home.",
+          "dialogSplit": ["Then", "I", "go", "home"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Wonderland. Past. Jefferson and Evil Queen stand at the entrance of a very large hedge maze.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Jefferson",
+          "dialog": " You want to go in there?",
+          "dialogSplit": ["You", "want", "to", "go", "in", "there"]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " What I want is a short walk through.",
+          "dialogSplit": [
+            "What",
+            "I",
+            "want",
+            "is",
+            "a",
+            "short",
+            "walk",
+            "through"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " A short walk? You know who this belongs to.",
+          "dialogSplit": [
+            "A",
+            "short",
+            "walk",
+            "You",
+            "know",
+            "who",
+            "this",
+            "belongs",
+            "to"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " The Queen of Hearts. She's not one for subtlety.",
+          "dialogSplit": [
+            "The",
+            "Queen",
+            "of",
+            "Hearts",
+            "She's",
+            "not",
+            "one",
+            "for",
+            "subtlety"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " This wasn't part of our deal. You know what she does to anyone who crosses her?",
+          "dialogSplit": [
+            "This",
+            "wasn't",
+            "part",
+            "of",
+            "our",
+            "deal",
+            "You",
+            "know",
+            "what",
+            "she",
+            "does",
+            "to",
+            "anyone",
+            "who",
+            "crosses",
+            "her"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " Indeed. Better than most. You can't leave Wonderland without me. Two go through, two go back. You're not gonna let the Queen of Hearts keep you from returning to your daughter, are you? That's what I thought. ",
+          "dialogSplit": [
+            "Indeed",
+            "Better",
+            "than",
+            "most",
+            "You",
+            "can't",
+            "leave",
+            "Wonderland",
+            "without",
+            "me",
+            "Two",
+            "go",
+            "through",
+            "two",
+            "go",
+            "back",
+            "You're",
+            "not",
+            "gonna",
+            "let",
+            "the",
+            "Queen",
+            "of",
+            "Hearts",
+            "keep",
+            "you",
+            "from",
+            "returning",
+            "to",
+            "your",
+            "daughter",
+            "are",
+            "you",
+            "That's",
+            "what",
+            "I",
+            "thought"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Wait.  Stay away from the walls.",
+          "dialogSplit": ["Wait", "Stay", "away", "from", "the", "walls"]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " I've got a better idea. The walls should stay away from me. ",
+          "dialogSplit": [
+            "I've",
+            "got",
+            "a",
+            "better",
+            "idea",
+            "The",
+            "walls",
+            "should",
+            "stay",
+            "away",
+            "from",
+            "me"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Okay? You got what you need. Shall we? ",
+          "dialogSplit": [
+            "Okay",
+            "You",
+            "got",
+            "what",
+            "you",
+            "need",
+            "Shall",
+            "we"
+          ]
+        },
+        {
+          "character": "Man",
+          "dialog": " Trespassers! Halt!  Don't let them get away! ",
+          "dialogSplit": [
+            "Trespassers",
+            "Halt",
+            "Don't",
+            "let",
+            "them",
+            "get",
+            "away"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The looking glass, there it is!  Qu\u2014what are you doing? We can't stop now! We gotta get out of here!",
+          "dialogSplit": [
+            "The",
+            "looking",
+            "glass",
+            "there",
+            "it",
+            "is",
+            "Qu",
+            "what",
+            "are",
+            "you",
+            "doing",
+            "We",
+            "can't",
+            "stop",
+            "now",
+            "We",
+            "gotta",
+            "get",
+            "out",
+            "of",
+            "here"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " There's something I need to do first.  A little snack.",
+          "dialogSplit": [
+            "There's",
+            "something",
+            "I",
+            "need",
+            "to",
+            "do",
+            "first",
+            "A",
+            "little",
+            "snack"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Are you mad? Do you know what the food here does?",
+          "dialogSplit": [
+            "Are",
+            "you",
+            "mad",
+            "Do",
+            "you",
+            "know",
+            "what",
+            "the",
+            "food",
+            "here",
+            "does"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " I'm well aware.  Oh, Daddy. ",
+          "dialogSplit": ["I'm", "well", "aware", "Oh", "Daddy"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " This is what she took from you? Your father?",
+          "dialogSplit": [
+            "This",
+            "is",
+            "what",
+            "she",
+            "took",
+            "from",
+            "you",
+            "Your",
+            "father"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " The Queen of Hearts has always seen me as a threat.  So she wanted some leverage. I got it back.",
+          "dialogSplit": [
+            "The",
+            "Queen",
+            "of",
+            "Hearts",
+            "has",
+            "always",
+            "seen",
+            "me",
+            "as",
+            "a",
+            "threat",
+            "So",
+            "she",
+            "wanted",
+            "some",
+            "leverage",
+            "I",
+            "got",
+            "it",
+            "back"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " The Queen's soldiers. We must hurry.",
+          "dialogSplit": ["The", "Queen's", "soldiers", "We", "must", "hurry"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You knew only two can go through the hat. Which is why you didn't tell me about your father.",
+          "dialogSplit": [
+            "You",
+            "knew",
+            "only",
+            "two",
+            "can",
+            "go",
+            "through",
+            "the",
+            "hat",
+            "Which",
+            "is",
+            "why",
+            "you",
+            "didn't",
+            "tell",
+            "me",
+            "about",
+            "your",
+            "father"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " It was the only way to make sure you'd help me.",
+          "dialogSplit": [
+            "It",
+            "was",
+            "the",
+            "only",
+            "way",
+            "to",
+            "make",
+            "sure",
+            "you'd",
+            "help",
+            "me"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Uhh! Wait! Wait! Please. My daughter... My Grace\u2014She's--she's waiting for me. I promised her I'd be home for tea.",
+          "dialogSplit": [
+            "Uhh",
+            "Wait",
+            "Wait",
+            "Please",
+            "My",
+            "daughter",
+            "My",
+            "Grace",
+            "She's",
+            "she's",
+            "waiting",
+            "for",
+            "me",
+            "I",
+            "promised",
+            "her",
+            "I'd",
+            "be",
+            "home",
+            "for",
+            "tea"
+          ]
+        },
+        {
+          "character": "Evil Queen",
+          "dialog": " A promise which you now have broken. If you truly cared for your daughter, you never would have left her in the first place. You were right, Jefferson. You don't abandon family. ",
+          "dialogSplit": [
+            "A",
+            "promise",
+            "which",
+            "you",
+            "now",
+            "have",
+            "broken",
+            "If",
+            "you",
+            "truly",
+            "cared",
+            "for",
+            "your",
+            "daughter",
+            "you",
+            "never",
+            "would",
+            "have",
+            "left",
+            "her",
+            "in",
+            "the",
+            "first",
+            "place",
+            "You",
+            "were",
+            "right",
+            "Jefferson",
+            "You",
+            "don't",
+            "abandon",
+            "family"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " NOOOOO! No.",
+          "dialogSplit": ["NOOOOO", "No"]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " Take him to the Queen. ",
+          "dialogSplit": ["Take", "him", "to", "the", "Queen"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Wonderland. Past. The Queen of Hearts' palace. Jefferson is brought before her.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Knave of Hearts",
+          "dialog": " Her Majesty says she knows you're responsible for helping to steal from her.",
+          "dialogSplit": [
+            "Her",
+            "Majesty",
+            "says",
+            "she",
+            "knows",
+            "you're",
+            "responsible",
+            "for",
+            "helping",
+            "to",
+            "steal",
+            "from",
+            "her"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The Queen, she tricked--",
+          "dialogSplit": ["The", "Queen", "she", "tricked"]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": "That woman's name is Regina. There is only one Queen\u2014The Queen of Hearts.",
+          "dialogSplit": [
+            "That",
+            "woman's",
+            "name",
+            "is",
+            "Regina",
+            "There",
+            "is",
+            "only",
+            "one",
+            "Queen",
+            "The",
+            "Queen",
+            "of",
+            "Hearts"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Yes, of course. My apologies. Now, please...",
+          "dialogSplit": [
+            "Yes",
+            "of",
+            "course",
+            "My",
+            "apologies",
+            "Now",
+            "please"
+          ]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " Her Majesty wishes to know how you got to this world. How did you come to Wonderland?",
+          "dialogSplit": [
+            "Her",
+            "Majesty",
+            "wishes",
+            "to",
+            "know",
+            "how",
+            "you",
+            "got",
+            "to",
+            "this",
+            "world",
+            "How",
+            "did",
+            "you",
+            "come",
+            "to",
+            "Wonderland"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " If I tell you, will you let me go home to my daughter?",
+          "dialogSplit": [
+            "If",
+            "I",
+            "tell",
+            "you",
+            "will",
+            "you",
+            "let",
+            "me",
+            "go",
+            "home",
+            "to",
+            "my",
+            "daughter"
+          ]
+        },
+        {
+          "character": "Queen of Hearts",
+          "dialog": " Off with his head.",
+          "dialogSplit": ["Off", "with", "his", "head"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " No.  I'm alive? I'm alive!",
+          "dialogSplit": ["No", "I'm", "alive", "I'm", "alive"]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " If you wish your body back, then answer. How did you get here?",
+          "dialogSplit": [
+            "If",
+            "you",
+            "wish",
+            "your",
+            "body",
+            "back",
+            "then",
+            "answer",
+            "How",
+            "did",
+            "you",
+            "get",
+            "here"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " The\u2014the\u2014the hat. My hat. We used my hat.",
+          "dialogSplit": [
+            "The",
+            "the",
+            "the",
+            "hat",
+            "My",
+            "hat",
+            "We",
+            "used",
+            "my",
+            "hat"
+          ]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " Where's the hat now?",
+          "dialogSplit": ["Where's", "the", "hat", "now"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " She took it. Regina.",
+          "dialogSplit": ["She", "took", "it", "Regina"]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " If all you require to travel to your homeland is this magic hat, then surely, you could make another.",
+          "dialogSplit": [
+            "If",
+            "all",
+            "you",
+            "require",
+            "to",
+            "travel",
+            "to",
+            "your",
+            "homeland",
+            "is",
+            "this",
+            "magic",
+            "hat",
+            "then",
+            "surely",
+            "you",
+            "could",
+            "make",
+            "another"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I can't. A hat without magic is just a hat. It won't work.",
+          "dialogSplit": [
+            "I",
+            "can't",
+            "A",
+            "hat",
+            "without",
+            "magic",
+            "is",
+            "just",
+            "a",
+            "hat",
+            "It",
+            "won't",
+            "work"
+          ]
+        },
+        {
+          "character": "Knave of Hearts",
+          "dialog": " Then there's your task. Get it to work.",
+          "dialogSplit": [
+            "Then",
+            "there's",
+            "your",
+            "task",
+            "Get",
+            "it",
+            "to",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Jefferson's house. Emma has finished the hat. She slams it and the scissors down on the table.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " I can't make it work. What you're asking me is impossible.",
+          "dialogSplit": [
+            "I",
+            "can't",
+            "make",
+            "it",
+            "work",
+            "What",
+            "you're",
+            "asking",
+            "me",
+            "is",
+            "impossible"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " No! It has to be. If it's not, I'm never going home. I'll be cursed to live in this house forever.",
+          "dialogSplit": [
+            "No",
+            "It",
+            "has",
+            "to",
+            "be",
+            "If",
+            "it's",
+            "not",
+            "I'm",
+            "never",
+            "going",
+            "home",
+            "I'll",
+            "be",
+            "cursed",
+            "to",
+            "live",
+            "in",
+            "this",
+            "house",
+            "forever"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What is so cursed about your life? Look at this place, it's beautiful. It doesn't seem cursed to me.",
+          "dialogSplit": [
+            "What",
+            "is",
+            "so",
+            "cursed",
+            "about",
+            "your",
+            "life",
+            "Look",
+            "at",
+            "this",
+            "place",
+            "it's",
+            "beautiful",
+            "It",
+            "doesn't",
+            "seem",
+            "cursed",
+            "to",
+            "me"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " It's cursed because, like everyone else here, what I love has been ripped from me. Take a look.  Her name is Grace. Here it's Paige. But it's Grace. My Grace. Do you have any idea what it's like to watch her day in and day out, happy, with a new family? With a new father?",
+          "dialogSplit": [
+            "It's",
+            "cursed",
+            "because",
+            "like",
+            "everyone",
+            "else",
+            "here",
+            "what",
+            "I",
+            "love",
+            "has",
+            "been",
+            "ripped",
+            "from",
+            "me",
+            "Take",
+            "a",
+            "look",
+            "Her",
+            "name",
+            "is",
+            "Grace",
+            "Here",
+            "it's",
+            "Paige",
+            "But",
+            "it's",
+            "Grace",
+            "My",
+            "Grace",
+            "Do",
+            "you",
+            "have",
+            "any",
+            "idea",
+            "what",
+            "it's",
+            "like",
+            "to",
+            "watch",
+            "her",
+            "day",
+            "in",
+            "and",
+            "day",
+            "out",
+            "happy",
+            "with",
+            "a",
+            "new",
+            "family",
+            "With",
+            "a",
+            "new",
+            "father"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You think she's your daughter?",
+          "dialogSplit": ["You", "think", "she's", "your", "daughter"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I don't think. I know. I remember. She has no idea who I am. Our life together, where we come from. I do. That's my curse.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "think",
+            "I",
+            "know",
+            "I",
+            "remember",
+            "She",
+            "has",
+            "no",
+            "idea",
+            "who",
+            "I",
+            "am",
+            "Our",
+            "life",
+            "together",
+            "where",
+            "we",
+            "come",
+            "from",
+            "I",
+            "do",
+            "That's",
+            "my",
+            "curse"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " To remember.",
+          "dialogSplit": ["To", "remember"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " What good is this house, these things, if I can't share them with her?",
+          "dialogSplit": [
+            "What",
+            "good",
+            "is",
+            "this",
+            "house",
+            "these",
+            "things",
+            "if",
+            "I",
+            "can't",
+            "share",
+            "them",
+            "with",
+            "her"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " If you really think she's your daughter, why don't you reach out to her? Why don't you tell her?",
+          "dialogSplit": [
+            "If",
+            "you",
+            "really",
+            "think",
+            "she's",
+            "your",
+            "daughter",
+            "why",
+            "don't",
+            "you",
+            "reach",
+            "out",
+            "to",
+            "her",
+            "Why",
+            "don't",
+            "you",
+            "tell",
+            "her"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " And destroy her reality? I'm trapped by knowledge. How cruel do you think I am? You think I'd inflict that awareness on my daughter? It's hard enough to live in a land where you don't belong, but knowing it, holding conflicting realities in your head... will drive you mad.",
+          "dialogSplit": [
+            "And",
+            "destroy",
+            "her",
+            "reality",
+            "I'm",
+            "trapped",
+            "by",
+            "knowledge",
+            "How",
+            "cruel",
+            "do",
+            "you",
+            "think",
+            "I",
+            "am",
+            "You",
+            "think",
+            "I'd",
+            "inflict",
+            "that",
+            "awareness",
+            "on",
+            "my",
+            "daughter",
+            "It's",
+            "hard",
+            "enough",
+            "to",
+            "live",
+            "in",
+            "a",
+            "land",
+            "where",
+            "you",
+            "don't",
+            "belong",
+            "but",
+            "knowing",
+            "it",
+            "holding",
+            "conflicting",
+            "realities",
+            "in",
+            "your",
+            "head",
+            "will",
+            "drive",
+            "you",
+            "mad"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " That's why you want me to make the hat work, isn't it? You just wanna take Grace home, to your world.",
+          "dialogSplit": [
+            "That's",
+            "why",
+            "you",
+            "want",
+            "me",
+            "to",
+            "make",
+            "the",
+            "hat",
+            "work",
+            "isn't",
+            "it",
+            "You",
+            "just",
+            "wanna",
+            "take",
+            "Grace",
+            "home",
+            "to",
+            "your",
+            "world"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " It's the one world where we can be together... where she'll remember who I am.",
+          "dialogSplit": [
+            "It's",
+            "the",
+            "one",
+            "world",
+            "where",
+            "we",
+            "can",
+            "be",
+            "together",
+            "where",
+            "she'll",
+            "remember",
+            "who",
+            "I",
+            "am"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I know what it's like to be separated from your kid. ",
+          "dialogSplit": [
+            "I",
+            "know",
+            "what",
+            "it's",
+            "like",
+            "to",
+            "be",
+            "separated",
+            "from",
+            "your",
+            "kid"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Yeah, you do, don't you?",
+          "dialogSplit": ["Yeah", "you", "do", "don't", "you"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " It can make you feel like you're losing your mind.",
+          "dialogSplit": [
+            "It",
+            "can",
+            "make",
+            "you",
+            "feel",
+            "like",
+            "you're",
+            "losing",
+            "your",
+            "mind"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " I'm not losing my mind. I'm not crazy. This is real.",
+          "dialogSplit": [
+            "I'm",
+            "not",
+            "losing",
+            "my",
+            "mind",
+            "I'm",
+            "not",
+            "crazy",
+            "This",
+            "is",
+            "real"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Maybe. Maybe it is.",
+          "dialogSplit": ["Maybe", "Maybe", "it", "is"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " You believe?",
+          "dialogSplit": ["You", "believe"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " If what you say is true, that woman in the other room is my mother. And I want to believe that more than anything in the world. So maybe you're right. Maybe I need to open myself up more. Maybe if I want magic, I have to start believing.",
+          "dialogSplit": [
+            "If",
+            "what",
+            "you",
+            "say",
+            "is",
+            "true",
+            "that",
+            "woman",
+            "in",
+            "the",
+            "other",
+            "room",
+            "is",
+            "my",
+            "mother",
+            "And",
+            "I",
+            "want",
+            "to",
+            "believe",
+            "that",
+            "more",
+            "than",
+            "anything",
+            "in",
+            "the",
+            "world",
+            "So",
+            "maybe",
+            "you're",
+            "right",
+            "Maybe",
+            "I",
+            "need",
+            "to",
+            "open",
+            "myself",
+            "up",
+            "more",
+            "Maybe",
+            "if",
+            "I",
+            "want",
+            "magic",
+            "I",
+            "have",
+            "to",
+            "start",
+            "believing"
+          ]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " So you're gonna help me? You can get it to work?",
+          "dialogSplit": [
+            "So",
+            "you're",
+            "gonna",
+            "help",
+            "me",
+            "You",
+            "can",
+            "get",
+            "it",
+            "to",
+            "work"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I can try.  Crazy son of a bitch.  Hey, it's all right. I'm gonna get you out of here. You're gonna be okay. He can't hurt you anymore--",
+          "dialogSplit": [
+            "I",
+            "can",
+            "try",
+            "Crazy",
+            "son",
+            "of",
+            "a",
+            "bitch",
+            "Hey",
+            "it's",
+            "all",
+            "right",
+            "I'm",
+            "gonna",
+            "get",
+            "you",
+            "out",
+            "of",
+            "here",
+            "You're",
+            "gonna",
+            "be",
+            "okay",
+            "He",
+            "can't",
+            "hurt",
+            "you",
+            "anymore"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Emma, look out! ",
+          "dialogSplit": ["Emma", "look", "out"]
+        },
+        {
+          "character": "Jefferson",
+          "dialog": " Off with his head.  Are you okay?",
+          "dialogSplit": ["Off", "with", "his", "head", "Are", "you", "okay"]
+        },
+        { "character": "Emma", "dialog": " Yeah. ", "dialogSplit": ["Yeah"] }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Jefferson's house, exterior. Emma and Mary Margaret examine the hat on the ground.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " There's no sign of him anywhere.",
+          "dialogSplit": ["There's", "no", "sign", "of", "him", "anywhere"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Who was he?",
+          "dialogSplit": ["Who", "was", "he"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " A very lonely man. By the way, have you been taking kickboxing and not telling me about it?",
+          "dialogSplit": [
+            "A",
+            "very",
+            "lonely",
+            "man",
+            "By",
+            "the",
+            "way",
+            "have",
+            "you",
+            "been",
+            "taking",
+            "kickboxing",
+            "and",
+            "not",
+            "telling",
+            "me",
+            "about",
+            "it"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " I have no idea where that came from.  Oh. Emma, look.  So, Sheriff, I guess you'll be taking me back now.",
+          "dialogSplit": [
+            "I",
+            "have",
+            "no",
+            "idea",
+            "where",
+            "that",
+            "came",
+            "from",
+            "Oh",
+            "Emma",
+            "look",
+            "So",
+            "Sheriff",
+            "I",
+            "guess",
+            "you'll",
+            "be",
+            "taking",
+            "me",
+            "back",
+            "now"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Here. Go. ",
+          "dialogSplit": ["Here", "Go"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " You want me to run?",
+          "dialogSplit": ["You", "want", "me", "to", "run"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " No, but it's your choice. Just know something\u2014Running ain't easy, I've done my share of it. And once you go, there's no stopping.",
+          "dialogSplit": [
+            "No",
+            "but",
+            "it's",
+            "your",
+            "choice",
+            "Just",
+            "know",
+            "something",
+            "Running",
+            "ain't",
+            "easy",
+            "I've",
+            "done",
+            "my",
+            "share",
+            "of",
+            "it",
+            "And",
+            "once",
+            "you",
+            "go",
+            "there's",
+            "no",
+            "stopping"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Emma, everyone thinks I killed Kathryn.",
+          "dialogSplit": [
+            "Emma",
+            "everyone",
+            "thinks",
+            "I",
+            "killed",
+            "Kathryn"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Mary Margaret, you have to believe me. You have to trust me. I know it seems impossible, but I can get you out of this.",
+          "dialogSplit": [
+            "Mary",
+            "Margaret",
+            "you",
+            "have",
+            "to",
+            "believe",
+            "me",
+            "You",
+            "have",
+            "to",
+            "trust",
+            "me",
+            "I",
+            "know",
+            "it",
+            "seems",
+            "impossible",
+            "but",
+            "I",
+            "can",
+            "get",
+            "you",
+            "out",
+            "of",
+            "this"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Why is it so important to you what happens to me?",
+          "dialogSplit": [
+            "Why",
+            "is",
+            "it",
+            "so",
+            "important",
+            "to",
+            "you",
+            "what",
+            "happens",
+            "to",
+            "me"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Because when Regina framed me, and you bailed me, I asked you why and you said you trusted me. And then when I wanted to leave Storybrooke 'cause I thought it was best for Henry, you told me I need to stay because that was best for him. And I realized, all my life, I have been alone. Walls up. Nobody's ever been there for me, except for you. And I can't lose that. I cannot lose my family.",
+          "dialogSplit": [
+            "Because",
+            "when",
+            "Regina",
+            "framed",
+            "me",
+            "and",
+            "you",
+            "bailed",
+            "me",
+            "I",
+            "asked",
+            "you",
+            "why",
+            "and",
+            "you",
+            "said",
+            "you",
+            "trusted",
+            "me",
+            "And",
+            "then",
+            "when",
+            "I",
+            "wanted",
+            "to",
+            "leave",
+            "Storybrooke",
+            "cause",
+            "I",
+            "thought",
+            "it",
+            "was",
+            "best",
+            "for",
+            "Henry",
+            "you",
+            "told",
+            "me",
+            "I",
+            "need",
+            "to",
+            "stay",
+            "because",
+            "that",
+            "was",
+            "best",
+            "for",
+            "him",
+            "And",
+            "I",
+            "realized",
+            "all",
+            "my",
+            "life",
+            "I",
+            "have",
+            "been",
+            "alone",
+            "Walls",
+            "up",
+            "Nobody's",
+            "ever",
+            "been",
+            "there",
+            "for",
+            "me",
+            "except",
+            "for",
+            "you",
+            "And",
+            "I",
+            "can't",
+            "lose",
+            "that",
+            "I",
+            "cannot",
+            "lose",
+            "my",
+            "family"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Family?",
+          "dialogSplit": ["Family"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Friends. Whatever. You know what I mean. Wouldn't you rather face this together than alone? The arraignment. Regina.",
+          "dialogSplit": [
+            "Friends",
+            "Whatever",
+            "You",
+            "know",
+            "what",
+            "I",
+            "mean",
+            "Wouldn't",
+            "you",
+            "rather",
+            "face",
+            "this",
+            "together",
+            "than",
+            "alone",
+            "The",
+            "arraignment",
+            "Regina"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. The Sheriff's Department, exterior. The parking space marked 'Sheriff' is shown, still empty. Regina arrives and gets out of her car. She smirks as she heads inside. The scene transitions to the interior. As Regina walks into the main room, she stops, shocked. The camera pans to reveal Mary Margaret, in her cell, reading the newspaper.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Mary Margaret",
+          "dialog": " Madame Mayor.",
+          "dialogSplit": ["Madame", "Mayor"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Good morning.",
+          "dialogSplit": ["Good", "morning"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Excuse me, but my client is not having any visitors.",
+          "dialogSplit": [
+            "Excuse",
+            "me",
+            "but",
+            "my",
+            "client",
+            "is",
+            "not",
+            "having",
+            "any",
+            "visitors"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Of course not.",
+          "dialogSplit": ["Of", "course", "not"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " I'll see you out. ",
+          "dialogSplit": ["I'll", "see", "you", "out"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " What is she doing here?",
+          "dialogSplit": ["What", "is", "she", "doing", "here"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " She came back.",
+          "dialogSplit": ["She", "came", "back"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " You said this was going to work. That she'd take the key, that she'd go.",
+          "dialogSplit": [
+            "You",
+            "said",
+            "this",
+            "was",
+            "going",
+            "to",
+            "work",
+            "That",
+            "she'd",
+            "take",
+            "the",
+            "key",
+            "that",
+            "she'd",
+            "go"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " And she did. But it seems that Miss Swan is rather more resourceful than we thought. Fear not, your Majesty. Miss Blanchard is still guilty of murder. You may yet get what you want.",
+          "dialogSplit": [
+            "And",
+            "she",
+            "did",
+            "But",
+            "it",
+            "seems",
+            "that",
+            "Miss",
+            "Swan",
+            "is",
+            "rather",
+            "more",
+            "resourceful",
+            "than",
+            "we",
+            "thought",
+            "Fear",
+            "not",
+            "your",
+            "Majesty",
+            "Miss",
+            "Blanchard",
+            "is",
+            "still",
+            "guilty",
+            "of",
+            "murder",
+            "You",
+            "may",
+            "yet",
+            "get",
+            "what",
+            "you",
+            "want"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Oh, I better. The only reason I made a deal with you, Gold, is because I wanted results.",
+          "dialogSplit": [
+            "Oh",
+            "I",
+            "better",
+            "The",
+            "only",
+            "reason",
+            "I",
+            "made",
+            "a",
+            "deal",
+            "with",
+            "you",
+            "Gold",
+            "is",
+            "because",
+            "I",
+            "wanted",
+            "results"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " And results you shall have. See you at the arraignment.",
+          "dialogSplit": [
+            "And",
+            "results",
+            "you",
+            "shall",
+            "have",
+            "See",
+            "you",
+            "at",
+            "the",
+            "arraignment"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. The elementary school, exterior. Henry is sitting on a bench and Emma joins him.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " Henry. Well... I found Mary Margaret.",
+          "dialogSplit": ["Henry", "Well", "I", "found", "Mary", "Margaret"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " How is she?",
+          "dialogSplit": ["How", "is", "she"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " She's okay. Other than being on trial for murder, she's fine. ",
+          "dialogSplit": [
+            "She's",
+            "okay",
+            "Other",
+            "than",
+            "being",
+            "on",
+            "trial",
+            "for",
+            "murder",
+            "she's",
+            "fine"
+          ]
+        },
+        {
+          "character": "Paige",
+          "dialog": " Hi, Henry.",
+          "dialogSplit": ["Hi", "Henry"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Who is that?",
+          "dialogSplit": ["Who", "is", "that"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Her name is Paige. She goes to school with me.",
+          "dialogSplit": [
+            "Her",
+            "name",
+            "is",
+            "Paige",
+            "She",
+            "goes",
+            "to",
+            "school",
+            "with",
+            "me"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Henry, do you have your storybook with you? Can I see it?",
+          "dialogSplit": [
+            "Henry",
+            "do",
+            "you",
+            "have",
+            "your",
+            "storybook",
+            "with",
+            "you",
+            "Can",
+            "I",
+            "see",
+            "it"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Yeah, why? ",
+          "dialogSplit": ["Yeah", "why"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I'm just curious about something. ",
+          "dialogSplit": ["I'm", "just", "curious", "about", "something"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " What? What is it?",
+          "dialogSplit": ["What", "What", "is", "it"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Nothing. ",
+          "dialogSplit": ["Nothing"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Wonderland. Past. We see the Mad Hatter in the same scenario he was in in the illustration\u2014desperate to make the hat. He is crafting a hat, repeating \"Get it to work\" over and over.  ",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Mad Hatter",
+          "dialog": " Get it to work! Get it to work! Get it to work! Get it to work! ",
+          "dialogSplit": [
+            "Get",
+            "it",
+            "to",
+            "work",
+            "Get",
+            "it",
+            "to",
+            "work",
+            "Get",
+            "it",
+            "to",
+            "work",
+            "Get",
+            "it",
+            "to",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. The elementary school, exterior. The scene transitions back to Emma and Henry on the bench.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Henry",
+          "dialog": " Emma? Emma?  I gotta go.",
+          "dialogSplit": ["Emma", "Emma", "I", "gotta", "go"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Right. Can I hold on to this?",
+          "dialogSplit": ["Right", "Can", "I", "hold", "on", "to", "this"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Absolutely. ",
+          "dialogSplit": ["Absolutely"]
+        }
+      ]
+    }
+  ]
+}

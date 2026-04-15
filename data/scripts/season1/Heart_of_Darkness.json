@@ -1,0 +1,5528 @@
+{
+  "episode": "Heart_of_Darkness",
+  "scenes": [
+    {
+      "sceneDesc": "The Enchanted Forest. Past.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": "Red, look out! We need to move. They found us.",
+          "dialogSplit": [
+            "Red",
+            "look",
+            "out",
+            "We",
+            "need",
+            "to",
+            "move",
+            "They",
+            "found",
+            "us"
+          ]
+        },
+        {
+          "character": "Red",
+          "dialog": " Go. I'll take care of them.",
+          "dialogSplit": ["Go", "I'll", "take", "care", "of", "them"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Red, I'm not leaving you.",
+          "dialogSplit": ["Red", "I'm", "not", "leaving", "you"]
+        },
+        {
+          "character": "Red",
+          "dialog": " Find Snow. That's all that matters. Find her!",
+          "dialogSplit": [
+            "Find",
+            "Snow",
+            "That's",
+            "all",
+            "that",
+            "matters",
+            "Find",
+            "her"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " What are you gonna do?",
+          "dialogSplit": ["What", "are", "you", "gonna", "do"]
+        },
+        {
+          "character": "Red",
+          "dialog": " I'm giving you a head start.",
+          "dialogSplit": ["I'm", "giving", "you", "a", "head", "start"]
+        },
+        {
+          "character": "King George's men",
+          "dialog": " Yah! Yah! Yah!",
+          "dialogSplit": ["Yah", "Yah", "Yah"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present. Storybrooke Sheriff Department.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma Swan",
+          "dialog": " Please turn to the right.",
+          "dialogSplit": ["Please", "turn", "to", "the", "right"]
+        },
+        {
+          "character": "Mary Margaret Blanchard",
+          "dialog": " Emma, this is a mistake. I didn't killKathryn.",
+          "dialogSplit": [
+            "Emma",
+            "this",
+            "is",
+            "a",
+            "mistake",
+            "I",
+            "didn't",
+            "killKathryn"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Of course you didn't. But while I am your friend, I am also the sheriff, and I have to go where the evidence leads.",
+          "dialogSplit": [
+            "Of",
+            "course",
+            "you",
+            "didn't",
+            "But",
+            "while",
+            "I",
+            "am",
+            "your",
+            "friend",
+            "I",
+            "am",
+            "also",
+            "the",
+            "sheriff",
+            "and",
+            "I",
+            "have",
+            "to",
+            "go",
+            "where",
+            "the",
+            "evidence",
+            "leads"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Which points to me? Emma, yesterday it was David. There's something not right here.",
+          "dialogSplit": [
+            "Which",
+            "points",
+            "to",
+            "me",
+            "Emma",
+            "yesterday",
+            "it",
+            "was",
+            "David",
+            "There's",
+            "something",
+            "not",
+            "right",
+            "here"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I know, but your fingerprints were on that box, and his are not... so now we have to deal with... this.",
+          "dialogSplit": [
+            "I",
+            "know",
+            "but",
+            "your",
+            "fingerprints",
+            "were",
+            "on",
+            "that",
+            "box",
+            "and",
+            "his",
+            "are",
+            "not",
+            "so",
+            "now",
+            "we",
+            "have",
+            "to",
+            "deal",
+            "with",
+            "this"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Evidence that says I cut out Kathryn's heart and buried it in the woods? This is insane.",
+          "dialogSplit": [
+            "Evidence",
+            "that",
+            "says",
+            "I",
+            "cut",
+            "out",
+            "Kathryn's",
+            "heart",
+            "and",
+            "buried",
+            "it",
+            "in",
+            "the",
+            "woods",
+            "This",
+            "is",
+            "insane"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " If I don't book you, with all this evidence, it's gonna look like favoritism. And then Regina will have cause and she will fire me, and then you know what she'll do? She'll bring in someone who will railroad you. So please, just try to be patient and trust me. We can't even move forward till we verify the heart belonged to Kathryn, and I am still waiting for the DNA test results. But in the meantime, you need to bear with me. I have to ask you a few questions.",
+          "dialogSplit": [
+            "If",
+            "I",
+            "don't",
+            "book",
+            "you",
+            "with",
+            "all",
+            "this",
+            "evidence",
+            "it's",
+            "gonna",
+            "look",
+            "like",
+            "favoritism",
+            "And",
+            "then",
+            "Regina",
+            "will",
+            "have",
+            "cause",
+            "and",
+            "she",
+            "will",
+            "fire",
+            "me",
+            "and",
+            "then",
+            "you",
+            "know",
+            "what",
+            "she'll",
+            "do",
+            "She'll",
+            "bring",
+            "in",
+            "someone",
+            "who",
+            "will",
+            "railroad",
+            "you",
+            "So",
+            "please",
+            "just",
+            "try",
+            "to",
+            "be",
+            "patient",
+            "and",
+            "trust",
+            "me",
+            "We",
+            "can't",
+            "even",
+            "move",
+            "forward",
+            "till",
+            "we",
+            "verify",
+            "the",
+            "heart",
+            "belonged",
+            "to",
+            "Kathryn",
+            "and",
+            "I",
+            "am",
+            "still",
+            "waiting",
+            "for",
+            "the",
+            "DNA",
+            "test",
+            "results",
+            "But",
+            "in",
+            "the",
+            "meantime",
+            "you",
+            "need",
+            "to",
+            "bear",
+            "with",
+            "me",
+            "I",
+            "have",
+            "to",
+            "ask",
+            "you",
+            "a",
+            "few",
+            "questions"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " This is crazy. I would never hurt anyone.",
+          "dialogSplit": [
+            "This",
+            "is",
+            "crazy",
+            "I",
+            "would",
+            "never",
+            "hurt",
+            "anyone"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. The cottage.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Grumpy",
+          "dialog": "Snow? What are you... what are you doing?",
+          "dialogSplit": [
+            "Snow",
+            "What",
+            "are",
+            "you",
+            "what",
+            "are",
+            "you",
+            "doing"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Getting rid of the vermin in this house.  Yah!  Oh. What do you want?",
+          "dialogSplit": [
+            "Getting",
+            "rid",
+            "of",
+            "the",
+            "vermin",
+            "in",
+            "this",
+            "house",
+            "Yah",
+            "Oh",
+            "What",
+            "do",
+            "you",
+            "want"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " It's dinnertime.",
+          "dialogSplit": ["It's", "dinnertime"]
+        },
+        {
+          "character": "Snow White\u00a0",
+          "dialog": " I'm not hungry.",
+          "dialogSplit": ["I'm", "not", "hungry"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Come on. We made something extra special tonight.",
+          "dialogSplit": [
+            "Come",
+            "on",
+            "We",
+            "made",
+            "something",
+            "extra",
+            "special",
+            "tonight"
+          ]
+        },
+        {
+          "character": "Happy",
+          "dialog": " She's out of control.",
+          "dialogSplit": ["She's", "out", "of", "control"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Somebody die?",
+          "dialogSplit": ["Somebody", "die"]
+        },
+        {
+          "character": "Jiminy Cricket",
+          "dialog": " Snow, why don't you have a seat?",
+          "dialogSplit": ["Snow", "why", "don't", "you", "have", "a", "seat"]
+        },
+        { "character": "Snow White", "dialog": " Oh!", "dialogSplit": ["Oh"] },
+        { "character": "Jiminy", "dialog": " Ooh!", "dialogSplit": ["Ooh"] },
+        {
+          "character": "Snow White",
+          "dialog": " Why is there a dirty cricket in here!",
+          "dialogSplit": [
+            "Why",
+            "is",
+            "there",
+            "a",
+            "dirty",
+            "cricket",
+            "in",
+            "here"
+          ]
+        },
+        {
+          "character": "Jiminy",
+          "dialog": " Uhh! Uh, my name is Jiminy, and your friends have asked me to be here tonight. They're concerned about you and they have something they'd like to say. Grumpy, why don't you start?",
+          "dialogSplit": [
+            "Uhh",
+            "Uh",
+            "my",
+            "name",
+            "is",
+            "Jiminy",
+            "and",
+            "your",
+            "friends",
+            "have",
+            "asked",
+            "me",
+            "to",
+            "be",
+            "here",
+            "tonight",
+            "They're",
+            "concerned",
+            "about",
+            "you",
+            "and",
+            "they",
+            "have",
+            "something",
+            "they'd",
+            "like",
+            "to",
+            "say",
+            "Grumpy",
+            "why",
+            "don't",
+            "you",
+            "start"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Snow White, you've changed. You've become angry, irritable, and downright mean.",
+          "dialogSplit": [
+            "Snow",
+            "White",
+            "you've",
+            "changed",
+            "You've",
+            "become",
+            "angry",
+            "irritable",
+            "and",
+            "downright",
+            "mean"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": "Changed? And who are you to tell me I've changed?",
+          "dialogSplit": [
+            "Changed",
+            "And",
+            "who",
+            "are",
+            "you",
+            "to",
+            "tell",
+            "me",
+            "I've",
+            "changed"
+          ]
+        },
+        {
+          "character": "Jiminy",
+          "dialog": " Snow, please, these are your friends, and we're all here because we... we care about you. Who wants to go next?",
+          "dialogSplit": [
+            "Snow",
+            "please",
+            "these",
+            "are",
+            "your",
+            "friends",
+            "and",
+            "we're",
+            "all",
+            "here",
+            "because",
+            "we",
+            "we",
+            "care",
+            "about",
+            "you",
+            "Who",
+            "wants",
+            "to",
+            "go",
+            "next"
+          ]
+        },
+        {
+          "character": "Sneezy",
+          "dialog": " Uh... You brought bales of... straw into the house last night even though you know that I'm a... Ah... Ah ...  Allergic.",
+          "dialogSplit": [
+            "Uh",
+            "You",
+            "brought",
+            "bales",
+            "of",
+            "straw",
+            "into",
+            "the",
+            "house",
+            "last",
+            "night",
+            "even",
+            "though",
+            "you",
+            "know",
+            "that",
+            "I'm",
+            "a",
+            "Ah",
+            "Ah",
+            "Allergic"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " You are allergic to everything.",
+          "dialogSplit": ["You", "are", "allergic", "to", "everything"]
+        },
+        {
+          "character": "Happy",
+          "dialog": " You broke my mug!",
+          "dialogSplit": ["You", "broke", "my", "mug"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " You're lucky it wasn't that mug you call a face!",
+          "dialogSplit": [
+            "You're",
+            "lucky",
+            "it",
+            "wasn't",
+            "that",
+            "mug",
+            "you",
+            "call",
+            "a",
+            "face"
+          ]
+        },
+        {
+          "character": "Happy",
+          "dialog": "You are the worst, most nasty, horrible...",
+          "dialogSplit": [
+            "You",
+            "are",
+            "the",
+            "worst",
+            "most",
+            "nasty",
+            "horrible"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Enough! Look what you're doing to Happy. That potion you took... the one that erased the Prince from your mind... you haven't been the same since you drank it.",
+          "dialogSplit": [
+            "Enough",
+            "Look",
+            "what",
+            "you're",
+            "doing",
+            "to",
+            "Happy",
+            "That",
+            "potion",
+            "you",
+            "took",
+            "the",
+            "one",
+            "that",
+            "erased",
+            "the",
+            "Prince",
+            "from",
+            "your",
+            "mind",
+            "you",
+            "haven't",
+            "been",
+            "the",
+            "same",
+            "since",
+            "you",
+            "drank",
+            "it"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": "That helped me forget whatever or whomever I needed to forget, and I am clearly better off for it. That potion was the solution, not the problem. The problem is that I'm living here, in a house full of dwarves instead of in my palace, with my father, as a princess, but I can't do that anymore, can I? Because he was murdered, murdered by the same woman who sent a huntsman to kill me!",
+          "dialogSplit": [
+            "That",
+            "helped",
+            "me",
+            "forget",
+            "whatever",
+            "or",
+            "whomever",
+            "I",
+            "needed",
+            "to",
+            "forget",
+            "and",
+            "I",
+            "am",
+            "clearly",
+            "better",
+            "off",
+            "for",
+            "it",
+            "That",
+            "potion",
+            "was",
+            "the",
+            "solution",
+            "not",
+            "the",
+            "problem",
+            "The",
+            "problem",
+            "is",
+            "that",
+            "I'm",
+            "living",
+            "here",
+            "in",
+            "a",
+            "house",
+            "full",
+            "of",
+            "dwarves",
+            "instead",
+            "of",
+            "in",
+            "my",
+            "palace",
+            "with",
+            "my",
+            "father",
+            "as",
+            "a",
+            "princess",
+            "but",
+            "I",
+            "can't",
+            "do",
+            "that",
+            "anymore",
+            "can",
+            "I",
+            "Because",
+            "he",
+            "was",
+            "murdered",
+            "murdered",
+            "by",
+            "the",
+            "same",
+            "woman",
+            "who",
+            "sent",
+            "a",
+            "huntsman",
+            "to",
+            "kill",
+            "me"
+          ]
+        },
+        {
+          "character": "Jiminy",
+          "dialog": " Snow, your anger towards the Queen is understandable. It's just not fair to take it out on your friends.",
+          "dialogSplit": [
+            "Snow",
+            "your",
+            "anger",
+            "towards",
+            "the",
+            "Queen",
+            "is",
+            "understandable",
+            "It's",
+            "just",
+            "not",
+            "fair",
+            "to",
+            "take",
+            "it",
+            "out",
+            "on",
+            "your",
+            "friends"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " You're right. I should be taking it out on her.",
+          "dialogSplit": [
+            "You're",
+            "right",
+            "I",
+            "should",
+            "be",
+            "taking",
+            "it",
+            "out",
+            "on",
+            "her"
+          ]
+        },
+        {
+          "character": "Jiminy",
+          "dialog": " Oh, wait. Revenge is not the answer. No, it's gonna change you. It'll turn you into something darker than you can imagine. You don't want to go there. Snow White: Good news, fellas. You can quit your complaining because I'm leaving. I have more important things to do.",
+          "dialogSplit": [
+            "Oh",
+            "wait",
+            "Revenge",
+            "is",
+            "not",
+            "the",
+            "answer",
+            "No",
+            "it's",
+            "gonna",
+            "change",
+            "you",
+            "It'll",
+            "turn",
+            "you",
+            "into",
+            "something",
+            "darker",
+            "than",
+            "you",
+            "can",
+            "imagine",
+            "You",
+            "don't",
+            "want",
+            "to",
+            "go",
+            "there",
+            "Snow",
+            "White",
+            "Good",
+            "news",
+            "fellas",
+            "You",
+            "can",
+            "quit",
+            "your",
+            "complaining",
+            "because",
+            "I'm",
+            "leaving",
+            "I",
+            "have",
+            "more",
+            "important",
+            "things",
+            "to",
+            "do"
+          ]
+        },
+        {
+          "character": "Jiminy",
+          "dialog": " Wait. Don't go.",
+          "dialogSplit": ["Wait", "Don't", "go"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Snow. Wait. Where are you going? (Snow White picks up an axe.)",
+          "dialogSplit": [
+            "Snow",
+            "Wait",
+            "Where",
+            "are",
+            "you",
+            "going",
+            "Snow",
+            "White",
+            "picks",
+            "up",
+            "an",
+            "axe"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " To kill the Queen.",
+          "dialogSplit": ["To", "kill", "the", "Queen"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. The Sheriff Department. Emma guides Mary Margaret to the interrogation room. Regina Mills awaits them.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Regina",
+          "dialog": " Hello Miss Blanchard. ",
+          "dialogSplit": ["Hello", "Miss", "Blanchard"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " What is she doing here?",
+          "dialogSplit": ["What", "is", "she", "doing", "here"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " She asked to be here as a third party to make sure that I stay impartial. It can only help you. ",
+          "dialogSplit": [
+            "She",
+            "asked",
+            "to",
+            "be",
+            "here",
+            "as",
+            "a",
+            "third",
+            "party",
+            "to",
+            "make",
+            "sure",
+            "that",
+            "I",
+            "stay",
+            "impartial",
+            "It",
+            "can",
+            "only",
+            "help",
+            "you"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " I have nothing to hide. Ask me anything. ",
+          "dialogSplit": [
+            "I",
+            "have",
+            "nothing",
+            "to",
+            "hide",
+            "Ask",
+            "me",
+            "anything"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " The heart was found buried near the old Troll Bridge. It had been cut out by what appears to be a hunting knife.  Have you ever been to that bridge before?",
+          "dialogSplit": [
+            "The",
+            "heart",
+            "was",
+            "found",
+            "buried",
+            "near",
+            "the",
+            "old",
+            "Troll",
+            "Bridge",
+            "It",
+            "had",
+            "been",
+            "cut",
+            "out",
+            "by",
+            "what",
+            "appears",
+            "to",
+            "be",
+            "a",
+            "hunting",
+            "knife",
+            "Have",
+            "you",
+            "ever",
+            "been",
+            "to",
+            "that",
+            "bridge",
+            "before"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Yes, many times. It's where David and I liked to meet.",
+          "dialogSplit": [
+            "Yes",
+            "many",
+            "times",
+            "It's",
+            "where",
+            "David",
+            "and",
+            "I",
+            "liked",
+            "to",
+            "meet"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " MrNolan?",
+          "dialogSplit": ["MrNolan"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Yes.",
+          "dialogSplit": ["Yes"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " And you met there for what purpose? ",
+          "dialogSplit": [
+            "And",
+            "you",
+            "met",
+            "there",
+            "for",
+            "what",
+            "purpose"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " We were having an affair. I'm not proud of what happened and I'm sorry. But that doesn't change the fact that I did not kill Kathryn.",
+          "dialogSplit": [
+            "We",
+            "were",
+            "having",
+            "an",
+            "affair",
+            "I'm",
+            "not",
+            "proud",
+            "of",
+            "what",
+            "happened",
+            "and",
+            "I'm",
+            "sorry",
+            "But",
+            "that",
+            "doesn't",
+            "change",
+            "the",
+            "fact",
+            "that",
+            "I",
+            "did",
+            "not",
+            "kill",
+            "Kathryn"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Have you ever seen this before?",
+          "dialogSplit": ["Have", "you", "ever", "seen", "this", "before"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Yes, that's my jewelry box.",
+          "dialogSplit": ["Yes", "that's", "my", "jewelry", "box"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " That's where we found the heart in. ",
+          "dialogSplit": [
+            "That's",
+            "where",
+            "we",
+            "found",
+            "the",
+            "heart",
+            "in"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Don't you see what's happening here. Someone stole that box and put the heart in it. I didn't have anything to do with it. I'm innocent.",
+          "dialogSplit": [
+            "Don't",
+            "you",
+            "see",
+            "what's",
+            "happening",
+            "here",
+            "Someone",
+            "stole",
+            "that",
+            "box",
+            "and",
+            "put",
+            "the",
+            "heart",
+            "in",
+            "it",
+            "I",
+            "didn't",
+            "have",
+            "anything",
+            "to",
+            "do",
+            "with",
+            "it",
+            "I'm",
+            "innocent"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Miss Blanchard, it\u2019s okay. I know what you\u2019re going through. I know what it\u2019s like to lose someone you love. To be publicly humiliated. It put me in a very dark place. Changed me. I can only imagine what losing David Nolan did to you.",
+          "dialogSplit": [
+            "Miss",
+            "Blanchard",
+            "it",
+            "s",
+            "okay",
+            "I",
+            "know",
+            "what",
+            "you",
+            "re",
+            "going",
+            "through",
+            "I",
+            "know",
+            "what",
+            "it",
+            "s",
+            "like",
+            "to",
+            "lose",
+            "someone",
+            "you",
+            "love",
+            "To",
+            "be",
+            "publicly",
+            "humiliated",
+            "It",
+            "put",
+            "me",
+            "in",
+            "a",
+            "very",
+            "dark",
+            "place",
+            "Changed",
+            "me",
+            "I",
+            "can",
+            "only",
+            "imagine",
+            "what",
+            "losing",
+            "David",
+            "Nolan",
+            "did",
+            "to",
+            "you"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " But, I haven\u2019t changed. I\u2019m still the same person I\u2019ve always been - a good person. I did not do this.",
+          "dialogSplit": [
+            "But",
+            "I",
+            "haven",
+            "t",
+            "changed",
+            "I",
+            "m",
+            "still",
+            "the",
+            "same",
+            "person",
+            "I",
+            "ve",
+            "always",
+            "been",
+            "a",
+            "good",
+            "person",
+            "I",
+            "did",
+            "not",
+            "do",
+            "this"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Can I speak to you in the hallway, please?  I told you to leave the questioning to me.",
+          "dialogSplit": [
+            "Can",
+            "I",
+            "speak",
+            "to",
+            "you",
+            "in",
+            "the",
+            "hallway",
+            "please",
+            "I",
+            "told",
+            "you",
+            "to",
+            "leave",
+            "the",
+            "questioning",
+            "to",
+            "me"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " How do you know she didn\u2019t do it? If that box was stolen from her as she claims, don\u2019t you think there\u2019d be signs of a break in? Well, you\u2019re her roommate. Tell me, has there been a break in? She\u2019s a woman who\u2019s had her heart broken. And that  that can make you do unspeakable things.",
+          "dialogSplit": [
+            "How",
+            "do",
+            "you",
+            "know",
+            "she",
+            "didn",
+            "t",
+            "do",
+            "it",
+            "If",
+            "that",
+            "box",
+            "was",
+            "stolen",
+            "from",
+            "her",
+            "as",
+            "she",
+            "claims",
+            "don",
+            "t",
+            "you",
+            "think",
+            "there",
+            "d",
+            "be",
+            "signs",
+            "of",
+            "a",
+            "break",
+            "in",
+            "Well",
+            "you",
+            "re",
+            "her",
+            "roommate",
+            "Tell",
+            "me",
+            "has",
+            "there",
+            "been",
+            "a",
+            "break",
+            "in",
+            "She",
+            "s",
+            "a",
+            "woman",
+            "who",
+            "s",
+            "had",
+            "her",
+            "heart",
+            "broken",
+            "And",
+            "that",
+            "that",
+            "can",
+            "make",
+            "you",
+            "do",
+            "unspeakable",
+            "things"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Past. A Black Knight rides through the woods. Snow White hides behind a tee and watches him. Snow White is able to throw the Black Knight of his horse. She approaches her captive. The Black Knight groans. Using the blunt end of the pick axe, she hits the knight\u2019s ankle.",
+      "tense": "Past",
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Snow White",
+          "dialog": " It\u2019ll heal. Eventually. ",
+          "dialogSplit": ["It", "ll", "heal", "Eventually"]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " What do you want?",
+          "dialogSplit": ["What", "do", "you", "want"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Information. Where\u2019s the Queen?",
+          "dialogSplit": ["Information", "Where", "s", "the", "Queen"]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " Why would I tell you? ",
+          "dialogSplit": ["Why", "would", "I", "tell", "you"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Do you know what a diamond is? It\u2019s the strongest substance known to man or beast. Beautiful. Precious. Nearly impervious to destruction. Nearly.  This is an axe from the dwarves\u2019 mines. It\u2019s a special blade. It can, believe it, or not, actually cut a diamond. Imagine what it can do to human flesh.  Soft, pliable, tender flesh. ",
+          "dialogSplit": [
+            "Do",
+            "you",
+            "know",
+            "what",
+            "a",
+            "diamond",
+            "is",
+            "It",
+            "s",
+            "the",
+            "strongest",
+            "substance",
+            "known",
+            "to",
+            "man",
+            "or",
+            "beast",
+            "Beautiful",
+            "Precious",
+            "Nearly",
+            "impervious",
+            "to",
+            "destruction",
+            "Nearly",
+            "This",
+            "is",
+            "an",
+            "axe",
+            "from",
+            "the",
+            "dwarves",
+            "mines",
+            "It",
+            "s",
+            "a",
+            "special",
+            "blade",
+            "It",
+            "can",
+            "believe",
+            "it",
+            "or",
+            "not",
+            "actually",
+            "cut",
+            "a",
+            "diamond",
+            "Imagine",
+            "what",
+            "it",
+            "can",
+            "do",
+            "to",
+            "human",
+            "flesh",
+            "Soft",
+            "pliable",
+            "tender",
+            "flesh"
+          ]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " She's at her castle. But, only for the night. In the morning she leaves for the summer palace. Please! That's all I know.",
+          "dialogSplit": [
+            "She's",
+            "at",
+            "her",
+            "castle",
+            "But",
+            "only",
+            "for",
+            "the",
+            "night",
+            "In",
+            "the",
+            "morning",
+            "she",
+            "leaves",
+            "for",
+            "the",
+            "summer",
+            "palace",
+            "Please",
+            "That's",
+            "all",
+            "I",
+            "know"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": ": That summer palace was build for my mother. ",
+          "dialogSplit": [
+            "That",
+            "summer",
+            "palace",
+            "was",
+            "build",
+            "for",
+            "my",
+            "mother"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "The Enchanted Forest. Grumpy confronts Snow White who has stripped the Black Knight of his armor and weapons.''",
+      "tense": null,
+      "location": "The Enchanted Forest",
+      "dialog": [
+        {
+          "character": "Grumpy",
+          "dialog": " What do you think you're doing?",
+          "dialogSplit": ["What", "do", "you", "think", "you're", "doing"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I already told you. I'm going to kill the Queen.",
+          "dialogSplit": [
+            "I",
+            "already",
+            "told",
+            "you",
+            "I'm",
+            "going",
+            "to",
+            "kill",
+            "the",
+            "Queen"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " By stealing the armor of a knight?",
+          "dialogSplit": ["By", "stealing", "the", "armor", "of", "a", "knight"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Whatever I have to do to get into that castle. So, get out of my way. I have to get there before she departs.",
+          "dialogSplit": [
+            "Whatever",
+            "I",
+            "have",
+            "to",
+            "do",
+            "to",
+            "get",
+            "into",
+            "that",
+            "castle",
+            "So",
+            "get",
+            "out",
+            "of",
+            "my",
+            "way",
+            "I",
+            "have",
+            "to",
+            "get",
+            "there",
+            "before",
+            "she",
+            "departs"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Have you lost your mind? You really think this disguise is going to fool anybody?",
+          "dialogSplit": [
+            "Have",
+            "you",
+            "lost",
+            "your",
+            "mind",
+            "You",
+            "really",
+            "think",
+            "this",
+            "disguise",
+            "is",
+            "going",
+            "to",
+            "fool",
+            "anybody"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I'm getting in there. ",
+          "dialogSplit": ["I'm", "getting", "in", "there"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Listen to yourself. All you care about is revenge. You can't even see reality anymore.",
+          "dialogSplit": [
+            "Listen",
+            "to",
+            "yourself",
+            "All",
+            "you",
+            "care",
+            "about",
+            "is",
+            "revenge",
+            "You",
+            "can't",
+            "even",
+            "see",
+            "reality",
+            "anymore"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " What I don't need, is to be lectured by a dwarf with a bad attitude.",
+          "dialogSplit": [
+            "What",
+            "I",
+            "don't",
+            "need",
+            "is",
+            "to",
+            "be",
+            "lectured",
+            "by",
+            "a",
+            "dwarf",
+            "with",
+            "a",
+            "bad",
+            "attitude"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " I didn't come here to lecture you. I came here to help you.",
+          "dialogSplit": [
+            "I",
+            "didn't",
+            "come",
+            "here",
+            "to",
+            "lecture",
+            "you",
+            "I",
+            "came",
+            "here",
+            "to",
+            "help",
+            "you"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Help me? How?",
+          "dialogSplit": ["Help", "me", "How"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " By taking you back to Rumplestiltskin. He's the one who gave you the potion in the first place \u2013 the one that took away all your memories of your Prince. If anyone can give them back to you, it's him.",
+          "dialogSplit": [
+            "By",
+            "taking",
+            "you",
+            "back",
+            "to",
+            "Rumplestiltskin",
+            "He's",
+            "the",
+            "one",
+            "who",
+            "gave",
+            "you",
+            "the",
+            "potion",
+            "in",
+            "the",
+            "first",
+            "place",
+            "the",
+            "one",
+            "that",
+            "took",
+            "away",
+            "all",
+            "your",
+            "memories",
+            "of",
+            "your",
+            "Prince",
+            "If",
+            "anyone",
+            "can",
+            "give",
+            "them",
+            "back",
+            "to",
+            "you",
+            "it's",
+            "him"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I don't want my memories back. That's why I took the potion.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "want",
+            "my",
+            "memories",
+            "back",
+            "That's",
+            "why",
+            "I",
+            "took",
+            "the",
+            "potion"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " And it changed you. Maybe he can at least bring you back to the person you used to be. He's the most powerful man in the world. He can do anything.",
+          "dialogSplit": [
+            "And",
+            "it",
+            "changed",
+            "you",
+            "Maybe",
+            "he",
+            "can",
+            "at",
+            "least",
+            "bring",
+            "you",
+            "back",
+            "to",
+            "the",
+            "person",
+            "you",
+            "used",
+            "to",
+            "be",
+            "He's",
+            "the",
+            "most",
+            "powerful",
+            "man",
+            "in",
+            "the",
+            "world",
+            "He",
+            "can",
+            "do",
+            "anything"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Anything?",
+          "dialogSplit": ["Anything"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. The Blanchard loft. Looking for signs of a break in Emma examines the door closely. She then turns to investigate the apartment\u2019s windows. Henry Mills enters.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " Henry. What are you doing here? Why aren't you in school?",
+          "dialogSplit": [
+            "Henry",
+            "What",
+            "are",
+            "you",
+            "doing",
+            "here",
+            "Why",
+            "aren't",
+            "you",
+            "in",
+            "school"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " We have to help Miss Blanchard.",
+          "dialogSplit": ["We", "have", "to", "help", "Miss", "Blanchard"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I am helping her. That's why I'm searching the apartment. But you got to go home.",
+          "dialogSplit": [
+            "I",
+            "am",
+            "helping",
+            "her",
+            "That's",
+            "why",
+            "I'm",
+            "searching",
+            "the",
+            "apartment",
+            "But",
+            "you",
+            "got",
+            "to",
+            "go",
+            "home"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Not going to happen.",
+          "dialogSplit": ["Not", "going", "to", "happen"]
+        },
+        {
+          "character": "Emma",
+          "dialog": ": Just stay out of the way.",
+          "dialogSplit": ["Just", "stay", "out", "of", "the", "way"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " So, what are we looking for.",
+          "dialogSplit": ["So", "what", "are", "we", "looking", "for"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I'm trying to see, if, maybe, someone broke in.  Looking for busted door jambs,  broken glass, muddy footprints. That kind of thing.",
+          "dialogSplit": [
+            "I'm",
+            "trying",
+            "to",
+            "see",
+            "if",
+            "maybe",
+            "someone",
+            "broke",
+            "in",
+            "Looking",
+            "for",
+            "busted",
+            "door",
+            "jambs",
+            "broken",
+            "glass",
+            "muddy",
+            "footprints",
+            "That",
+            "kind",
+            "of",
+            "thing"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " So, you think someone's  setting her up?",
+          "dialogSplit": [
+            "So",
+            "you",
+            "think",
+            "someone's",
+            "setting",
+            "her",
+            "up"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " It's the only thing that makes sense. The only problem is, nobody's got a motive.",
+          "dialogSplit": [
+            "It's",
+            "the",
+            "only",
+            "thing",
+            "that",
+            "makes",
+            "sense",
+            "The",
+            "only",
+            "problem",
+            "is",
+            "nobody's",
+            "got",
+            "a",
+            "motive"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " My mom does.",
+          "dialogSplit": ["My", "mom", "does"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Regina?",
+          "dialogSplit": ["Regina"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " She hates Snow White.  Hey, you wanted a motive.",
+          "dialogSplit": [
+            "She",
+            "hates",
+            "Snow",
+            "White",
+            "Hey",
+            "you",
+            "wanted",
+            "a",
+            "motive"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Well, I don't think \"She hates Snow White.\" will hold up in a court, Henry. ",
+          "dialogSplit": [
+            "Well",
+            "I",
+            "don't",
+            "think",
+            "She",
+            "hates",
+            "Snow",
+            "White",
+            "will",
+            "hold",
+            "up",
+            "in",
+            "a",
+            "court",
+            "Henry"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Did you find something?",
+          "dialogSplit": ["Did", "you", "find", "something"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Granny's Diner. Ruby serves Henry a cacao with cinnamon. August Booth enters and joins an upset Henry.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "August",
+          "dialog": " I don't think that hot chocolate it's gonna drink itself. You're upset about your teacher, aren't you?",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "think",
+            "that",
+            "hot",
+            "chocolate",
+            "it's",
+            "gonna",
+            "drink",
+            "itself",
+            "You're",
+            "upset",
+            "about",
+            "your",
+            "teacher",
+            "aren't",
+            "you"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " She didn't do it. Why can't anyone see that?",
+          "dialogSplit": [
+            "She",
+            "didn't",
+            "do",
+            "it",
+            "Why",
+            "can't",
+            "anyone",
+            "see",
+            "that"
+          ]
+        },
+        {
+          "character": "August",
+          "dialog": " Because most people just see what's right in front of them. I don't think you gonna find the answers you want at the bottom of that mug.",
+          "dialogSplit": [
+            "Because",
+            "most",
+            "people",
+            "just",
+            "see",
+            "what's",
+            "right",
+            "in",
+            "front",
+            "of",
+            "them",
+            "I",
+            "don't",
+            "think",
+            "you",
+            "gonna",
+            "find",
+            "the",
+            "answers",
+            "you",
+            "want",
+            "at",
+            "the",
+            "bottom",
+            "of",
+            "that",
+            "mug"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Then where?",
+          "dialogSplit": ["Then", "where"]
+        },
+        {
+          "character": "August",
+          "dialog": " That book in your bag? You know, I'm a writer. So, I'm partial to finding my answers in a literary form.",
+          "dialogSplit": [
+            "That",
+            "book",
+            "in",
+            "your",
+            "bag",
+            "You",
+            "know",
+            "I'm",
+            "a",
+            "writer",
+            "So",
+            "I'm",
+            "partial",
+            "to",
+            "finding",
+            "my",
+            "answers",
+            "in",
+            "a",
+            "literary",
+            "form"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " It's just a book.",
+          "dialogSplit": ["It's", "just", "a", "book"]
+        },
+        {
+          "character": "August",
+          "dialog": " Is it? ",
+          "dialogSplit": ["Is", "it"]
+        },
+        { "character": "Henry", "dialog": " Yeah.", "dialogSplit": ["Yeah"] },
+        {
+          "character": "August",
+          "dialog": " I think, we both know that's not the case.  Can I have a water, please? ",
+          "dialogSplit": [
+            "I",
+            "think",
+            "we",
+            "both",
+            "know",
+            "that's",
+            "not",
+            "the",
+            "case",
+            "Can",
+            "I",
+            "have",
+            "a",
+            "water",
+            "please"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " What do you know about it?",
+          "dialogSplit": ["What", "do", "you", "know", "about", "it"]
+        },
+        {
+          "character": "August",
+          "dialog": " I know it's a book of stories.",
+          "dialogSplit": ["I", "know", "it's", "a", "book", "of", "stories"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Aren\u2019t all books?",
+          "dialogSplit": ["Aren", "t", "all", "books"]
+        },
+        {
+          "character": "August",
+          "dialog": " Stories that really happened.",
+          "dialogSplit": ["Stories", "that", "really", "happened"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " You think my book is real?",
+          "dialogSplit": ["You", "think", "my", "book", "is", "real"]
+        },
+        {
+          "character": "August",
+          "dialog": " As real as I am.",
+          "dialogSplit": ["As", "real", "as", "I", "am"]
+        },
+        {
+          "character": "Henry",
+          "dialog": " How do you know?",
+          "dialogSplit": ["How", "do", "you", "know"]
+        },
+        {
+          "character": "August",
+          "dialog": " Let's just say that I'm a believer. And I wanna help others see the light. That, my friend, is why I'm here.",
+          "dialogSplit": [
+            "Let's",
+            "just",
+            "say",
+            "that",
+            "I'm",
+            "a",
+            "believer",
+            "And",
+            "I",
+            "wanna",
+            "help",
+            "others",
+            "see",
+            "the",
+            "light",
+            "That",
+            "my",
+            "friend",
+            "is",
+            "why",
+            "I'm",
+            "here"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " But I already believe.",
+          "dialogSplit": ["But", "I", "already", "believe"]
+        },
+        {
+          "character": "August",
+          "dialog": " Oh, I'm not here for you, buddy. I'm here for Emma.",
+          "dialogSplit": [
+            "Oh",
+            "I'm",
+            "not",
+            "here",
+            "for",
+            "you",
+            "buddy",
+            "I'm",
+            "here",
+            "for",
+            "Emma"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " So, you wanna get her to believe? Why don't you just tell her.",
+          "dialogSplit": [
+            "So",
+            "you",
+            "wanna",
+            "get",
+            "her",
+            "to",
+            "believe",
+            "Why",
+            "don't",
+            "you",
+            "just",
+            "tell",
+            "her"
+          ]
+        },
+        {
+          "character": "August",
+          "dialog": " There are some people - like you and me - we can go on faith. But others - like Emma - they need proof.",
+          "dialogSplit": [
+            "There",
+            "are",
+            "some",
+            "people",
+            "like",
+            "you",
+            "and",
+            "me",
+            "we",
+            "can",
+            "go",
+            "on",
+            "faith",
+            "But",
+            "others",
+            "like",
+            "Emma",
+            "they",
+            "need",
+            "proof"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": "Last time I tried to find proof I got trapped in a sinkhole.",
+          "dialogSplit": [
+            "Last",
+            "time",
+            "I",
+            "tried",
+            "to",
+            "find",
+            "proof",
+            "I",
+            "got",
+            "trapped",
+            "in",
+            "a",
+            "sinkhole"
+          ]
+        },
+        {
+          "character": "August",
+          "dialog": " There are less dangerous places to look. ",
+          "dialogSplit": [
+            "There",
+            "are",
+            "less",
+            "dangerous",
+            "places",
+            "to",
+            "look"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Prince Charming dismounts his horse in order to examine footprints in the snow more closely. He unsheathes his sword and carefully follows them. A few yards ahead a nude knight wanders through the woods.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": " Put your hands where I can see them.  Uh, on second thought, don't.  Who did this?",
+          "dialogSplit": [
+            "Put",
+            "your",
+            "hands",
+            "where",
+            "I",
+            "can",
+            "see",
+            "them",
+            "Uh",
+            "on",
+            "second",
+            "thought",
+            "don't",
+            "Who",
+            "did",
+            "this"
+          ]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " She's crazy. She had a pick axe. She threatened to skin me.",
+          "dialogSplit": [
+            "She's",
+            "crazy",
+            "She",
+            "had",
+            "a",
+            "pick",
+            "axe",
+            "She",
+            "threatened",
+            "to",
+            "skin",
+            "me"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " The Evil Queen?",
+          "dialogSplit": ["The", "Evil", "Queen"]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " No. Snow White.",
+          "dialogSplit": ["No", "Snow", "White"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " What?",
+          "dialogSplit": ["What"]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " She said she wanted to kill the Queen. I\u2019ve never seen someone so bloodthirsty.",
+          "dialogSplit": [
+            "She",
+            "said",
+            "she",
+            "wanted",
+            "to",
+            "kill",
+            "the",
+            "Queen",
+            "I",
+            "ve",
+            "never",
+            "seen",
+            "someone",
+            "so",
+            "bloodthirsty"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " No. Snow's not bloodthirsty. She's not a killer. I know her.",
+          "dialogSplit": [
+            "No",
+            "Snow's",
+            "not",
+            "bloodthirsty",
+            "She's",
+            "not",
+            "a",
+            "killer",
+            "I",
+            "know",
+            "her"
+          ]
+        },
+        {
+          "character": "Black Knight",
+          "dialog": " Maybe you don't.",
+          "dialogSplit": ["Maybe", "you", "don't"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Storybrooke Town Hall. Mayor's Office. Regina skins an apple. There\u2019s a knock on the door and David enters her office.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "David",
+          "dialog": " Hey. Can I talk to you?",
+          "dialogSplit": ["Hey", "Can", "I", "talk", "to", "you"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Of course.",
+          "dialogSplit": ["Of", "course"]
+        },
+        {
+          "character": "David",
+          "dialog": " These accusations against Mary Margaret - they've been gnawing away at me. She didn't do this. ",
+          "dialogSplit": [
+            "These",
+            "accusations",
+            "against",
+            "Mary",
+            "Margaret",
+            "they've",
+            "been",
+            "gnawing",
+            "away",
+            "at",
+            "me",
+            "She",
+            "didn't",
+            "do",
+            "this"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " I understand what you're going through. It's painful when someone we care about betrays us.",
+          "dialogSplit": [
+            "I",
+            "understand",
+            "what",
+            "you're",
+            "going",
+            "through",
+            "It's",
+            "painful",
+            "when",
+            "someone",
+            "we",
+            "care",
+            "about",
+            "betrays",
+            "us"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " She's a good person. I know her.",
+          "dialogSplit": ["She's", "a", "good", "person", "I", "know", "her"]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Maybe, you don't. Maybe, you just want to. Everyone has a dark side, David.",
+          "dialogSplit": [
+            "Maybe",
+            "you",
+            "don't",
+            "Maybe",
+            "you",
+            "just",
+            "want",
+            "to",
+            "Everyone",
+            "has",
+            "a",
+            "dark",
+            "side",
+            "David"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " Yeah, sure, but having a dark side and doing something so evil - that's a different thing. That's not what she is.",
+          "dialogSplit": [
+            "Yeah",
+            "sure",
+            "but",
+            "having",
+            "a",
+            "dark",
+            "side",
+            "and",
+            "doing",
+            "something",
+            "so",
+            "evil",
+            "that's",
+            "a",
+            "different",
+            "thing",
+            "That's",
+            "not",
+            "what",
+            "she",
+            "is"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Perhaps. I always believe that evil isn't born. It's made.",
+          "dialogSplit": [
+            "Perhaps",
+            "I",
+            "always",
+            "believe",
+            "that",
+            "evil",
+            "isn't",
+            "born",
+            "It's",
+            "made"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " All due respect, Regina, I don't think you know much about evil. ",
+          "dialogSplit": [
+            "All",
+            "due",
+            "respect",
+            "Regina",
+            "I",
+            "don't",
+            "think",
+            "you",
+            "know",
+            "much",
+            "about",
+            "evil"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Well, if she didn't do it, then who did?",
+          "dialogSplit": [
+            "Well",
+            "if",
+            "she",
+            "didn't",
+            "do",
+            "it",
+            "then",
+            "who",
+            "did"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " I don't know. That's what I\u2019ve been trying to figure out. But those blackouts I\u2019ve been having they've made everything so hazy.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "know",
+            "That's",
+            "what",
+            "I",
+            "ve",
+            "been",
+            "trying",
+            "to",
+            "figure",
+            "out",
+            "But",
+            "those",
+            "blackouts",
+            "I",
+            "ve",
+            "been",
+            "having",
+            "they've",
+            "made",
+            "everything",
+            "so",
+            "hazy"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " Please tell me, you're not accusing yourself.",
+          "dialogSplit": [
+            "Please",
+            "tell",
+            "me",
+            "you're",
+            "not",
+            "accusing",
+            "yourself"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": "  You know, maybe if I could clear up my missing time, I could prove Mary Margaret's innocence.",
+          "dialogSplit": [
+            "You",
+            "know",
+            "maybe",
+            "if",
+            "I",
+            "could",
+            "clear",
+            "up",
+            "my",
+            "missing",
+            "time",
+            "I",
+            "could",
+            "prove",
+            "Mary",
+            "Margaret's",
+            "innocence"
+          ]
+        },
+        {
+          "character": "Regina",
+          "dialog": " You're very sweet, David. But you're also wrong. Evil doesn't always look evil. Sometimes it's starring right at us and we don't even realize it.",
+          "dialogSplit": [
+            "You're",
+            "very",
+            "sweet",
+            "David",
+            "But",
+            "you're",
+            "also",
+            "wrong",
+            "Evil",
+            "doesn't",
+            "always",
+            "look",
+            "evil",
+            "Sometimes",
+            "it's",
+            "starring",
+            "right",
+            "at",
+            "us",
+            "and",
+            "we",
+            "don't",
+            "even",
+            "realize",
+            "it"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. The Sheriff Department. Emma questions Mary Margaret.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Mary Margaret",
+          "dialog": " The heating vent? Emma, I don't even know where the heating vent in my bedroom is.",
+          "dialogSplit": [
+            "The",
+            "heating",
+            "vent",
+            "Emma",
+            "I",
+            "don't",
+            "even",
+            "know",
+            "where",
+            "the",
+            "heating",
+            "vent",
+            "in",
+            "my",
+            "bedroom",
+            "is"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Someone did and they put a hunting knife in there. I checked for signs of a break in, but there weren't any. ",
+          "dialogSplit": [
+            "Someone",
+            "did",
+            "and",
+            "they",
+            "put",
+            "a",
+            "hunting",
+            "knife",
+            "in",
+            "there",
+            "I",
+            "checked",
+            "for",
+            "signs",
+            "of",
+            "a",
+            "break",
+            "in",
+            "but",
+            "there",
+            "weren't",
+            "any"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " You don't believe me.",
+          "dialogSplit": ["You", "don't", "believe", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Of course I do. But, what I think doesn't matter. Evidence is piling up by the hour.",
+          "dialogSplit": [
+            "Of",
+            "course",
+            "I",
+            "do",
+            "But",
+            "what",
+            "I",
+            "think",
+            "doesn't",
+            "matter",
+            "Evidence",
+            "is",
+            "piling",
+            "up",
+            "by",
+            "the",
+            "hour"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Okay, what are you saying?",
+          "dialogSplit": ["Okay", "what", "are", "you", "saying"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I'm saying you should think about hiring a lawyer.",
+          "dialogSplit": [
+            "I'm",
+            "saying",
+            "you",
+            "should",
+            "think",
+            "about",
+            "hiring",
+            "a",
+            "lawyer"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " An excellent idea. ",
+          "dialogSplit": ["An", "excellent", "idea"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " MrGold. What are you doing here?",
+          "dialogSplit": ["MrGold", "What", "are", "you", "doing", "here"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Offering my legal services.",
+          "dialogSplit": ["Offering", "my", "legal", "services"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You're a lawyer?",
+          "dialogSplit": ["You're", "a", "lawyer"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Ever wondered why I'm so adept at contracts? I\u2019ve been following the details of your case, Miss Blanchard. And I think you'd be well advised to bring me on as your counsel.",
+          "dialogSplit": [
+            "Ever",
+            "wondered",
+            "why",
+            "I'm",
+            "so",
+            "adept",
+            "at",
+            "contracts",
+            "I",
+            "ve",
+            "been",
+            "following",
+            "the",
+            "details",
+            "of",
+            "your",
+            "case",
+            "Miss",
+            "Blanchard",
+            "And",
+            "I",
+            "think",
+            "you'd",
+            "be",
+            "well",
+            "advised",
+            "to",
+            "bring",
+            "me",
+            "on",
+            "as",
+            "your",
+            "counsel"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " And why is that?",
+          "dialogSplit": ["And", "why", "is", "that"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Well, because the sheriff had me arrested for nearly beating a man to death and I managed to persuade the judge to drop the charges.",
+          "dialogSplit": [
+            "Well",
+            "because",
+            "the",
+            "sheriff",
+            "had",
+            "me",
+            "arrested",
+            "for",
+            "nearly",
+            "beating",
+            "a",
+            "man",
+            "to",
+            "death",
+            "and",
+            "I",
+            "managed",
+            "to",
+            "persuade",
+            "the",
+            "judge",
+            "to",
+            "drop",
+            "the",
+            "charges"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Asserting your influence isn't what's needed here. We need to find the truth.",
+          "dialogSplit": [
+            "Asserting",
+            "your",
+            "influence",
+            "isn't",
+            "what's",
+            "needed",
+            "here",
+            "We",
+            "need",
+            "to",
+            "find",
+            "the",
+            "truth"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Asserting influence may be exactly what's needed here.",
+          "dialogSplit": [
+            "Asserting",
+            "influence",
+            "may",
+            "be",
+            "exactly",
+            "what's",
+            "needed",
+            "here"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " What's needed here is me to do my job.",
+          "dialogSplit": [
+            "What's",
+            "needed",
+            "here",
+            "is",
+            "me",
+            "to",
+            "do",
+            "my",
+            "job"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Well, no one's stopping you. I'm only here to help.",
+          "dialogSplit": [
+            "Well",
+            "no",
+            "one's",
+            "stopping",
+            "you",
+            "I'm",
+            "only",
+            "here",
+            "to",
+            "help"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Enough. Please go.",
+          "dialogSplit": ["Enough", "Please", "go"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " You heard her.",
+          "dialogSplit": ["You", "heard", "her"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " No, I was talking to you. Oh, Emma. He's right. I need help. And you need to do your job or else I'm screwed. So, just please do your job the best you can and you'll prove me innocent. Until you do, I need some practical help. ",
+          "dialogSplit": [
+            "No",
+            "I",
+            "was",
+            "talking",
+            "to",
+            "you",
+            "Oh",
+            "Emma",
+            "He's",
+            "right",
+            "I",
+            "need",
+            "help",
+            "And",
+            "you",
+            "need",
+            "to",
+            "do",
+            "your",
+            "job",
+            "or",
+            "else",
+            "I'm",
+            "screwed",
+            "So",
+            "just",
+            "please",
+            "do",
+            "your",
+            "job",
+            "the",
+            "best",
+            "you",
+            "can",
+            "and",
+            "you'll",
+            "prove",
+            "me",
+            "innocent",
+            "Until",
+            "you",
+            "do",
+            "I",
+            "need",
+            "some",
+            "practical",
+            "help"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " This is in Miss Blanchard's best interests.",
+          "dialogSplit": [
+            "This",
+            "is",
+            "in",
+            "Miss",
+            "Blanchard's",
+            "best",
+            "interests"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Good luck, Mary Margaret. I hope your best interests are what he's looking out for. ",
+          "dialogSplit": [
+            "Good",
+            "luck",
+            "Mary",
+            "Margaret",
+            "I",
+            "hope",
+            "your",
+            "best",
+            "interests",
+            "are",
+            "what",
+            "he's",
+            "looking",
+            "out",
+            "for"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " I can't pay you.",
+          "dialogSplit": ["I", "can't", "pay", "you"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " I didn't ask for money.",
+          "dialogSplit": ["I", "didn't", "ask", "for", "money"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Then why are you doing this?",
+          "dialogSplit": ["Then", "why", "are", "you", "doing", "this"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Let's just say, I'm invested in your future.",
+          "dialogSplit": [
+            "Let's",
+            "just",
+            "say",
+            "I'm",
+            "invested",
+            "in",
+            "your",
+            "future"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. The Dark castle. Spinning Rumplestiltskin listens to Grumpy.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Grumpy",
+          "dialog": " The potion you gave Snow. It changed her. She's not the same.",
+          "dialogSplit": [
+            "The",
+            "potion",
+            "you",
+            "gave",
+            "Snow",
+            "It",
+            "changed",
+            "her",
+            "She's",
+            "not",
+            "the",
+            "same"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Well, of course it changed her. It took away her love.  Left a big hole in her heart.  There's no cure for what she's got. The person she was, there's no way to bring her back.  No potion can bring back true love.  Love is the most powerful magic of all. The only magic I haven't been able to bottle. If you can bottle love, you can do anything.  But you don't care about that, do you? Now, what is it you really want?",
+          "dialogSplit": [
+            "Well",
+            "of",
+            "course",
+            "it",
+            "changed",
+            "her",
+            "It",
+            "took",
+            "away",
+            "her",
+            "love",
+            "Left",
+            "a",
+            "big",
+            "hole",
+            "in",
+            "her",
+            "heart",
+            "There's",
+            "no",
+            "cure",
+            "for",
+            "what",
+            "she's",
+            "got",
+            "The",
+            "person",
+            "she",
+            "was",
+            "there's",
+            "no",
+            "way",
+            "to",
+            "bring",
+            "her",
+            "back",
+            "No",
+            "potion",
+            "can",
+            "bring",
+            "back",
+            "true",
+            "love",
+            "Love",
+            "is",
+            "the",
+            "most",
+            "powerful",
+            "magic",
+            "of",
+            "all",
+            "The",
+            "only",
+            "magic",
+            "I",
+            "haven't",
+            "been",
+            "able",
+            "to",
+            "bottle",
+            "If",
+            "you",
+            "can",
+            "bottle",
+            "love",
+            "you",
+            "can",
+            "do",
+            "anything",
+            "But",
+            "you",
+            "don't",
+            "care",
+            "about",
+            "that",
+            "do",
+            "you",
+            "Now",
+            "what",
+            "is",
+            "it",
+            "you",
+            "really",
+            "want"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I want your help. To kill the Queen.",
+          "dialogSplit": [
+            "I",
+            "want",
+            "your",
+            "help",
+            "To",
+            "kill",
+            "the",
+            "Queen"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Now we\u2019re talking, dearie.",
+          "dialogSplit": ["Now", "we", "re", "talking", "dearie"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Snow, don't! ",
+          "dialogSplit": ["Snow", "don't"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Now, what is this?",
+          "dialogSplit": ["Now", "what", "is", "this"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " This is how you kill the Queen.",
+          "dialogSplit": ["This", "is", "how", "you", "kill", "the", "Queen"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " How will that help me getting into the castle?",
+          "dialogSplit": [
+            "How",
+            "will",
+            "that",
+            "help",
+            "me",
+            "getting",
+            "into",
+            "the",
+            "castle"
+          ]
+        },
+        {
+          "character": "Rumplstiltskin",
+          "dialog": " No, no, no. That's impossible. You'll have to kill her when she's on the move. When she's on her way to the summer palace.  Fire the arrow from this spot here and you'll be hidden from sight. An arrow fired from this bow will get you exactly what you need. It always finds it target.",
+          "dialogSplit": [
+            "No",
+            "no",
+            "no",
+            "That's",
+            "impossible",
+            "You'll",
+            "have",
+            "to",
+            "kill",
+            "her",
+            "when",
+            "she's",
+            "on",
+            "the",
+            "move",
+            "When",
+            "she's",
+            "on",
+            "her",
+            "way",
+            "to",
+            "the",
+            "summer",
+            "palace",
+            "Fire",
+            "the",
+            "arrow",
+            "from",
+            "this",
+            "spot",
+            "here",
+            "and",
+            "you'll",
+            "be",
+            "hidden",
+            "from",
+            "sight",
+            "An",
+            "arrow",
+            "fired",
+            "from",
+            "this",
+            "bow",
+            "will",
+            "get",
+            "you",
+            "exactly",
+            "what",
+            "you",
+            "need",
+            "It",
+            "always",
+            "finds",
+            "it",
+            "target"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " I can't stand by. If you take that weapon, you do it alone.",
+          "dialogSplit": [
+            "I",
+            "can't",
+            "stand",
+            "by",
+            "If",
+            "you",
+            "take",
+            "that",
+            "weapon",
+            "you",
+            "do",
+            "it",
+            "alone"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " That was always my plan.  So, what do I have to do in return?",
+          "dialogSplit": [
+            "That",
+            "was",
+            "always",
+            "my",
+            "plan",
+            "So",
+            "what",
+            "do",
+            "I",
+            "have",
+            "to",
+            "do",
+            "in",
+            "return"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Do? You don't have to do anything, dearie.",
+          "dialogSplit": [
+            "Do",
+            "You",
+            "don't",
+            "have",
+            "to",
+            "do",
+            "anything",
+            "dearie"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Everything comes with a price with you. Last time you took a strand of my hair. What's in it for you this time?",
+          "dialogSplit": [
+            "Everything",
+            "comes",
+            "with",
+            "a",
+            "price",
+            "with",
+            "you",
+            "Last",
+            "time",
+            "you",
+            "took",
+            "a",
+            "strand",
+            "of",
+            "my",
+            "hair",
+            "What's",
+            "in",
+            "it",
+            "for",
+            "you",
+            "this",
+            "time"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Let's just say, I'm invested in your future.",
+          "dialogSplit": [
+            "Let's",
+            "just",
+            "say",
+            "I'm",
+            "invested",
+            "in",
+            "your",
+            "future"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Hopper Psychiatry Office. David knocks on the door.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Archie Hopper",
+          "dialog": " (opens the door) David. What can I do for you?",
+          "dialogSplit": [
+            "opens",
+            "the",
+            "door",
+            "David",
+            "What",
+            "can",
+            "I",
+            "do",
+            "for",
+            "you"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " Dr. Hopper, I need your help. ",
+          "dialogSplit": ["Dr", "Hopper", "I", "need", "your", "help"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " Okay, what... what is it?",
+          "dialogSplit": ["Okay", "what", "what", "is", "it"]
+        },
+        {
+          "character": "David",
+          "dialog": " I\u2019ve been having these blackouts and I need to remember what happened during them.",
+          "dialogSplit": [
+            "I",
+            "ve",
+            "been",
+            "having",
+            "these",
+            "blackouts",
+            "and",
+            "I",
+            "need",
+            "to",
+            "remember",
+            "what",
+            "happened",
+            "during",
+            "them"
+          ]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " Why?",
+          "dialogSplit": ["Why"]
+        },
+        {
+          "character": "David",
+          "dialog": " I think I might know something that can help Mary Margaret. (Archie Hopper closes the door)",
+          "dialogSplit": [
+            "I",
+            "think",
+            "I",
+            "might",
+            "know",
+            "something",
+            "that",
+            "can",
+            "help",
+            "Mary",
+            "Margaret",
+            "Archie",
+            "Hopper",
+            "closes",
+            "the",
+            "door"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Dark Castle. Prince Charming enters.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": " Rumplestiltskin. Show yourself.",
+          "dialogSplit": ["Rumplestiltskin", "Show", "yourself"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Still dressing like a prince I see. Even though you ran away from the life I gave you. How's that for gratitude?",
+          "dialogSplit": [
+            "Still",
+            "dressing",
+            "like",
+            "a",
+            "prince",
+            "I",
+            "see",
+            "Even",
+            "though",
+            "you",
+            "ran",
+            "away",
+            "from",
+            "the",
+            "life",
+            "I",
+            "gave",
+            "you",
+            "How's",
+            "that",
+            "for",
+            "gratitude"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " You gave me a prison sentence.",
+          "dialogSplit": ["You", "gave", "me", "a", "prison", "sentence"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Yeah, one that you've now skirted. Careful dearie, King George is a vengeful man.",
+          "dialogSplit": [
+            "Yeah",
+            "one",
+            "that",
+            "you've",
+            "now",
+            "skirted",
+            "Careful",
+            "dearie",
+            "King",
+            "George",
+            "is",
+            "a",
+            "vengeful",
+            "man"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " I'm here about Snow. Rumor has it, she's after the Queen and she came to you for help.",
+          "dialogSplit": [
+            "I'm",
+            "here",
+            "about",
+            "Snow",
+            "Rumor",
+            "has",
+            "it",
+            "she's",
+            "after",
+            "the",
+            "Queen",
+            "and",
+            "she",
+            "came",
+            "to",
+            "you",
+            "for",
+            "help"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Yes, indeed.  What did I do to her? You mean, what did you do to her. You caused her pain. Without that pain she would never have drank my potion to forget about you. That's what changed her. ",
+          "dialogSplit": [
+            "Yes",
+            "indeed",
+            "What",
+            "did",
+            "I",
+            "do",
+            "to",
+            "her",
+            "You",
+            "mean",
+            "what",
+            "did",
+            "you",
+            "do",
+            "to",
+            "her",
+            "You",
+            "caused",
+            "her",
+            "pain",
+            "Without",
+            "that",
+            "pain",
+            "she",
+            "would",
+            "never",
+            "have",
+            "drank",
+            "my",
+            "potion",
+            "to",
+            "forget",
+            "about",
+            "you",
+            "That's",
+            "what",
+            "changed",
+            "her"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Undo the potion. All magic can be broken.",
+          "dialogSplit": [
+            "Undo",
+            "the",
+            "potion",
+            "All",
+            "magic",
+            "can",
+            "be",
+            "broken"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Oh, yes. With true love.",
+          "dialogSplit": ["Oh", "yes", "With", "true", "love"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " So, that's it then? True love's kiss will awaken her?",
+          "dialogSplit": [
+            "So",
+            "that's",
+            "it",
+            "then",
+            "True",
+            "love's",
+            "kiss",
+            "will",
+            "awaken",
+            "her"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Most certainly, but it's gonna be hard to kiss her, when you don't know where she is. ",
+          "dialogSplit": [
+            "Most",
+            "certainly",
+            "but",
+            "it's",
+            "gonna",
+            "be",
+            "hard",
+            "to",
+            "kiss",
+            "her",
+            "when",
+            "you",
+            "don't",
+            "know",
+            "where",
+            "she",
+            "is"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Name your price.",
+          "dialogSplit": ["Name", "your", "price"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " How about your cloak?",
+          "dialogSplit": ["How", "about", "your", "cloak"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " My cloak? Why would you want my cloak?",
+          "dialogSplit": [
+            "My",
+            "cloak",
+            "Why",
+            "would",
+            "you",
+            "want",
+            "my",
+            "cloak"
+          ]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " It's drafty in here. ",
+          "dialogSplit": ["It's", "drafty", "in", "here"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Where is she?",
+          "dialogSplit": ["Where", "is", "she"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " On her way to the Queen's highway.  This is the route she's taking.  But you'd better be quick, because, if she kills the Queen, she becomes as evil as the woman whose life she takes.   ",
+          "dialogSplit": [
+            "On",
+            "her",
+            "way",
+            "to",
+            "the",
+            "Queen's",
+            "highway",
+            "This",
+            "is",
+            "the",
+            "route",
+            "she's",
+            "taking",
+            "But",
+            "you'd",
+            "better",
+            "be",
+            "quick",
+            "because",
+            "if",
+            "she",
+            "kills",
+            "the",
+            "Queen",
+            "she",
+            "becomes",
+            "as",
+            "evil",
+            "as",
+            "the",
+            "woman",
+            "whose",
+            "life",
+            "she",
+            "takes"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " She could never become that evil.  ",
+          "dialogSplit": ["She", "could", "never", "become", "that", "evil"]
+        },
+        {
+          "character": "Rumplestiltskin",
+          "dialog": " Evil isn't born, dearie. It's made. If Snow starts down that road, you'll never get her back.",
+          "dialogSplit": [
+            "Evil",
+            "isn't",
+            "born",
+            "dearie",
+            "It's",
+            "made",
+            "If",
+            "Snow",
+            "starts",
+            "down",
+            "that",
+            "road",
+            "you'll",
+            "never",
+            "get",
+            "her",
+            "back"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Tentatively Snow bends the Enchanted Bow. Prince Charming ambushes her. Snow White struggles to break free.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Snow White",
+          "dialog": " Get your hands off me!",
+          "dialogSplit": ["Get", "your", "hands", "off", "me"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Snow!",
+          "dialogSplit": ["Snow"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Who are you? What are you doing?",
+          "dialogSplit": ["Who", "are", "you", "What", "are", "you", "doing"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Helping you to remember.  I told you I will always find you. ",
+          "dialogSplit": [
+            "Helping",
+            "you",
+            "to",
+            "remember",
+            "I",
+            "told",
+            "you",
+            "I",
+            "will",
+            "always",
+            "find",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Emma climbs the stairs to the Blanchard Apartment. Henry awaits her.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Henry",
+          "dialog": " I have proof.  This is how my mom got in your apartment. This is how she framed Miss Blanchard.",
+          "dialogSplit": [
+            "I",
+            "have",
+            "proof",
+            "This",
+            "is",
+            "how",
+            "my",
+            "mom",
+            "got",
+            "in",
+            "your",
+            "apartment",
+            "This",
+            "is",
+            "how",
+            "she",
+            "framed",
+            "Miss",
+            "Blanchard"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Did you steal these from her office? ",
+          "dialogSplit": [
+            "Did",
+            "you",
+            "steal",
+            "these",
+            "from",
+            "her",
+            "office"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Yeah, the book said, they could open any door.",
+          "dialogSplit": [
+            "Yeah",
+            "the",
+            "book",
+            "said",
+            "they",
+            "could",
+            "open",
+            "any",
+            "door"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " There's no way they'll even fit in the lock.",
+          "dialogSplit": [
+            "There's",
+            "no",
+            "way",
+            "they'll",
+            "even",
+            "fit",
+            "in",
+            "the",
+            "lock"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " We have to try. ",
+          "dialogSplit": ["We", "have", "to", "try"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " See, what did I tell you? Come on, Henry, I know you wanna think the answer to everything is in Operation Cobra.",
+          "dialogSplit": [
+            "See",
+            "what",
+            "did",
+            "I",
+            "tell",
+            "you",
+            "Come",
+            "on",
+            "Henry",
+            "I",
+            "know",
+            "you",
+            "wanna",
+            "think",
+            "the",
+            "answer",
+            "to",
+            "everything",
+            "is",
+            "in",
+            "Operation",
+            "Cobra"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " It is.",
+          "dialogSplit": ["It", "is"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " But sometimes the real world needs to come first. ",
+          "dialogSplit": [
+            "But",
+            "sometimes",
+            "the",
+            "real",
+            "world",
+            "needs",
+            "to",
+            "come",
+            "first"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " Just try one more. Please.",
+          "dialogSplit": ["Just", "try", "one", "more", "Please"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Okay. One more, but then we\u2019re done.",
+          "dialogSplit": [
+            "Okay",
+            "One",
+            "more",
+            "but",
+            "then",
+            "we",
+            "re",
+            "done"
+          ]
+        },
+        {
+          "character": "Henry",
+          "dialog": " You do it.  This one.",
+          "dialogSplit": ["You", "do", "it", "This", "one"]
+        },
+        { "character": "Emma", "dialog": " Okay. ", "dialogSplit": ["Okay"] },
+        {
+          "character": "Henry",
+          "dialog": " Do you believe now?",
+          "dialogSplit": ["Do", "you", "believe", "now"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Awaking Prince Charming realizes that he\u2019s tied to a tree.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": " Snow. ",
+          "dialogSplit": ["Snow"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I assume you are the man Rumplestiltskin helped me forget. What's your name again?",
+          "dialogSplit": [
+            "I",
+            "assume",
+            "you",
+            "are",
+            "the",
+            "man",
+            "Rumplestiltskin",
+            "helped",
+            "me",
+            "forget",
+            "What's",
+            "your",
+            "name",
+            "again"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": "  It's me. Charming.",
+          "dialogSplit": ["It's", "me", "Charming"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Charming? Beginning to see why I drank that potion.",
+          "dialogSplit": [
+            "Charming",
+            "Beginning",
+            "to",
+            "see",
+            "why",
+            "I",
+            "drank",
+            "that",
+            "potion"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " This doesn't make any sense.  True love's kiss should\u2019ve restored your memories.",
+          "dialogSplit": [
+            "This",
+            "doesn't",
+            "make",
+            "any",
+            "sense",
+            "True",
+            "love's",
+            "kiss",
+            "should",
+            "ve",
+            "restored",
+            "your",
+            "memories"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " It's not true love because I don't love you.",
+          "dialogSplit": [
+            "It's",
+            "not",
+            "true",
+            "love",
+            "because",
+            "I",
+            "don't",
+            "love",
+            "you"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Yes, you do. You just don't remember. You love me and I love you.",
+          "dialogSplit": [
+            "Yes",
+            "you",
+            "do",
+            "You",
+            "just",
+            "don't",
+            "remember",
+            "You",
+            "love",
+            "me",
+            "and",
+            "I",
+            "love",
+            "you"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Words. Words. Words. That's all that love is. And unfortunately for you, words don't mean anything to me. You know what does mean something to me? Taking action. And that's exactly what I'm going to do. ",
+          "dialogSplit": [
+            "Words",
+            "Words",
+            "Words",
+            "That's",
+            "all",
+            "that",
+            "love",
+            "is",
+            "And",
+            "unfortunately",
+            "for",
+            "you",
+            "words",
+            "don't",
+            "mean",
+            "anything",
+            "to",
+            "me",
+            "You",
+            "know",
+            "what",
+            "does",
+            "mean",
+            "something",
+            "to",
+            "me",
+            "Taking",
+            "action",
+            "And",
+            "that's",
+            "exactly",
+            "what",
+            "I'm",
+            "going",
+            "to",
+            "do"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Snow. Snow!  Listen to me. You can't do this. It's not who you wanna be. You can't kill her.",
+          "dialogSplit": [
+            "Snow",
+            "Snow",
+            "Listen",
+            "to",
+            "me",
+            "You",
+            "can't",
+            "do",
+            "this",
+            "It's",
+            "not",
+            "who",
+            "you",
+            "wanna",
+            "be",
+            "You",
+            "can't",
+            "kill",
+            "her"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Really? Watch me. ",
+          "dialogSplit": ["Really", "Watch", "me"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Don't do it, Snow. Snow!",
+          "dialogSplit": ["Don't", "do", "it", "Snow", "Snow"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Hopper Psychiatry Office.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Archie Hopper",
+          "dialog": " David, listen very closely. Can you hear me?",
+          "dialogSplit": [
+            "David",
+            "listen",
+            "very",
+            "closely",
+            "Can",
+            "you",
+            "hear",
+            "me"
+          ]
+        },
+        { "character": "David", "dialog": " Yes.", "dialogSplit": ["Yes"] },
+        {
+          "character": "Archie Hopper",
+          "dialog": " Good. Okay. I want you to go back in your memory. Back to the last time you and Kathryn spoke. The last thing you remember. Tell me, where are you? ",
+          "dialogSplit": [
+            "Good",
+            "Okay",
+            "I",
+            "want",
+            "you",
+            "to",
+            "go",
+            "back",
+            "in",
+            "your",
+            "memory",
+            "Back",
+            "to",
+            "the",
+            "last",
+            "time",
+            "you",
+            "and",
+            "Kathryn",
+            "spoke",
+            "The",
+            "last",
+            "thing",
+            "you",
+            "remember",
+            "Tell",
+            "me",
+            "where",
+            "are",
+            "you"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " In my bedroom. ",
+          "dialogSplit": ["In", "my", "bedroom"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " When? ",
+          "dialogSplit": ["When"]
+        },
+        {
+          "character": "David",
+          "dialog": " The night she left]].",
+          "dialogSplit": ["The", "night", "she", "left"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " And what were you doing?",
+          "dialogSplit": ["And", "what", "were", "you", "doing"]
+        },
+        {
+          "character": "David",
+          "dialog": " I called her on her cell.",
+          "dialogSplit": ["I", "called", "her", "on", "her", "cell"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " And what did you talk about?",
+          "dialogSplit": ["And", "what", "did", "you", "talk", "about"]
+        },
+        {
+          "character": "David",
+          "dialog": " She said she'd realized she needed to start a new life. Without me.  She thought Mary Margaret and I should be together.",
+          "dialogSplit": [
+            "She",
+            "said",
+            "she'd",
+            "realized",
+            "she",
+            "needed",
+            "to",
+            "start",
+            "a",
+            "new",
+            "life",
+            "Without",
+            "me",
+            "She",
+            "thought",
+            "Mary",
+            "Margaret",
+            "and",
+            "I",
+            "should",
+            "be",
+            "together"
+          ]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " And how did that conversation end?",
+          "dialogSplit": ["And", "how", "did", "that", "conversation", "end"]
+        },
+        {
+          "character": "David",
+          "dialog": " She said she was hurt but she wanted me to be happy.",
+          "dialogSplit": [
+            "She",
+            "said",
+            "she",
+            "was",
+            "hurt",
+            "but",
+            "she",
+            "wanted",
+            "me",
+            "to",
+            "be",
+            "happy"
+          ]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " And do you remember anything after that?",
+          "dialogSplit": [
+            "And",
+            "do",
+            "you",
+            "remember",
+            "anything",
+            "after",
+            "that"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " Yes, I saw Mary Margaret in the woods.",
+          "dialogSplit": [
+            "Yes",
+            "I",
+            "saw",
+            "Mary",
+            "Margaret",
+            "in",
+            "the",
+            "woods"
+          ]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " And what was she doing there? ",
+          "dialogSplit": ["And", "what", "was", "she", "doing", "there"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": " You can't kill her.",
+          "dialogSplit": ["You", "can't", "kill", "her"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Really? Watch me.",
+          "dialogSplit": ["Really", "Watch", "me"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " You can't kill her. Don't do it. ",
+          "dialogSplit": ["You", "can't", "kill", "her", "Don't", "do", "it"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Hopper Psychiatry Office. Archie Hopper tries to wake David.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Archie Hopper",
+          "dialog": " David! David! ",
+          "dialogSplit": ["David", "David"]
+        },
+        {
+          "character": "David",
+          "dialog": " What happened? ",
+          "dialogSplit": ["What", "happened"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " I had to wake you up. You went too deep into hypnosis. Something was disturbing you. What did you see?",
+          "dialogSplit": [
+            "I",
+            "had",
+            "to",
+            "wake",
+            "you",
+            "up",
+            "You",
+            "went",
+            "too",
+            "deep",
+            "into",
+            "hypnosis",
+            "Something",
+            "was",
+            "disturbing",
+            "you",
+            "What",
+            "did",
+            "you",
+            "see"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " It was...",
+          "dialogSplit": ["It", "was"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " What? Tell me, David. I can help you.  David. David, tell me. What did you see? I can help you.",
+          "dialogSplit": [
+            "What",
+            "Tell",
+            "me",
+            "David",
+            "I",
+            "can",
+            "help",
+            "you",
+            "David",
+            "David",
+            "tell",
+            "me",
+            "What",
+            "did",
+            "you",
+            "see",
+            "I",
+            "can",
+            "help",
+            "you"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " You can't. ",
+          "dialogSplit": ["You", "can't"]
+        },
+        {
+          "character": "Archie Hopper",
+          "dialog": " David! ",
+          "dialogSplit": ["David"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Prince Charming struggles to free himself. Jiminy Cricket approaches him.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Prince Charming",
+          "dialog": " Go on. Get out of here!",
+          "dialogSplit": ["Go", "on", "Get", "out", "of", "here"]
+        },
+        {
+          "character": "Jiminy Cricket",
+          "dialog": " You must be James.",
+          "dialogSplit": ["You", "must", "be", "James"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " You can talk?",
+          "dialogSplit": ["You", "can", "talk"]
+        },
+        {
+          "character": "Jiminy Cricket",
+          "dialog": " Yeah, and you can listen. Name is Jiminy. When Snow began to act differently, her friends, the dwarves, asked me to intervene.  But I'm... I'm afraid I wasn't much help.",
+          "dialogSplit": [
+            "Yeah",
+            "and",
+            "you",
+            "can",
+            "listen",
+            "Name",
+            "is",
+            "Jiminy",
+            "When",
+            "Snow",
+            "began",
+            "to",
+            "act",
+            "differently",
+            "her",
+            "friends",
+            "the",
+            "dwarves",
+            "asked",
+            "me",
+            "to",
+            "intervene",
+            "But",
+            "I'm",
+            "I'm",
+            "afraid",
+            "I",
+            "wasn't",
+            "much",
+            "help"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " I didn't do any better. Can you get me out of here? I have to stop her.",
+          "dialogSplit": [
+            "I",
+            "didn't",
+            "do",
+            "any",
+            "better",
+            "Can",
+            "you",
+            "get",
+            "me",
+            "out",
+            "of",
+            "here",
+            "I",
+            "have",
+            "to",
+            "stop",
+            "her"
+          ]
+        },
+        {
+          "character": "Jiminy Cricket",
+          "dialog": " Well, I'll try.  What's your plan?",
+          "dialogSplit": ["Well", "I'll", "try", "What's", "your", "plan"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " I don't know. I tried everything to make her remember who I am, but nothing worked.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "know",
+            "I",
+            "tried",
+            "everything",
+            "to",
+            "make",
+            "her",
+            "remember",
+            "who",
+            "I",
+            "am",
+            "but",
+            "nothing",
+            "worked"
+          ]
+        },
+        {
+          "character": "Jiminy Cricket",
+          "dialog": " Give that a try.  Hm, it sounds like you're approaching this the wrong way. How can she remember who you are, when she's lost sight of who she is.",
+          "dialogSplit": [
+            "Give",
+            "that",
+            "a",
+            "try",
+            "Hm",
+            "it",
+            "sounds",
+            "like",
+            "you're",
+            "approaching",
+            "this",
+            "the",
+            "wrong",
+            "way",
+            "How",
+            "can",
+            "she",
+            "remember",
+            "who",
+            "you",
+            "are",
+            "when",
+            "she's",
+            "lost",
+            "sight",
+            "of",
+            "who",
+            "she",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": " Enchanted Forest. Past. Accompanied by Black Knights the Evil Queen rides through the forest passing village folk.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Black Knight",
+          "dialog": " Clear the road. Bow your head before the Queen.",
+          "dialogSplit": [
+            "Clear",
+            "the",
+            "road",
+            "Bow",
+            "your",
+            "head",
+            "before",
+            "the",
+            "Queen"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " What do you think you're doing? Why would you do this?",
+          "dialogSplit": [
+            "What",
+            "do",
+            "you",
+            "think",
+            "you're",
+            "doing",
+            "Why",
+            "would",
+            "you",
+            "do",
+            "this"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Well, because  you said you appreciate action more than words. So now, you gonna get both. I love you, Snow.",
+          "dialogSplit": [
+            "Well",
+            "because",
+            "you",
+            "said",
+            "you",
+            "appreciate",
+            "action",
+            "more",
+            "than",
+            "words",
+            "So",
+            "now",
+            "you",
+            "gonna",
+            "get",
+            "both",
+            "I",
+            "love",
+            "you",
+            "Snow"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " But I don't love you. I don't even remember you.",
+          "dialogSplit": [
+            "But",
+            "I",
+            "don't",
+            "love",
+            "you",
+            "I",
+            "don't",
+            "even",
+            "remember",
+            "you"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " I don't care.  The only  thing I care about is that you don't forget who you really are. I would rather die than let you fill your heart with darkness.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "care",
+            "The",
+            "only",
+            "thing",
+            "I",
+            "care",
+            "about",
+            "is",
+            "that",
+            "you",
+            "don't",
+            "forget",
+            "who",
+            "you",
+            "really",
+            "are",
+            "I",
+            "would",
+            "rather",
+            "die",
+            "than",
+            "let",
+            "you",
+            "fill",
+            "your",
+            "heart",
+            "with",
+            "darkness"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " You would really die for me?",
+          "dialogSplit": ["You", "would", "really", "die", "for", "me"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Does it look like I'm making this up?",
+          "dialogSplit": [
+            "Does",
+            "it",
+            "look",
+            "like",
+            "I'm",
+            "making",
+            "this",
+            "up"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " No one has ever done anything like this for me before. No one has ever been willing to die for me.",
+          "dialogSplit": [
+            "No",
+            "one",
+            "has",
+            "ever",
+            "done",
+            "anything",
+            "like",
+            "this",
+            "for",
+            "me",
+            "before",
+            "No",
+            "one",
+            "has",
+            "ever",
+            "been",
+            "willing",
+            "to",
+            "die",
+            "for",
+            "me"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " No one you can remember. ",
+          "dialogSplit": ["No", "one", "you", "can", "remember"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Charming! ",
+          "dialogSplit": ["Charming"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Yes, it's me.  King George's army. ",
+          "dialogSplit": ["Yes", "it's", "me", "King", "George's", "army"]
+        },
+        { "character": "Snow White", "dialog": " No.", "dialogSplit": ["No"] },
+        {
+          "character": "Knight 1",
+          "dialog": " Prince James.  Leave the girl. We have who we came for. ",
+          "dialogSplit": [
+            "Prince",
+            "James",
+            "Leave",
+            "the",
+            "girl",
+            "We",
+            "have",
+            "who",
+            "we",
+            "came",
+            "for"
+          ]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " No! ",
+          "dialogSplit": ["No"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " James! ",
+          "dialogSplit": ["James"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " No! ",
+          "dialogSplit": ["No"]
+        },
+        {
+          "character": "Knight 1",
+          "dialog": " Enough!",
+          "dialogSplit": ["Enough"]
+        },
+        {
+          "character": "Knight 2",
+          "dialog": " Hyah. ",
+          "dialogSplit": ["Hyah"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Snow! Snow!",
+          "dialogSplit": ["Snow", "Snow"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " James.",
+          "dialogSplit": ["James"]
+        },
+        {
+          "character": "Prince Charming",
+          "dialog": " Snow.",
+          "dialogSplit": ["Snow"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I will find you. I will always find you.",
+          "dialogSplit": [
+            "I",
+            "will",
+            "find",
+            "you",
+            "I",
+            "will",
+            "always",
+            "find",
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Storybrooke Sheriff Department. David approaches Mary Margaret\u2019s cell.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "David",
+          "dialog": " Mary Margaret.",
+          "dialogSplit": ["Mary", "Margaret"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " David.",
+          "dialogSplit": ["David"]
+        },
+        {
+          "character": "David",
+          "dialog": " Emma said we could have a few minutes alone. I wanted to tell you, that Dr. Hopper helped me remember what happened during my blackouts.",
+          "dialogSplit": [
+            "Emma",
+            "said",
+            "we",
+            "could",
+            "have",
+            "a",
+            "few",
+            "minutes",
+            "alone",
+            "I",
+            "wanted",
+            "to",
+            "tell",
+            "you",
+            "that",
+            "Dr",
+            "Hopper",
+            "helped",
+            "me",
+            "remember",
+            "what",
+            "happened",
+            "during",
+            "my",
+            "blackouts"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " And?",
+          "dialogSplit": ["And"]
+        },
+        {
+          "character": "David",
+          "dialog": " Um, I only... got pieces of the memory. We were in the woods  and I kept saying 'don't do it\u2018.",
+          "dialogSplit": [
+            "Um",
+            "I",
+            "only",
+            "got",
+            "pieces",
+            "of",
+            "the",
+            "memory",
+            "We",
+            "were",
+            "in",
+            "the",
+            "woods",
+            "and",
+            "I",
+            "kept",
+            "saying",
+            "don't",
+            "do",
+            "it"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Don't do what?",
+          "dialogSplit": ["Don't", "do", "what"]
+        },
+        {
+          "character": "David",
+          "dialog": " Don't kill her. That's what I kept saying.",
+          "dialogSplit": [
+            "Don't",
+            "kill",
+            "her",
+            "That's",
+            "what",
+            "I",
+            "kept",
+            "saying"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Kathryn. You think you remember wanting to kill Kathryn.",
+          "dialogSplit": [
+            "Kathryn",
+            "You",
+            "think",
+            "you",
+            "remember",
+            "wanting",
+            "to",
+            "kill",
+            "Kathryn"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " Can you explain why I have that memory?",
+          "dialogSplit": [
+            "Can",
+            "you",
+            "explain",
+            "why",
+            "I",
+            "have",
+            "that",
+            "memory"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " David? Are you asking me, if I had something to do with Kathryn's murder?",
+          "dialogSplit": [
+            "David",
+            "Are",
+            "you",
+            "asking",
+            "me",
+            "if",
+            "I",
+            "had",
+            "something",
+            "to",
+            "do",
+            "with",
+            "Kathryn's",
+            "murder"
+          ]
+        },
+        {
+          "character": "David",
+          "dialog": " The Sheriff found a heart in our spot. It was in your jewelry box. The weapon was found in your apartment. I have these... these memories. So, yes, I'm asking.",
+          "dialogSplit": [
+            "The",
+            "Sheriff",
+            "found",
+            "a",
+            "heart",
+            "in",
+            "our",
+            "spot",
+            "It",
+            "was",
+            "in",
+            "your",
+            "jewelry",
+            "box",
+            "The",
+            "weapon",
+            "was",
+            "found",
+            "in",
+            "your",
+            "apartment",
+            "I",
+            "have",
+            "these",
+            "these",
+            "memories",
+            "So",
+            "yes",
+            "I'm",
+            "asking"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " When you phone records came back, when I found you wandering in the woods, when everyone thought you killed Kathryn, I stood by you.  I never once doubted you. And now, that everything is pointing to me, you actually think I'm capable of that kind of evil? Get out! ",
+          "dialogSplit": [
+            "When",
+            "you",
+            "phone",
+            "records",
+            "came",
+            "back",
+            "when",
+            "I",
+            "found",
+            "you",
+            "wandering",
+            "in",
+            "the",
+            "woods",
+            "when",
+            "everyone",
+            "thought",
+            "you",
+            "killed",
+            "Kathryn",
+            "I",
+            "stood",
+            "by",
+            "you",
+            "I",
+            "never",
+            "once",
+            "doubted",
+            "you",
+            "And",
+            "now",
+            "that",
+            "everything",
+            "is",
+            "pointing",
+            "to",
+            "me",
+            "you",
+            "actually",
+            "think",
+            "I'm",
+            "capable",
+            "of",
+            "that",
+            "kind",
+            "of",
+            "evil",
+            "Get",
+            "out"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Enchanted Forest. Past. Dwarves\u2019 Cottage. Snow White enters. The dwarves enjoy their supper. Snow White places a mug in front of Happy on the table.",
+      "tense": "Past",
+      "location": null,
+      "dialog": [
+        {
+          "character": "Grumpy",
+          "dialog": " What's this?",
+          "dialogSplit": ["What's", "this"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " An apology. ",
+          "dialogSplit": ["An", "apology"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " We don't care about mugs.",
+          "dialogSplit": ["We", "don't", "care", "about", "mugs"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " It's the only thing I broke, I could replace. I'm sorry. All I can say is, I'm sorry.",
+          "dialogSplit": [
+            "It's",
+            "the",
+            "only",
+            "thing",
+            "I",
+            "broke",
+            "I",
+            "could",
+            "replace",
+            "I'm",
+            "sorry",
+            "All",
+            "I",
+            "can",
+            "say",
+            "is",
+            "I'm",
+            "sorry"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " It's you.",
+          "dialogSplit": ["It's", "you"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " It's me. ",
+          "dialogSplit": ["It's", "me"]
+        },
+        {
+          "character": "Happy",
+          "dialog": " Welcome back. You can have your old room, if you like.",
+          "dialogSplit": [
+            "Welcome",
+            "back",
+            "You",
+            "can",
+            "have",
+            "your",
+            "old",
+            "room",
+            "if",
+            "you",
+            "like"
+          ]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " Thank you. I can't stay.",
+          "dialogSplit": ["Thank", "you", "I", "can't", "stay"]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " Where are you going?",
+          "dialogSplit": ["Where", "are", "you", "going"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " King George took James. I have to get him back.",
+          "dialogSplit": [
+            "King",
+            "George",
+            "took",
+            "James",
+            "I",
+            "have",
+            "to",
+            "get",
+            "him",
+            "back"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " No, Snow. You can't do it.",
+          "dialogSplit": ["No", "Snow", "You", "can't", "do", "it"]
+        },
+        {
+          "character": "Snow White",
+          "dialog": " I can't let the king just kill him. He came back for me. It doesn't matter what happens to me now. I have to try.",
+          "dialogSplit": [
+            "I",
+            "can't",
+            "let",
+            "the",
+            "king",
+            "just",
+            "kill",
+            "him",
+            "He",
+            "came",
+            "back",
+            "for",
+            "me",
+            "It",
+            "doesn't",
+            "matter",
+            "what",
+            "happens",
+            "to",
+            "me",
+            "now",
+            "I",
+            "have",
+            "to",
+            "try"
+          ]
+        },
+        {
+          "character": "Grumpy",
+          "dialog": " That's not what I meant. What I meant was, you can't do it alone.  But, luckily, you won't have to.  Let's show that king what Snow White and seven dwarves can really do.",
+          "dialogSplit": [
+            "That's",
+            "not",
+            "what",
+            "I",
+            "meant",
+            "What",
+            "I",
+            "meant",
+            "was",
+            "you",
+            "can't",
+            "do",
+            "it",
+            "alone",
+            "But",
+            "luckily",
+            "you",
+            "won't",
+            "have",
+            "to",
+            "Let's",
+            "show",
+            "that",
+            "king",
+            "what",
+            "Snow",
+            "White",
+            "and",
+            "seven",
+            "dwarves",
+            "can",
+            "really",
+            "do"
+          ]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. The next morning. Mary Margaret makes her bed. Something falls to the ground. Kneeling down Mary Margaret picks up a skeleton key. The key\u2019s bow is decorated with a skull-shaped ornament.  After a moment\u2019s consideration Mary Margaret decides to try out if the key fits the cell\u2019s door. Mary Margaret successfully opens the cell. Hearing the sound of approaching footsteps Mary Margaret quickly locks the door again and hides the key behind her back. Emma enters.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " Hey. Breakfast. ",
+          "dialogSplit": ["Hey", "Breakfast"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Thanks.",
+          "dialogSplit": ["Thanks"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I know MrGold doesn't want us to talk, but I thought, you should hear this from me. The test results came back on the heart and the DNA was a match for Kathryn. She is dead. I'm sorry - for a lot of things. But, now that we have proof of the death, we  have enough evidence to move forward with a case against you. It's going to happen. You know I do believe you, right?  All this evidence tells me one thing for certain. That you are being framed. And I think Regina is behind it.",
+          "dialogSplit": [
+            "I",
+            "know",
+            "MrGold",
+            "doesn't",
+            "want",
+            "us",
+            "to",
+            "talk",
+            "but",
+            "I",
+            "thought",
+            "you",
+            "should",
+            "hear",
+            "this",
+            "from",
+            "me",
+            "The",
+            "test",
+            "results",
+            "came",
+            "back",
+            "on",
+            "the",
+            "heart",
+            "and",
+            "the",
+            "DNA",
+            "was",
+            "a",
+            "match",
+            "for",
+            "Kathryn",
+            "She",
+            "is",
+            "dead",
+            "I'm",
+            "sorry",
+            "for",
+            "a",
+            "lot",
+            "of",
+            "things",
+            "But",
+            "now",
+            "that",
+            "we",
+            "have",
+            "proof",
+            "of",
+            "the",
+            "death",
+            "we",
+            "have",
+            "enough",
+            "evidence",
+            "to",
+            "move",
+            "forward",
+            "with",
+            "a",
+            "case",
+            "against",
+            "you",
+            "It's",
+            "going",
+            "to",
+            "happen",
+            "You",
+            "know",
+            "I",
+            "do",
+            "believe",
+            "you",
+            "right",
+            "All",
+            "this",
+            "evidence",
+            "tells",
+            "me",
+            "one",
+            "thing",
+            "for",
+            "certain",
+            "That",
+            "you",
+            "are",
+            "being",
+            "framed",
+            "And",
+            "I",
+            "think",
+            "Regina",
+            "is",
+            "behind",
+            "it"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Then why am I still in here? Why don't you confront her?",
+          "dialogSplit": [
+            "Then",
+            "why",
+            "am",
+            "I",
+            "still",
+            "in",
+            "here",
+            "Why",
+            "don't",
+            "you",
+            "confront",
+            "her"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Because belief is not proof.",
+          "dialogSplit": ["Because", "belief", "is", "not", "proof"]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " But, you just said -",
+          "dialogSplit": ["But", "you", "just", "said"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " If I don't do this right, things will end up worse for you. Every time I\u2019ve gone up against Regina, she's seen it coming, and I\u2019ve lost.",
+          "dialogSplit": [
+            "If",
+            "I",
+            "don't",
+            "do",
+            "this",
+            "right",
+            "things",
+            "will",
+            "end",
+            "up",
+            "worse",
+            "for",
+            "you",
+            "Every",
+            "time",
+            "I",
+            "ve",
+            "gone",
+            "up",
+            "against",
+            "Regina",
+            "she's",
+            "seen",
+            "it",
+            "coming",
+            "and",
+            "I",
+            "ve",
+            "lost"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " So, what makes this time any different?",
+          "dialogSplit": [
+            "So",
+            "what",
+            "makes",
+            "this",
+            "time",
+            "any",
+            "different"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Because she doesn't know I suspect anything.",
+          "dialogSplit": [
+            "Because",
+            "she",
+            "doesn't",
+            "know",
+            "I",
+            "suspect",
+            "anything"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Why would she do this to me?",
+          "dialogSplit": ["Why", "would", "she", "do", "this", "to", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I don't know, but I'm going to find out. And I promise, I won't stop until I expose what she's up to.",
+          "dialogSplit": [
+            "I",
+            "don't",
+            "know",
+            "but",
+            "I'm",
+            "going",
+            "to",
+            "find",
+            "out",
+            "And",
+            "I",
+            "promise",
+            "I",
+            "won't",
+            "stop",
+            "until",
+            "I",
+            "expose",
+            "what",
+            "she's",
+            "up",
+            "to"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " And how are you going to do that? This is her town.",
+          "dialogSplit": [
+            "And",
+            "how",
+            "are",
+            "you",
+            "going",
+            "to",
+            "do",
+            "that",
+            "This",
+            "is",
+            "her",
+            "town"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I'm working on it. I have faith in you. And now, I need you to have faith in me. Can you do that?",
+          "dialogSplit": [
+            "I'm",
+            "working",
+            "on",
+            "it",
+            "I",
+            "have",
+            "faith",
+            "in",
+            "you",
+            "And",
+            "now",
+            "I",
+            "need",
+            "you",
+            "to",
+            "have",
+            "faith",
+            "in",
+            "me",
+            "Can",
+            "you",
+            "do",
+            "that"
+          ]
+        },
+        {
+          "character": "Mary Margaret",
+          "dialog": " Of course. ",
+          "dialogSplit": ["Of", "course"]
+        }
+      ]
+    },
+    {
+      "sceneDesc": "Storybrooke. Present day. Mr. Gold Pawnbroker & Antiquities Dealer. Carefully, Mr. Gold takes a Genie\u2019s Lamp from the shelf. Emma enters.",
+      "tense": "Present",
+      "location": "Storybrooke",
+      "dialog": [
+        {
+          "character": "Emma",
+          "dialog": " MrGold.",
+          "dialogSplit": ["MrGold"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Just taking inventory. (sits down) What can I do for you, Miss Swan? Any developments in the case I should be aware of?",
+          "dialogSplit": [
+            "Just",
+            "taking",
+            "inventory",
+            "sits",
+            "down",
+            "What",
+            "can",
+            "I",
+            "do",
+            "for",
+            "you",
+            "Miss",
+            "Swan",
+            "Any",
+            "developments",
+            "in",
+            "the",
+            "case",
+            "I",
+            "should",
+            "be",
+            "aware",
+            "of"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Yes. Regina set her up.",
+          "dialogSplit": ["Yes", "Regina", "set", "her", "up"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " And this surprises you? Show me your evidence and we'll get this over with immediately.",
+          "dialogSplit": [
+            "And",
+            "this",
+            "surprises",
+            "you",
+            "Show",
+            "me",
+            "your",
+            "evidence",
+            "and",
+            "we'll",
+            "get",
+            "this",
+            "over",
+            "with",
+            "immediately"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Yeah. That's the thing. There isn't any. Anything that's court-worthy. But I know it now.",
+          "dialogSplit": [
+            "Yeah",
+            "That's",
+            "the",
+            "thing",
+            "There",
+            "isn't",
+            "any",
+            "Anything",
+            "that's",
+            "court",
+            "worthy",
+            "But",
+            "I",
+            "know",
+            "it",
+            "now"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Look, who's suddenly become a woman of faith. Why are you here, Miss Swan? To spin conspiracy theories?",
+          "dialogSplit": [
+            "Look",
+            "who's",
+            "suddenly",
+            "become",
+            "a",
+            "woman",
+            "of",
+            "faith",
+            "Why",
+            "are",
+            "you",
+            "here",
+            "Miss",
+            "Swan",
+            "To",
+            "spin",
+            "conspiracy",
+            "theories"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I need help.",
+          "dialogSplit": ["I", "need", "help"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " From me?",
+          "dialogSplit": ["From", "me"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Every time I\u2019ve gone up against Regina, I\u2019ve lost. Except for once, when I became Sheriff. When you helped.",
+          "dialogSplit": [
+            "Every",
+            "time",
+            "I",
+            "ve",
+            "gone",
+            "up",
+            "against",
+            "Regina",
+            "I",
+            "ve",
+            "lost",
+            "Except",
+            "for",
+            "once",
+            "when",
+            "I",
+            "became",
+            "Sheriff",
+            "When",
+            "you",
+            "helped"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " As I recall you don't exactly approve of my methods.",
+          "dialogSplit": [
+            "As",
+            "I",
+            "recall",
+            "you",
+            "don't",
+            "exactly",
+            "approve",
+            "of",
+            "my",
+            "methods"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " I approve of your results. And this time I have something more important than a job. I need to save my friend.",
+          "dialogSplit": [
+            "I",
+            "approve",
+            "of",
+            "your",
+            "results",
+            "And",
+            "this",
+            "time",
+            "I",
+            "have",
+            "something",
+            "more",
+            "important",
+            "than",
+            "a",
+            "job",
+            "I",
+            "need",
+            "to",
+            "save",
+            "my",
+            "friend"
+          ]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " And you're willing to go as far as it takes? ",
+          "dialogSplit": [
+            "And",
+            "you're",
+            "willing",
+            "to",
+            "go",
+            "as",
+            "far",
+            "as",
+            "it",
+            "takes"
+          ]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Farther.",
+          "dialogSplit": ["Farther"]
+        },
+        {
+          "character": "Mr. Gold",
+          "dialog": " Now, we\u2019re talking.  Fear not, Miss Swan. Regina may be powerful, but something tells me, you're more powerful than you know. ",
+          "dialogSplit": [
+            "Now",
+            "we",
+            "re",
+            "talking",
+            "Fear",
+            "not",
+            "Miss",
+            "Swan",
+            "Regina",
+            "may",
+            "be",
+            "powerful",
+            "but",
+            "something",
+            "tells",
+            "me",
+            "you're",
+            "more",
+            "powerful",
+            "than",
+            "you",
+            "know"
+          ]
+        }
+      ]
+    }
+  ]
+}
