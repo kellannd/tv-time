@@ -9,12 +9,14 @@
         {
           "character": "Guards",
           "dialog": " Hurry! After her! Stop!",
-          "dialogSplit": ["Hurry", "After", "her", "Stop"]
+          "dialogSplit": ["Hurry", "After", "her", "Stop"],
+          "dialogStemmed": ["hurri", "after", "her", "stop"]
         },
         {
           "character": "Snow White",
           "dialog": " Uhh! Oh! Really?",
-          "dialogSplit": ["Uhh", "Oh", "Really"]
+          "dialogSplit": ["Uhh", "Oh", "Really"],
+          "dialogStemmed": ["uhh", "oh", "realli"]
         },
         {
           "character": "Guard 1",
@@ -39,12 +41,34 @@
             "the",
             "queen",
             "here"
+          ],
+          "dialogStemmed": [
+            "you'r",
+            "a",
+            "long",
+            "way",
+            "from",
+            "home",
+            "snow",
+            "white",
+            "did",
+            "you",
+            "realli",
+            "think",
+            "you",
+            "could",
+            "hide",
+            "from",
+            "the",
+            "queen",
+            "here"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Actually, yes.",
-          "dialogSplit": ["Actually", "yes"]
+          "dialogSplit": ["Actually", "yes"],
+          "dialogStemmed": ["actual", "ye"]
         },
         {
           "character": "Guard 1",
@@ -67,22 +91,44 @@
             "see",
             "you",
             "again"
+          ],
+          "dialogStemmed": [
+            "well",
+            "don't",
+            "worri",
+            "we'r",
+            "here",
+            "to",
+            "take",
+            "you",
+            "back",
+            "the",
+            "queen",
+            "is",
+            "eager",
+            "to",
+            "see",
+            "you",
+            "again"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Not gonna happen. ",
-          "dialogSplit": ["Not", "gonna", "happen"]
+          "dialogSplit": ["Not", "gonna", "happen"],
+          "dialogStemmed": ["not", "gonna", "happen"]
         },
         {
           "character": "Guard 1",
           "dialog": " No, no, no! Wait! ",
-          "dialogSplit": ["No", "no", "no", "Wait"]
+          "dialogSplit": ["No", "no", "no", "Wait"],
+          "dialogStemmed": ["no", "no", "no", "wait"]
         },
         {
           "character": "Snow White",
           "dialog": " Thank you.",
-          "dialogSplit": ["Thank", "you"]
+          "dialogSplit": ["Thank", "you"],
+          "dialogStemmed": ["thank", "you"]
         },
         {
           "character": "Ariel",
@@ -100,17 +146,33 @@
             "waters",
             "next",
             "time"
+          ],
+          "dialogStemmed": [
+            "no",
+            "problem",
+            "you",
+            "might",
+            "wanna",
+            "tri",
+            "dive",
+            "in",
+            "calmer",
+            "water",
+            "next",
+            "time"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " You're a...",
-          "dialogSplit": ["You're", "a"]
+          "dialogSplit": ["You're", "a"],
+          "dialogStemmed": ["you'r", "a"]
         },
         {
           "character": "Ariel",
           "dialog": " Yeah. I'm a mermaid. Name's Ariel. ",
-          "dialogSplit": ["Yeah", "I'm", "a", "mermaid", "Name's", "Ariel"]
+          "dialogSplit": ["Yeah", "I'm", "a", "mermaid", "Name's", "Ariel"],
+          "dialogStemmed": ["yeah", "i'm", "a", "mermaid", "name'", "ariel"]
         }
       ]
     },
@@ -122,7 +184,8 @@
         {
           "character": "Regina",
           "dialog": " Focus. Concentrate.",
-          "dialogSplit": ["Focus", "Concentrate"]
+          "dialogSplit": ["Focus", "Concentrate"],
+          "dialogStemmed": ["focu", "concentr"]
         },
         {
           "character": "Emma",
@@ -135,6 +198,18 @@
             "when",
             "you're",
             "talking",
+            "in",
+            "my",
+            "ear"
+          ],
+          "dialogStemmed": [
+            "it'",
+            "kind",
+            "of",
+            "hard",
+            "when",
+            "you'r",
+            "talk",
             "in",
             "my",
             "ear"
@@ -172,6 +247,36 @@
             "it",
             "to",
             "focus"
+          ],
+          "dialogStemmed": [
+            "and",
+            "when",
+            "the",
+            "wind",
+            "blow",
+            "or",
+            "it'",
+            "rain",
+            "or",
+            "someone'",
+            "shoot",
+            "arrow",
+            "at",
+            "you",
+            "ye",
+            "concentration'",
+            "hard",
+            "that'",
+            "the",
+            "point",
+            "find",
+            "your",
+            "anger",
+            "and",
+            "use",
+            "it",
+            "to",
+            "focu"
           ]
         },
         {
@@ -188,6 +293,18 @@
             "without",
             "going",
             "dark"
+          ],
+          "dialogStemmed": [
+            "no",
+            "there",
+            "ha",
+            "to",
+            "be",
+            "a",
+            "way",
+            "without",
+            "go",
+            "dark"
           ]
         },
         {
@@ -201,28 +318,46 @@
             "waste",
             "of",
             "ability"
+          ],
+          "dialogStemmed": [
+            "you'r",
+            "such",
+            "a",
+            "pathet",
+            "wast",
+            "of",
+            "abil"
           ]
         },
         {
           "character": "Emma",
           "dialog": " And you're a monster.",
-          "dialogSplit": ["And", "you're", "a", "monster"]
+          "dialogSplit": ["And", "you're", "a", "monster"],
+          "dialogStemmed": ["and", "you'r", "a", "monster"]
         },
         {
           "character": "Regina",
           "dialog": " ...Smell that?",
-          "dialogSplit": ["Smell", "that"]
+          "dialogSplit": ["Smell", "that"],
+          "dialogStemmed": ["smell", "that"]
         },
-        { "character": "Emma", "dialog": " What?", "dialogSplit": ["What"] },
+        {
+          "character": "Emma",
+          "dialog": " What?",
+          "dialogSplit": ["What"],
+          "dialogStemmed": ["what"]
+        },
         {
           "character": "Regina",
           "dialog": " Smoke. ",
-          "dialogSplit": ["Smoke"]
+          "dialogSplit": ["Smoke"],
+          "dialogStemmed": ["smoke"]
         },
         {
           "character": "David",
           "dialog": " This is a bad idea.",
-          "dialogSplit": ["This", "is", "a", "bad", "idea"]
+          "dialogSplit": ["This", "is", "a", "bad", "idea"],
+          "dialogStemmed": ["thi", "is", "a", "bad", "idea"]
         },
         {
           "character": "Mary Margaret",
@@ -245,12 +380,32 @@
             "to",
             "trust",
             "her"
+          ],
+          "dialogStemmed": [
+            "she",
+            "ha",
+            "it",
+            "in",
+            "her",
+            "she",
+            "should",
+            "learn",
+            "to",
+            "use",
+            "it",
+            "we",
+            "just",
+            "have",
+            "to",
+            "trust",
+            "her"
           ]
         },
         {
           "character": "David",
           "dialog": " Yeah, it's not Emma I don't trust. ",
-          "dialogSplit": ["Yeah", "it's", "not", "Emma", "I", "don't", "trust"]
+          "dialogSplit": ["Yeah", "it's", "not", "Emma", "I", "don't", "trust"],
+          "dialogStemmed": ["yeah", "it'", "not", "emma", "i", "don't", "trust"]
         },
         {
           "character": "Hook",
@@ -280,6 +435,32 @@
             "this",
             "very",
             "island"
+          ],
+          "dialogStemmed": [
+            "we",
+            "need",
+            "to",
+            "talk",
+            "pan",
+            "paid",
+            "me",
+            "a",
+            "visit",
+            "he",
+            "uh",
+            "he",
+            "told",
+            "me",
+            "that",
+            "neal",
+            "is",
+            "aliv",
+            "that",
+            "he'",
+            "on",
+            "thi",
+            "veri",
+            "island"
           ]
         },
         {
@@ -301,6 +482,24 @@
             "one",
             "could",
             "survive",
+            "that"
+          ],
+          "dialogStemmed": [
+            "emma",
+            "saw",
+            "him",
+            "he",
+            "wa",
+            "shot",
+            "he",
+            "fell",
+            "through",
+            "a",
+            "portal",
+            "no",
+            "one",
+            "could",
+            "surviv",
             "that"
           ]
         },
@@ -331,6 +530,31 @@
             "in",
             "his",
             "cave"
+          ],
+          "dialogStemmed": [
+            "well",
+            "he",
+            "did",
+            "and",
+            "now",
+            "he'",
+            "here",
+            "he",
+            "said",
+            "he",
+            "took",
+            "him",
+            "from",
+            "thi",
+            "veri",
+            "camp",
+            "while",
+            "we",
+            "were",
+            "off",
+            "in",
+            "hi",
+            "cave"
           ]
         },
         {
@@ -343,6 +567,16 @@
             "if",
             "he's",
             "telling",
+            "the",
+            "truth"
+          ],
+          "dialogStemmed": [
+            "accord",
+            "to",
+            "pan",
+            "if",
+            "he'",
+            "tell",
             "the",
             "truth"
           ]
@@ -360,6 +594,21 @@
             "you",
             "What",
             "does",
+            "he",
+            "hope",
+            "to",
+            "gain"
+          ],
+          "dialogStemmed": [
+            "and",
+            "uh",
+            "whi",
+            "would",
+            "he",
+            "tell",
+            "you",
+            "what",
+            "doe",
             "he",
             "hope",
             "to",
@@ -389,6 +638,27 @@
             "not",
             "good",
             "ones"
+          ],
+          "dialogStemmed": [
+            "who",
+            "know",
+            "whi",
+            "he",
+            "doe",
+            "anyth",
+            "he",
+            "ha",
+            "hi",
+            "reason",
+            "but",
+            "it'",
+            "a",
+            "sure",
+            "bet",
+            "they'r",
+            "not",
+            "good",
+            "one"
           ]
         },
         {
@@ -411,6 +681,28 @@
             "were",
             "gone",
             "We",
+            "have",
+            "to",
+            "tell",
+            "her"
+          ],
+          "dialogStemmed": [
+            "he'",
+            "tell",
+            "the",
+            "truth",
+            "track",
+            "and",
+            "a",
+            "scuffl",
+            "someon",
+            "wa",
+            "here",
+            "while",
+            "we",
+            "were",
+            "gone",
+            "we",
             "have",
             "to",
             "tell",
@@ -443,6 +735,30 @@
             "losing",
             "him",
             "again"
+          ],
+          "dialogStemmed": [
+            "no",
+            "no",
+            "no",
+            "she",
+            "alreadi",
+            "lost",
+            "neal",
+            "onc",
+            "and",
+            "if",
+            "thi",
+            "is",
+            "a",
+            "game",
+            "we",
+            "can't",
+            "put",
+            "her",
+            "through",
+            "lose",
+            "him",
+            "again"
           ]
         },
         {
@@ -466,6 +782,25 @@
             "shouldn't",
             "do",
             "it"
+          ],
+          "dialogStemmed": [
+            "he'",
+            "right",
+            "either",
+            "way",
+            "tell",
+            "her",
+            "is",
+            "what",
+            "pan",
+            "want",
+            "which",
+            "is",
+            "whi",
+            "we",
+            "shouldn't",
+            "do",
+            "it"
           ]
         },
         {
@@ -481,17 +816,30 @@
             "letting",
             "her",
             "know"
+          ],
+          "dialogStemmed": [
+            "you",
+            "want",
+            "to",
+            "find",
+            "him",
+            "without",
+            "let",
+            "her",
+            "know"
           ]
         },
         {
           "character": "Hook",
           "dialog": " Why hurt her unnecessarily? ",
-          "dialogSplit": ["Why", "hurt", "her", "unnecessarily"]
+          "dialogSplit": ["Why", "hurt", "her", "unnecessarily"],
+          "dialogStemmed": ["whi", "hurt", "her", "unnecessarili"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " I've never lied to her before.",
-          "dialogSplit": ["I've", "never", "lied", "to", "her", "before"]
+          "dialogSplit": ["I've", "never", "lied", "to", "her", "before"],
+          "dialogStemmed": ["i'v", "never", "lie", "to", "her", "befor"]
         },
         {
           "character": "Hook",
@@ -507,6 +855,18 @@
             "secret",
             "until",
             "confirmation"
+          ],
+          "dialogStemmed": [
+            "you'r",
+            "not",
+            "lie",
+            "you'r",
+            "just",
+            "keep",
+            "a",
+            "secret",
+            "until",
+            "confirm"
           ]
         },
         {
@@ -526,6 +886,21 @@
             "really",
             "care",
             "about"
+          ],
+          "dialogStemmed": [
+            "secret",
+            "alway",
+            "seem",
+            "to",
+            "keep",
+            "us",
+            "from",
+            "the",
+            "peopl",
+            "we",
+            "realli",
+            "care",
+            "about"
           ]
         },
         {
@@ -538,6 +913,16 @@
             "protect",
             "the",
             "people",
+            "we",
+            "love"
+          ],
+          "dialogStemmed": [
+            "and",
+            "sometim",
+            "secret",
+            "protect",
+            "the",
+            "peopl",
             "we",
             "love"
           ]
@@ -563,6 +948,18 @@
             "jump",
             "like",
             "that"
+          ],
+          "dialogStemmed": [
+            "what",
+            "on",
+            "earth",
+            "would",
+            "possess",
+            "you",
+            "to",
+            "jump",
+            "like",
+            "that"
           ]
         },
         {
@@ -577,32 +974,47 @@
             "an",
             "evil",
             "queen"
+          ],
+          "dialogStemmed": [
+            "you",
+            "ever",
+            "been",
+            "chase",
+            "by",
+            "an",
+            "evil",
+            "queen"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " I can't say that I have.",
-          "dialogSplit": ["I", "can't", "say", "that", "I", "have"]
+          "dialogSplit": ["I", "can't", "say", "that", "I", "have"],
+          "dialogStemmed": ["i", "can't", "say", "that", "i", "have"]
         },
         {
           "character": "Snow White",
           "dialog": " Makes you do crazy things.",
-          "dialogSplit": ["Makes", "you", "do", "crazy", "things"]
+          "dialogSplit": ["Makes", "you", "do", "crazy", "things"],
+          "dialogStemmed": ["make", "you", "do", "crazi", "thing"]
         },
         {
           "character": "Ariel",
           "dialog": " Well, that I know.",
-          "dialogSplit": ["Well", "that", "I", "know"]
+          "dialogSplit": ["Well", "that", "I", "know"],
+          "dialogStemmed": ["well", "that", "i", "know"]
         },
         {
           "character": "Snow White",
           "dialog": " Are you on the run from someone?",
-          "dialogSplit": ["Are", "you", "on", "the", "run", "from", "someone"]
+          "dialogSplit": ["Are", "you", "on", "the", "run", "from", "someone"],
+          "dialogStemmed": ["are", "you", "on", "the", "run", "from", "someon"]
         },
         {
           "character": "Ariel",
           "dialog": " More like on the run to someone.",
-          "dialogSplit": ["More", "like", "on", "the", "run", "to", "someone"]
+          "dialogSplit": ["More", "like", "on", "the", "run", "to", "someone"],
+          "dialogStemmed": ["more", "like", "on", "the", "run", "to", "someon"]
         },
         {
           "character": "Snow White",
@@ -622,6 +1034,22 @@
             "crazy",
             "is",
             "love"
+          ],
+          "dialogStemmed": [
+            "what'",
+            "hi",
+            "name",
+            "come",
+            "on",
+            "the",
+            "one",
+            "thing",
+            "that",
+            "make",
+            "everyon",
+            "crazi",
+            "is",
+            "love"
           ]
         },
         {
@@ -635,7 +1063,8 @@
             "in",
             "this",
             "kingdom"
-          ]
+          ],
+          "dialogStemmed": ["eric", "he'", "a", "princ", "in", "thi", "kingdom"]
         },
         {
           "character": "Snow White",
@@ -648,6 +1077,16 @@
             "on",
             "land",
             "He's",
+            "human"
+          ],
+          "dialogStemmed": [
+            "so",
+            "wait",
+            "he",
+            "live",
+            "on",
+            "land",
+            "he'",
             "human"
           ]
         },
@@ -690,17 +1129,56 @@
             "just",
             "I",
             "knew"
+          ],
+          "dialogStemmed": [
+            "okay",
+            "here'",
+            "the",
+            "thing",
+            "about",
+            "a",
+            "year",
+            "ago",
+            "hi",
+            "ship",
+            "wreck",
+            "and",
+            "i",
+            "rescu",
+            "him",
+            "i",
+            "do",
+            "that",
+            "he",
+            "wa",
+            "unconsci",
+            "we",
+            "never",
+            "spoke",
+            "but",
+            "when",
+            "i",
+            "look",
+            "at",
+            "hi",
+            "face",
+            "i",
+            "just",
+            "i",
+            "knew"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Love at first sight.",
-          "dialogSplit": ["Love", "at", "first", "sight"]
+          "dialogSplit": ["Love", "at", "first", "sight"],
+          "dialogStemmed": ["love", "at", "first", "sight"]
         },
         {
           "character": "Ariel",
           "dialog": " It sounds dumb. I know.",
-          "dialogSplit": ["It", "sounds", "dumb", "I", "know"]
+          "dialogSplit": ["It", "sounds", "dumb", "I", "know"],
+          "dialogStemmed": ["it", "sound", "dumb", "i", "know"]
         },
         {
           "character": "Snow White",
@@ -714,6 +1192,16 @@
             "at",
             "all",
             "Interesting"
+          ],
+          "dialogStemmed": [
+            "no",
+            "it",
+            "doesn't",
+            "sound",
+            "dumb",
+            "at",
+            "all",
+            "interest"
           ]
         },
         {
@@ -753,6 +1241,41 @@
             "meet",
             "him",
             "there"
+          ],
+          "dialogStemmed": [
+            "i",
+            "collect",
+            "thing",
+            "and",
+            "i",
+            "found",
+            "thi",
+            "there'",
+            "a",
+            "ball",
+            "at",
+            "hi",
+            "castl",
+            "tonight",
+            "the",
+            "annual",
+            "under",
+            "the",
+            "sea",
+            "celebr",
+            "honor",
+            "the",
+            "sea",
+            "goddess",
+            "ursula",
+            "and",
+            "i",
+            "wa",
+            "hope",
+            "to",
+            "meet",
+            "him",
+            "there"
           ]
         },
         {
@@ -774,6 +1297,23 @@
             "you",
             "do",
             "that"
+          ],
+          "dialogStemmed": [
+            "how",
+            "are",
+            "you",
+            "plan",
+            "on",
+            "do",
+            "that",
+            "with",
+            "a",
+            "tail",
+            "how",
+            "did",
+            "you",
+            "do",
+            "that"
           ]
         },
         {
@@ -788,6 +1328,18 @@
             "your",
             "mermaid",
             "mythology",
+            "do",
+            "you"
+          ],
+          "dialogStemmed": [
+            "you",
+            "realli",
+            "know",
+            "noth",
+            "of",
+            "your",
+            "mermaid",
+            "mytholog",
             "do",
             "you"
           ]
@@ -808,6 +1360,21 @@
             "people",
             "mythology",
             "I",
+            "think"
+          ],
+          "dialogStemmed": [
+            "uh",
+            "probabl",
+            "about",
+            "as",
+            "much",
+            "as",
+            "you",
+            "know",
+            "about",
+            "peopl",
+            "mytholog",
+            "i",
             "think"
           ]
         },
@@ -849,12 +1416,49 @@
             "next",
             "high",
             "tide"
+          ],
+          "dialogStemmed": [
+            "good",
+            "point",
+            "well",
+            "anyway",
+            "everi",
+            "year",
+            "at",
+            "the",
+            "highest",
+            "tide",
+            "the",
+            "legend",
+            "say",
+            "that",
+            "the",
+            "sea",
+            "goddess",
+            "ursula",
+            "grant",
+            "our",
+            "kind",
+            "with",
+            "the",
+            "abil",
+            "to",
+            "walk",
+            "on",
+            "dri",
+            "land",
+            "until",
+            "the",
+            "next",
+            "high",
+            "tide"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Which is when?",
-          "dialogSplit": ["Which", "is", "when"]
+          "dialogSplit": ["Which", "is", "when"],
+          "dialogStemmed": ["which", "is", "when"]
         },
         {
           "character": "Ariel",
@@ -868,6 +1472,17 @@
             "dinner",
             "and",
             "dancing",
+            "and"
+          ],
+          "dialogStemmed": [
+            "twelv",
+            "hour",
+            "enough",
+            "time",
+            "for",
+            "dinner",
+            "and",
+            "danc",
             "and"
           ]
         },
@@ -888,6 +1503,21 @@
             "little",
             "more",
             "time"
+          ],
+          "dialogStemmed": [
+            "twelv",
+            "hour",
+            "whi",
+            "don't",
+            "you",
+            "ask",
+            "thi",
+            "ursula",
+            "for",
+            "a",
+            "littl",
+            "more",
+            "time"
           ]
         },
         {
@@ -904,6 +1534,23 @@
             "thousand",
             "years",
             "She's",
+            "a",
+            "bit",
+            "of",
+            "a",
+            "myth"
+          ],
+          "dialogStemmed": [
+            "well",
+            "no",
+            "one'",
+            "seen",
+            "her",
+            "in",
+            "a",
+            "thousand",
+            "year",
+            "she'",
             "a",
             "bit",
             "of",
@@ -937,6 +1584,30 @@
             "love",
             "of",
             "yours"
+          ],
+          "dialogStemmed": [
+            "well",
+            "myth",
+            "or",
+            "no",
+            "myth",
+            "you",
+            "save",
+            "my",
+            "life",
+            "the",
+            "least",
+            "i",
+            "can",
+            "do",
+            "is",
+            "help",
+            "you",
+            "find",
+            "the",
+            "love",
+            "of",
+            "your"
           ]
         },
         {
@@ -951,22 +1622,35 @@
             "keep",
             "a",
             "secret"
+          ],
+          "dialogStemmed": [
+            "thank",
+            "you",
+            "but",
+            "can",
+            "you",
+            "keep",
+            "a",
+            "secret"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Mm-hmm.",
-          "dialogSplit": ["Mm", "hmm"]
+          "dialogSplit": ["Mm", "hmm"],
+          "dialogStemmed": ["mm", "hmm"]
         },
         {
           "character": "Ariel",
           "dialog": " I'm a mermaid.",
-          "dialogSplit": ["I'm", "a", "mermaid"]
+          "dialogSplit": ["I'm", "a", "mermaid"],
+          "dialogStemmed": ["i'm", "a", "mermaid"]
         },
         {
           "character": "Snow White",
           "dialog": " Yeah, I got that.",
-          "dialogSplit": ["Yeah", "I", "got", "that"]
+          "dialogSplit": ["Yeah", "I", "got", "that"],
+          "dialogStemmed": ["yeah", "i", "got", "that"]
         },
         {
           "character": "Ariel",
@@ -989,6 +1673,25 @@
             "sea",
             "for",
             "now"
+          ],
+          "dialogStemmed": [
+            "but",
+            "eric",
+            "doesn't",
+            "know",
+            "that",
+            "so",
+            "can",
+            "we",
+            "just",
+            "mayb",
+            "keep",
+            "that",
+            "under",
+            "the",
+            "sea",
+            "for",
+            "now"
           ]
         },
         {
@@ -1001,6 +1704,17 @@
             "he",
             "eventually",
             "needs",
+            "to",
+            "find",
+            "out"
+          ],
+          "dialogStemmed": [
+            "isn't",
+            "that",
+            "someth",
+            "he",
+            "eventu",
+            "need",
             "to",
             "find",
             "out"
@@ -1018,12 +1732,23 @@
             "me",
             "first",
             "okay"
+          ],
+          "dialogStemmed": [
+            "just",
+            "let",
+            "him",
+            "fall",
+            "for",
+            "me",
+            "first",
+            "okay"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Okay. Your secret's safe with me.",
-          "dialogSplit": ["Okay", "Your", "secret's", "safe", "with", "me"]
+          "dialogSplit": ["Okay", "Your", "secret's", "safe", "with", "me"],
+          "dialogStemmed": ["okay", "your", "secret'", "safe", "with", "me"]
         }
       ]
     },
@@ -1047,43 +1772,68 @@
             "good",
             "cover",
             "story"
+          ],
+          "dialogStemmed": [
+            "if",
+            "we'r",
+            "gonna",
+            "hide",
+            "thi",
+            "we",
+            "need",
+            "a",
+            "good",
+            "cover",
+            "stori"
           ]
         },
-        { "character": "David", "dialog": " Done.", "dialogSplit": ["Done"] },
+        {
+          "character": "David",
+          "dialog": " Done.",
+          "dialogSplit": ["Done"],
+          "dialogStemmed": ["done"]
+        },
         {
           "character": "Hook",
           "dialog": " That's no problem.",
-          "dialogSplit": ["That's", "no", "problem"]
+          "dialogSplit": ["That's", "no", "problem"],
+          "dialogStemmed": ["that'", "no", "problem"]
         },
         {
           "character": "Emma",
           "dialog": " Where you guys going?",
-          "dialogSplit": ["Where", "you", "guys", "going"]
+          "dialogSplit": ["Where", "you", "guys", "going"],
+          "dialogStemmed": ["where", "you", "guy", "go"]
         },
         {
           "character": "Hook and David (at the same time)",
           "dialog": " Firewood. To get water.",
-          "dialogSplit": ["Firewood", "To", "get", "water"]
+          "dialogSplit": ["Firewood", "To", "get", "water"],
+          "dialogStemmed": ["firewood", "to", "get", "water"]
         },
         {
           "character": "Emma",
           "dialog": " Guys, what's going on?",
-          "dialogSplit": ["Guys", "what's", "going", "on"]
+          "dialogSplit": ["Guys", "what's", "going", "on"],
+          "dialogStemmed": ["guy", "what'", "go", "on"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " Neal's alive.",
-          "dialogSplit": ["Neal's", "alive"]
+          "dialogSplit": ["Neal's", "alive"],
+          "dialogStemmed": ["neal'", "aliv"]
         },
         {
           "character": "Emma",
           "dialog": " Neal i... is... Alive?",
-          "dialogSplit": ["Neal", "i", "is", "Alive"]
+          "dialogSplit": ["Neal", "i", "is", "Alive"],
+          "dialogStemmed": ["neal", "i", "is", "aliv"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " Maybe.  Sorry, she deserved to know. ",
-          "dialogSplit": ["Maybe", "Sorry", "she", "deserved", "to", "know"]
+          "dialogSplit": ["Maybe", "Sorry", "she", "deserved", "to", "know"],
+          "dialogStemmed": ["mayb", "sorri", "she", "deserv", "to", "know"]
         },
         {
           "character": "Peter Pan",
@@ -1108,6 +1858,27 @@
             "time",
             "stands",
             "still"
+          ],
+          "dialogStemmed": [
+            "you",
+            "can't",
+            "see",
+            "the",
+            "futur",
+            "here",
+            "it'",
+            "imposs",
+            "to",
+            "see",
+            "the",
+            "futur",
+            "in",
+            "a",
+            "place",
+            "where",
+            "time",
+            "stand",
+            "still"
           ]
         },
         {
@@ -1123,6 +1894,21 @@
             "here",
             "but",
             "I",
+            "can",
+            "make",
+            "one",
+            "happen"
+          ],
+          "dialogStemmed": [
+            "i",
+            "may",
+            "not",
+            "see",
+            "the",
+            "futur",
+            "here",
+            "but",
+            "i",
             "can",
             "make",
             "one",
@@ -1163,12 +1949,45 @@
             "in",
             "the",
             "dumps"
+          ],
+          "dialogStemmed": [
+            "wa",
+            "that",
+            "a",
+            "threat",
+            "and",
+            "here",
+            "i",
+            "made",
+            "you",
+            "your",
+            "favourit",
+            "breakfast",
+            "egg",
+            "in",
+            "a",
+            "basket",
+            "i",
+            "thought",
+            "you",
+            "could",
+            "use",
+            "it",
+            "you",
+            "look",
+            "a",
+            "littl",
+            "down",
+            "in",
+            "the",
+            "dump"
           ]
         },
         {
           "character": "Gold",
           "dialog": " I'm fine.",
-          "dialogSplit": ["I'm", "fine"]
+          "dialogSplit": ["I'm", "fine"],
+          "dialogStemmed": ["i'm", "fine"]
         },
         {
           "character": "Peter Pan",
@@ -1209,12 +2028,50 @@
             "runny",
             "don't",
             "you"
+          ],
+          "dialogStemmed": [
+            "sure",
+            "you",
+            "are",
+            "rumpl",
+            "you",
+            "lost",
+            "your",
+            "son",
+            "neal",
+            "again",
+            "and",
+            "henry'",
+            "unattain",
+            "becaus",
+            "well",
+            "you'd",
+            "have",
+            "to",
+            "go",
+            "through",
+            "me",
+            "and",
+            "we",
+            "both",
+            "know",
+            "you",
+            "can't",
+            "you",
+            "still",
+            "like",
+            "the",
+            "yolk",
+            "runni",
+            "don't",
+            "you"
           ]
         },
         {
           "character": "Gold",
           "dialog": " What do you want?",
-          "dialogSplit": ["What", "do", "you", "want"]
+          "dialogSplit": ["What", "do", "you", "want"],
+          "dialogStemmed": ["what", "do", "you", "want"]
         },
         {
           "character": "Peter Pan",
@@ -1241,6 +2098,29 @@
             "your",
             "cloudy",
             "life"
+          ],
+          "dialogStemmed": [
+            "well",
+            "if",
+            "you",
+            "won't",
+            "eat",
+            "then",
+            "i",
+            "will",
+            "i'm",
+            "just",
+            "tri",
+            "to",
+            "point",
+            "out",
+            "the",
+            "silver",
+            "line",
+            "in",
+            "your",
+            "cloudi",
+            "life"
           ]
         },
         {
@@ -1254,6 +2134,16 @@
             "all",
             "our",
             "troubles",
+            "end"
+          ],
+          "dialogStemmed": [
+            "that",
+            "by",
+            "kill",
+            "you",
+            "all",
+            "our",
+            "troubl",
             "end"
           ]
         },
@@ -1288,6 +2178,35 @@
             "leave",
             "the",
             "island"
+          ],
+          "dialogStemmed": [
+            "we",
+            "both",
+            "know",
+            "that'",
+            "not",
+            "go",
+            "to",
+            "happen",
+            "becaus",
+            "the",
+            "onli",
+            "way",
+            "to",
+            "do",
+            "that",
+            "is",
+            "for",
+            "you",
+            "to",
+            "die",
+            "too",
+            "you",
+            "can",
+            "go",
+            "leav",
+            "the",
+            "island"
           ]
         },
         {
@@ -1301,6 +2220,18 @@
             "And",
             "Henry",
             "I",
+            "don't",
+            "think",
+            "so"
+          ],
+          "dialogStemmed": [
+            "and",
+            "abandon",
+            "my",
+            "son",
+            "and",
+            "henri",
+            "i",
             "don't",
             "think",
             "so"
@@ -1336,12 +2267,41 @@
             "things",
             "you've",
             "done"
+          ],
+          "dialogStemmed": [
+            "look",
+            "even",
+            "if",
+            "you",
+            "did",
+            "save",
+            "them",
+            "which",
+            "you",
+            "won't",
+            "what",
+            "would",
+            "be",
+            "the",
+            "point",
+            "they'll",
+            "never",
+            "forgiv",
+            "you",
+            "for",
+            "all",
+            "the",
+            "horribl",
+            "thing",
+            "you'v",
+            "done"
           ]
         },
         {
           "character": "Gold",
           "dialog": " You don't know that.",
-          "dialogSplit": ["You", "don't", "know", "that"]
+          "dialogSplit": ["You", "don't", "know", "that"],
+          "dialogStemmed": ["you", "don't", "know", "that"]
         },
         {
           "character": "Peter Pan",
@@ -1413,6 +2373,74 @@
             "Enjoy",
             "the",
             "eggs"
+          ],
+          "dialogStemmed": [
+            "have",
+            "you",
+            "forgiven",
+            "your",
+            "father",
+            "you",
+            "see",
+            "my",
+            "point",
+            "back",
+            "to",
+            "that",
+            "silver",
+            "line",
+            "you",
+            "have",
+            "a",
+            "nice",
+            "girl",
+            "wait",
+            "for",
+            "you",
+            "back",
+            "in",
+            "storybrook",
+            "bell",
+            "is",
+            "it",
+            "stop",
+            "thi",
+            "foolish",
+            "and",
+            "go",
+            "back",
+            "to",
+            "her",
+            "make",
+            "a",
+            "new",
+            "start",
+            "she",
+            "look",
+            "fertil",
+            "mayb",
+            "a",
+            "new",
+            "child",
+            "you",
+            "and",
+            "i",
+            "both",
+            "know",
+            "that'",
+            "the",
+            "onli",
+            "futur",
+            "for",
+            "you",
+            "assum",
+            "you",
+            "want",
+            "to",
+            "live",
+            "enjoy",
+            "the",
+            "egg"
           ]
         },
         {
@@ -1427,6 +2455,18 @@
             "time",
             "He's",
             "toying",
+            "with",
+            "us"
+          ],
+          "dialogStemmed": [
+            "thi",
+            "is",
+            "a",
+            "wast",
+            "of",
+            "time",
+            "he'",
+            "toy",
             "with",
             "us"
           ]
@@ -1446,12 +2486,26 @@
             "was",
             "definitely",
             "resisting"
+          ],
+          "dialogStemmed": [
+            "i",
+            "don't",
+            "think",
+            "so",
+            "look",
+            "more",
+            "scuffl",
+            "someon",
+            "wa",
+            "definit",
+            "resist"
           ]
         },
         {
           "character": "Emma",
           "dialog": " How do we know that means Neal?",
-          "dialogSplit": ["How", "do", "we", "know", "that", "means", "Neal"]
+          "dialogSplit": ["How", "do", "we", "know", "that", "means", "Neal"],
+          "dialogStemmed": ["how", "do", "we", "know", "that", "mean", "neal"]
         },
         {
           "character": "Mary Margaret",
@@ -1464,6 +2518,16 @@
             "fighting",
             "for",
             "his",
+            "life"
+          ],
+          "dialogStemmed": [
+            "well",
+            "then",
+            "someon",
+            "wa",
+            "fight",
+            "for",
+            "hi",
             "life"
           ]
         },
@@ -1491,22 +2555,47 @@
             "Be",
             "my",
             "guest"
+          ],
+          "dialogStemmed": [
+            "are",
+            "you",
+            "realli",
+            "go",
+            "to",
+            "fall",
+            "for",
+            "thi",
+            "fine",
+            "you",
+            "wanna",
+            "follow",
+            "the",
+            "evil",
+            "munchkin'",
+            "dirt",
+            "road",
+            "be",
+            "my",
+            "guest"
           ]
         },
         {
           "character": "Emma",
           "dialog": " Wait. Where are you going?",
-          "dialogSplit": ["Wait", "Where", "are", "you", "going"]
+          "dialogSplit": ["Wait", "Where", "are", "you", "going"],
+          "dialogStemmed": ["wait", "where", "are", "you", "go"]
         },
         {
           "character": "Regina",
           "dialog": " To save our son.",
-          "dialogSplit": ["To", "save", "our", "son"]
+          "dialogSplit": ["To", "save", "our", "son"],
+          "dialogStemmed": ["to", "save", "our", "son"]
         },
         {
           "character": "Emma",
           "dialog": " We need to stick together.",
-          "dialogSplit": ["We", "need", "to", "stick", "together"]
+          "dialogSplit": ["We", "need", "to", "stick", "together"],
+          "dialogStemmed": ["we", "need", "to", "stick", "togeth"]
         },
         {
           "character": "Regina",
@@ -1536,6 +2625,32 @@
             "of",
             "waiting",
             "around"
+          ],
+          "dialogStemmed": [
+            "no",
+            "we",
+            "don't",
+            "you",
+            "may",
+            "be",
+            "prepar",
+            "to",
+            "risk",
+            "henry'",
+            "life",
+            "over",
+            "some",
+            "heartbroken",
+            "fool'",
+            "errand",
+            "but",
+            "i'm",
+            "not",
+            "i'm",
+            "tire",
+            "of",
+            "wait",
+            "around"
           ]
         },
         {
@@ -1550,6 +2665,16 @@
             "could",
             "be",
             "lying"
+          ],
+          "dialogStemmed": [
+            "what",
+            "if",
+            "she'",
+            "right",
+            "pan",
+            "could",
+            "be",
+            "lie"
           ]
         },
         {
@@ -1591,6 +2716,43 @@
             "it",
             "to",
             "yourself"
+          ],
+          "dialogStemmed": [
+            "just",
+            "becaus",
+            "it",
+            "seem",
+            "too",
+            "good",
+            "to",
+            "be",
+            "true",
+            "doesn't",
+            "mean",
+            "it",
+            "is",
+            "don't",
+            "give",
+            "up",
+            "you",
+            "owe",
+            "it",
+            "to",
+            "henri",
+            "to",
+            "find",
+            "out",
+            "if",
+            "hi",
+            "father'",
+            "still",
+            "aliv",
+            "and",
+            "you",
+            "owe",
+            "it",
+            "to",
+            "yourself"
           ]
         }
       ]
@@ -1620,12 +2782,31 @@
             "how",
             "people",
             "dress"
+          ],
+          "dialogStemmed": [
+            "wow",
+            "it'",
+            "even",
+            "better",
+            "than",
+            "i",
+            "imagin",
+            "do",
+            "i",
+            "look",
+            "okay",
+            "is",
+            "thi",
+            "how",
+            "peopl",
+            "dress"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " You look fantastic.",
-          "dialogSplit": ["You", "look", "fantastic"]
+          "dialogSplit": ["You", "look", "fantastic"],
+          "dialogStemmed": ["you", "look", "fantast"]
         },
         {
           "character": "Ariel",
@@ -1641,6 +2822,18 @@
             "feels",
             "a",
             "little"
+          ],
+          "dialogStemmed": [
+            "doe",
+            "it",
+            "fit",
+            "right",
+            "becaus",
+            "it",
+            "just",
+            "feel",
+            "a",
+            "littl"
           ]
         },
         {
@@ -1655,22 +2848,35 @@
             "supposed",
             "to",
             "be"
+          ],
+          "dialogStemmed": [
+            "tight",
+            "that'",
+            "a",
+            "corset",
+            "it'",
+            "suppos",
+            "to",
+            "be"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " How do you know all these things?",
-          "dialogSplit": ["How", "do", "you", "know", "all", "these", "things"]
+          "dialogSplit": ["How", "do", "you", "know", "all", "these", "things"],
+          "dialogStemmed": ["how", "do", "you", "know", "all", "these", "thing"]
         },
         {
           "character": "Snow White",
           "dialog": " In another life, I was a princess.",
-          "dialogSplit": ["In", "another", "life", "I", "was", "a", "princess"]
+          "dialogSplit": ["In", "another", "life", "I", "was", "a", "princess"],
+          "dialogStemmed": ["in", "anoth", "life", "i", "wa", "a", "princess"]
         },
         {
           "character": "Ariel",
           "dialog": " Well, perhaps you'll be one again.",
-          "dialogSplit": ["Well", "perhaps", "you'll", "be", "one", "again"]
+          "dialogSplit": ["Well", "perhaps", "you'll", "be", "one", "again"],
+          "dialogStemmed": ["well", "perhap", "you'll", "be", "one", "again"]
         },
         {
           "character": "Snow White",
@@ -1691,12 +2897,30 @@
             "you",
             "What's",
             "this"
+          ],
+          "dialogStemmed": [
+            "i",
+            "doubt",
+            "it",
+            "but",
+            "tonight",
+            "you",
+            "can",
+            "be",
+            "rememb",
+            "what",
+            "i",
+            "taught",
+            "you",
+            "what'",
+            "thi"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Mini-trident. ...Salad-trident?",
-          "dialogSplit": ["Mini", "trident", "Salad", "trident"]
+          "dialogSplit": ["Mini", "trident", "Salad", "trident"],
+          "dialogStemmed": ["mini", "trident", "salad", "trident"]
         },
         {
           "character": "Snow White",
@@ -1711,17 +2935,30 @@
             "not",
             "that",
             "valuable"
+          ],
+          "dialogStemmed": [
+            "fork",
+            "salad",
+            "fork",
+            "oh",
+            "it'",
+            "realli",
+            "not",
+            "that",
+            "valuabl"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " There. Look.",
-          "dialogSplit": ["There", "Look"]
+          "dialogSplit": ["There", "Look"],
+          "dialogStemmed": ["there", "look"]
         },
         {
           "character": "Snow White",
           "dialog": " Is that him?",
-          "dialogSplit": ["Is", "that", "him"]
+          "dialogSplit": ["Is", "that", "him"],
+          "dialogStemmed": ["is", "that", "him"]
         },
         {
           "character": "Ariel",
@@ -1740,17 +2977,34 @@
             "But",
             "more",
             "handsome"
+          ],
+          "dialogStemmed": [
+            "ye",
+            "that'",
+            "him",
+            "he'",
+            "just",
+            "as",
+            "i",
+            "rememb",
+            "less",
+            "wet",
+            "but",
+            "more",
+            "handsom"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Go to him.",
-          "dialogSplit": ["Go", "to", "him"]
+          "dialogSplit": ["Go", "to", "him"],
+          "dialogStemmed": ["go", "to", "him"]
         },
         {
           "character": "Ariel",
           "dialog": " Just... walk over there?",
-          "dialogSplit": ["Just", "walk", "over", "there"]
+          "dialogSplit": ["Just", "walk", "over", "there"],
+          "dialogStemmed": ["just", "walk", "over", "there"]
         },
         {
           "character": "Snow White",
@@ -1764,12 +3018,23 @@
             "need",
             "much",
             "prompting"
+          ],
+          "dialogStemmed": [
+            "love",
+            "at",
+            "first",
+            "sight",
+            "doesn't",
+            "need",
+            "much",
+            "prompt"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Oh! Uhh! ",
-          "dialogSplit": ["Oh", "Uhh"]
+          "dialogSplit": ["Oh", "Uhh"],
+          "dialogStemmed": ["oh", "uhh"]
         },
         {
           "character": "Prince Eric",
@@ -1785,12 +3050,25 @@
             "easier",
             "than",
             "walking"
+          ],
+          "dialogStemmed": [
+            "would",
+            "you",
+            "like",
+            "to",
+            "danc",
+            "might",
+            "be",
+            "easier",
+            "than",
+            "walk"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " No one's dancing.",
-          "dialogSplit": ["No", "one's", "dancing"]
+          "dialogSplit": ["No", "one's", "dancing"],
+          "dialogStemmed": ["no", "one'", "danc"]
         },
         {
           "character": "Prince Eric",
@@ -1815,25 +3093,59 @@
             "can",
             "I'm",
             "Eric"
+          ],
+          "dialogStemmed": [
+            "well",
+            "that'",
+            "one",
+            "of",
+            "the",
+            "perk",
+            "of",
+            "be",
+            "the",
+            "princ",
+            "if",
+            "i",
+            "want",
+            "to",
+            "danc",
+            "i",
+            "can",
+            "i'm",
+            "eric"
           ]
         },
-        { "character": "Ariel", "dialog": " Ariel.", "dialogSplit": ["Ariel"] },
+        {
+          "character": "Ariel",
+          "dialog": " Ariel.",
+          "dialogSplit": ["Ariel"],
+          "dialogStemmed": ["ariel"]
+        },
         {
           "character": "Prince Eric",
           "dialog": " You look familiar.  Have we met?",
-          "dialogSplit": ["You", "look", "familiar", "Have", "we", "met"]
+          "dialogSplit": ["You", "look", "familiar", "Have", "we", "met"],
+          "dialogStemmed": ["you", "look", "familiar", "have", "we", "met"]
         },
         {
           "character": "Ariel",
           "dialog": " I don't think so.",
-          "dialogSplit": ["I", "don't", "think", "so"]
+          "dialogSplit": ["I", "don't", "think", "so"],
+          "dialogStemmed": ["i", "don't", "think", "so"]
         },
         {
           "character": "Prince Eric",
           "dialog": " I know where it's from.",
-          "dialogSplit": ["I", "know", "where", "it's", "from"]
+          "dialogSplit": ["I", "know", "where", "it's", "from"],
+          "dialogStemmed": ["i", "know", "where", "it'", "from"]
         },
-        { "character": "Ariel", "dialog": " Where?", "dialogSplit": ["Where"] },
+        {
+          "character": "Ariel",
+          "dialog": " Where?",
+          "dialogSplit": ["Where"],
+          "dialogStemmed": ["where"]
+        },
         {
           "character": "Prince Eric",
           "dialog": " I was in a shipwreck. I nearly drowned. Someone saved me. I didn't see them, but... I've had a recurring dream since then, of a face. Your face.",
@@ -1866,6 +3178,36 @@
             "face",
             "Your",
             "face"
+          ],
+          "dialogStemmed": [
+            "i",
+            "wa",
+            "in",
+            "a",
+            "shipwreck",
+            "i",
+            "nearli",
+            "drown",
+            "someon",
+            "save",
+            "me",
+            "i",
+            "didn't",
+            "see",
+            "them",
+            "but",
+            "i'v",
+            "had",
+            "a",
+            "recur",
+            "dream",
+            "sinc",
+            "then",
+            "of",
+            "a",
+            "face",
+            "your",
+            "face"
           ]
         },
         {
@@ -1886,6 +3228,23 @@
             "have",
             "possibly",
             "saved",
+            "you"
+          ],
+          "dialogStemmed": [
+            "that",
+            "can't",
+            "be",
+            "i'm",
+            "new",
+            "in",
+            "town",
+            "so",
+            "how",
+            "could",
+            "i",
+            "have",
+            "possibl",
+            "save",
             "you"
           ]
         },
@@ -1920,12 +3279,42 @@
             "saw",
             "That's",
             "you"
+          ],
+          "dialogStemmed": [
+            "i",
+            "know",
+            "ursula'",
+            "the",
+            "one",
+            "who",
+            "save",
+            "me",
+            "and",
+            "in",
+            "do",
+            "so",
+            "she",
+            "show",
+            "me",
+            "a",
+            "vision",
+            "of",
+            "my",
+            "futur",
+            "that'",
+            "the",
+            "face",
+            "i",
+            "saw",
+            "that'",
+            "you"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Ursula is just a myth.",
-          "dialogSplit": ["Ursula", "is", "just", "a", "myth"]
+          "dialogSplit": ["Ursula", "is", "just", "a", "myth"],
+          "dialogStemmed": ["ursula", "is", "just", "a", "myth"]
         },
         {
           "character": "Prince Eric",
@@ -1948,12 +3337,32 @@
             "to",
             "our",
             "kingdom"
+          ],
+          "dialogStemmed": [
+            "is",
+            "she",
+            "caus",
+            "you'r",
+            "right",
+            "here",
+            "in",
+            "front",
+            "of",
+            "me",
+            "now",
+            "what",
+            "bring",
+            "you",
+            "to",
+            "our",
+            "kingdom"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Well... I wanna see the world.",
-          "dialogSplit": ["Well", "I", "wanna", "see", "the", "world"]
+          "dialogSplit": ["Well", "I", "wanna", "see", "the", "world"],
+          "dialogStemmed": ["well", "i", "wanna", "see", "the", "world"]
         },
         {
           "character": "Prince Eric",
@@ -1979,9 +3388,36 @@
             "do",
             "just",
             "that"
+          ],
+          "dialogStemmed": [
+            "then",
+            "you",
+            "and",
+            "i",
+            "have",
+            "someth",
+            "in",
+            "common",
+            "i'm",
+            "leav",
+            "in",
+            "the",
+            "morn",
+            "a",
+            "grand",
+            "expedit",
+            "to",
+            "do",
+            "just",
+            "that"
           ]
         },
-        { "character": "Ariel", "dialog": " What?", "dialogSplit": ["What"] },
+        {
+          "character": "Ariel",
+          "dialog": " What?",
+          "dialogSplit": ["What"],
+          "dialogStemmed": ["what"]
+        },
         {
           "character": "Prince Eric",
           "dialog": " I've been planning it for years. This shall be my final Ursula ball, for tomorrow, I'm exploring the unknown lands... the desert from this realm to Agrabah.",
@@ -2013,6 +3449,35 @@
             "realm",
             "to",
             "Agrabah"
+          ],
+          "dialogStemmed": [
+            "i'v",
+            "been",
+            "plan",
+            "it",
+            "for",
+            "year",
+            "thi",
+            "shall",
+            "be",
+            "my",
+            "final",
+            "ursula",
+            "ball",
+            "for",
+            "tomorrow",
+            "i'm",
+            "explor",
+            "the",
+            "unknown",
+            "land",
+            "the",
+            "desert",
+            "from",
+            "thi",
+            "realm",
+            "to",
+            "agrabah"
           ]
         },
         {
@@ -2026,6 +3491,19 @@
             "I've",
             "always",
             "wanted",
+            "to",
+            "see",
+            "the",
+            "world"
+          ],
+          "dialogStemmed": [
+            "you'r",
+            "actual",
+            "do",
+            "it",
+            "i'v",
+            "alway",
+            "want",
             "to",
             "see",
             "the",
@@ -2051,12 +3529,30 @@
             "I've",
             "misread",
             "things"
+          ],
+          "dialogStemmed": [
+            "then",
+            "come",
+            "i",
+            "see",
+            "it",
+            "in",
+            "your",
+            "eye",
+            "you",
+            "want",
+            "to",
+            "unless",
+            "i'v",
+            "misread",
+            "thing"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " No. Um, I mean... Yes. I mean no.",
-          "dialogSplit": ["No", "Um", "I", "mean", "Yes", "I", "mean", "no"]
+          "dialogSplit": ["No", "Um", "I", "mean", "Yes", "I", "mean", "no"],
+          "dialogStemmed": ["no", "um", "i", "mean", "ye", "i", "mean", "no"]
         },
         {
           "character": "Prince Eric",
@@ -2102,6 +3598,48 @@
             "meet",
             "you",
             "Ariel"
+          ],
+          "dialogStemmed": [
+            "i'm",
+            "pressur",
+            "you",
+            "that'",
+            "unfair",
+            "how",
+            "about",
+            "thi",
+            "tomorrow",
+            "morn",
+            "i'll",
+            "wait",
+            "for",
+            "you",
+            "if",
+            "you",
+            "show",
+            "up",
+            "i'll",
+            "be",
+            "fill",
+            "with",
+            "joy",
+            "if",
+            "you",
+            "don't",
+            "well",
+            "i",
+            "may",
+            "be",
+            "heartbroken",
+            "but",
+            "i'll",
+            "understand",
+            "so",
+            "nice",
+            "to",
+            "meet",
+            "you",
+            "ariel"
           ]
         }
       ]
@@ -2114,7 +3652,8 @@
         {
           "character": "Evil Queen",
           "dialog": " Uck.",
-          "dialogSplit": ["Uck"]
+          "dialogSplit": ["Uck"],
+          "dialogStemmed": ["uck"]
         },
         {
           "character": "Guard 1",
@@ -2142,6 +3681,30 @@
             "yes",
             "I'm",
             "sure"
+          ],
+          "dialogStemmed": [
+            "that'",
+            "the",
+            "woman",
+            "that",
+            "rescu",
+            "snow",
+            "white",
+            "the",
+            "red",
+            "hair",
+            "it'",
+            "unmistak",
+            "i",
+            "thought",
+            "she",
+            "had",
+            "a",
+            "tail",
+            "but",
+            "ye",
+            "i'm",
+            "sure"
           ]
         },
         {
@@ -2162,17 +3725,35 @@
             "they're",
             "actually",
             "dead"
+          ],
+          "dialogStemmed": [
+            "next",
+            "time",
+            "you",
+            "let",
+            "someon",
+            "fall",
+            "to",
+            "their",
+            "death",
+            "make",
+            "sure",
+            "they'r",
+            "actual",
+            "dead"
           ]
         },
         {
           "character": "Guard 1",
           "dialog": " She looked dead. ",
-          "dialogSplit": ["She", "looked", "dead"]
+          "dialogSplit": ["She", "looked", "dead"],
+          "dialogStemmed": ["she", "look", "dead"]
         },
         {
           "character": "Evil Queen",
           "dialog": "No. Death looks more like this... ",
-          "dialogSplit": ["No", "Death", "looks", "more", "like", "this"]
+          "dialogSplit": ["No", "Death", "looks", "more", "like", "this"],
+          "dialogStemmed": ["no", "death", "look", "more", "like", "thi"]
         },
         {
           "character": "Guard 2",
@@ -2187,6 +3768,17 @@
             "after",
             "Snow",
             "White"
+          ],
+          "dialogStemmed": [
+            "sh",
+            "shall",
+            "i",
+            "lead",
+            "more",
+            "knight",
+            "after",
+            "snow",
+            "white"
           ]
         },
         {
@@ -2203,6 +3795,22 @@
             "task",
             "No",
             "I've",
+            "got",
+            "a",
+            "new",
+            "idea"
+          ],
+          "dialogStemmed": [
+            "you",
+            "boy",
+            "have",
+            "prove",
+            "unequ",
+            "to",
+            "the",
+            "task",
+            "no",
+            "i'v",
             "got",
             "a",
             "new",
@@ -2231,6 +3839,19 @@
             "their",
             "missing",
             "friend"
+          ],
+          "dialogStemmed": [
+            "look",
+            "at",
+            "them",
+            "go",
+            "so",
+            "determin",
+            "to",
+            "find",
+            "their",
+            "miss",
+            "friend"
           ]
         },
         {
@@ -2247,6 +3868,18 @@
             "do",
             "with",
             "Neal"
+          ],
+          "dialogStemmed": [
+            "speak",
+            "of",
+            "that",
+            "friend",
+            "what",
+            "should",
+            "we",
+            "do",
+            "with",
+            "neal"
           ]
         },
         {
@@ -2271,6 +3904,26 @@
             "to",
             "get",
             "interesting"
+          ],
+          "dialogStemmed": [
+            "it'",
+            "time",
+            "to",
+            "move",
+            "him",
+            "take",
+            "him",
+            "to",
+            "the",
+            "echo",
+            "cave",
+            "the",
+            "game",
+            "is",
+            "about",
+            "to",
+            "get",
+            "interest"
           ]
         },
         {
@@ -2285,17 +3938,29 @@
             "do",
             "do",
             "you"
+          ],
+          "dialogStemmed": [
+            "you",
+            "don't",
+            "know",
+            "what",
+            "to",
+            "do",
+            "do",
+            "you"
           ]
         },
         {
           "character": "Gold",
           "dialog": " No, I don't.",
-          "dialogSplit": ["No", "I", "don't"]
+          "dialogSplit": ["No", "I", "don't"],
+          "dialogStemmed": ["no", "i", "don't"]
         },
         {
           "character": "Belle",
           "dialog": " Come home to Storybrooke.",
-          "dialogSplit": ["Come", "home", "to", "Storybrooke"]
+          "dialogSplit": ["Come", "home", "to", "Storybrooke"],
+          "dialogStemmed": ["come", "home", "to", "storybrook"]
         },
         {
           "character": "Gold",
@@ -2307,6 +3972,15 @@
             "Henry",
             "my",
             "family",
+            "behind"
+          ],
+          "dialogStemmed": [
+            "and",
+            "just",
+            "leav",
+            "henri",
+            "my",
+            "famili",
             "behind"
           ]
         },
@@ -2333,6 +4007,27 @@
             "want",
             "Don't",
             "you"
+          ],
+          "dialogStemmed": [
+            "come",
+            "with",
+            "me",
+            "and",
+            "we",
+            "can",
+            "start",
+            "a",
+            "new",
+            "famili",
+            "our",
+            "own",
+            "famili",
+            "that'",
+            "what",
+            "i",
+            "want",
+            "don't",
+            "you"
           ]
         },
         {
@@ -2353,6 +4048,22 @@
             "my",
             "self",
             "conscious"
+          ],
+          "dialogStemmed": [
+            "no",
+            "you",
+            "you",
+            "can't",
+            "want",
+            "anyth",
+            "you'r",
+            "just",
+            "a",
+            "figment",
+            "of",
+            "my",
+            "self",
+            "consciou"
           ]
         },
         {
@@ -2384,17 +4095,46 @@
             "home",
             "to",
             "me"
+          ],
+          "dialogStemmed": [
+            "no",
+            "no",
+            "i'm",
+            "realli",
+            "here",
+            "take",
+            "my",
+            "hand",
+            "believ",
+            "in",
+            "our",
+            "love",
+            "and",
+            "we",
+            "can",
+            "go",
+            "back",
+            "take",
+            "it",
+            "rumpl",
+            "pleas",
+            "come",
+            "home",
+            "to",
+            "me"
           ]
         },
         {
           "character": "Regina",
           "dialog": " Enough of this.",
-          "dialogSplit": ["Enough", "of", "this"]
+          "dialogSplit": ["Enough", "of", "this"],
+          "dialogStemmed": ["enough", "of", "thi"]
         },
         {
           "character": "Gold",
           "dialog": " Regina!",
-          "dialogSplit": ["Regina"]
+          "dialogSplit": ["Regina"],
+          "dialogStemmed": ["regina"]
         },
         {
           "character": "Regina",
@@ -2408,55 +4148,89 @@
             "fall",
             "for",
             "this"
+          ],
+          "dialogStemmed": [
+            "are",
+            "you",
+            "realli",
+            "go",
+            "to",
+            "fall",
+            "for",
+            "thi"
           ]
         },
         {
           "character": "Belle",
           "dialog": " Rumple, st... stop her.",
-          "dialogSplit": ["Rumple", "st", "stop", "her"]
+          "dialogSplit": ["Rumple", "st", "stop", "her"],
+          "dialogStemmed": ["rumpl", "st", "stop", "her"]
         },
         {
           "character": "Regina",
           "dialog": " Don't listen to him.",
-          "dialogSplit": ["Don't", "listen", "to", "him"]
+          "dialogSplit": ["Don't", "listen", "to", "him"],
+          "dialogStemmed": ["don't", "listen", "to", "him"]
         },
         {
           "character": "Gold",
           "dialog": " What are you doing? ",
-          "dialogSplit": ["What", "are", "you", "doing"]
+          "dialogSplit": ["What", "are", "you", "doing"],
+          "dialogStemmed": ["what", "are", "you", "do"]
         },
         {
           "character": "Regina",
           "dialog": " Showing you the truth.",
-          "dialogSplit": ["Showing", "you", "the", "truth"]
+          "dialogSplit": ["Showing", "you", "the", "truth"],
+          "dialogStemmed": ["show", "you", "the", "truth"]
         },
-        { "character": "Belle", "dialog": " Aah!", "dialogSplit": ["Aah"] },
-        { "character": "Gold", "dialog": " No! ", "dialogSplit": ["No"] },
+        {
+          "character": "Belle",
+          "dialog": " Aah!",
+          "dialogSplit": ["Aah"],
+          "dialogStemmed": ["aah"]
+        },
+        {
+          "character": "Gold",
+          "dialog": " No! ",
+          "dialogSplit": ["No"],
+          "dialogStemmed": ["no"]
+        },
         {
           "character": "Regina",
           "dialog": " Look who you're really dealing with. ",
-          "dialogSplit": ["Look", "who", "you're", "really", "dealing", "with"]
+          "dialogSplit": ["Look", "who", "you're", "really", "dealing", "with"],
+          "dialogStemmed": ["look", "who", "you'r", "realli", "deal", "with"]
         },
-        { "character": "Gold", "dialog": " Pan. ", "dialogSplit": ["Pan"] },
+        {
+          "character": "Gold",
+          "dialog": " Pan. ",
+          "dialogSplit": ["Pan"],
+          "dialogStemmed": ["pan"]
+        },
         {
           "character": "Emma",
           "dialog": " I kissed him.",
-          "dialogSplit": ["I", "kissed", "him"]
+          "dialogSplit": ["I", "kissed", "him"],
+          "dialogStemmed": ["i", "kiss", "him"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " What? Who?",
-          "dialogSplit": ["What", "Who"]
+          "dialogSplit": ["What", "Who"],
+          "dialogStemmed": ["what", "who"]
         },
         {
           "character": "Emma",
           "dialog": " Hook. I kissed Hook.",
-          "dialogSplit": ["Hook", "I", "kissed", "Hook"]
+          "dialogSplit": ["Hook", "I", "kissed", "Hook"],
+          "dialogStemmed": ["hook", "i", "kiss", "hook"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " Oh! Well... Why?",
-          "dialogSplit": ["Oh", "Well", "Why"]
+          "dialogSplit": ["Oh", "Well", "Why"],
+          "dialogStemmed": ["oh", "well", "whi"]
         },
         {
           "character": "Emma",
@@ -2480,27 +4254,51 @@
             "I",
             "don't",
             "know"
+          ],
+          "dialogStemmed": [
+            "i",
+            "i",
+            "don't",
+            "know",
+            "i",
+            "i",
+            "wa",
+            "it'",
+            "been",
+            "a",
+            "while",
+            "i",
+            "wa",
+            "feel",
+            "good",
+            "i",
+            "don't",
+            "know"
           ]
         },
         {
           "character": "Mary Margaret",
           "dialog": " Did it mean anything?",
-          "dialogSplit": ["Did", "it", "mean", "anything"]
+          "dialogSplit": ["Did", "it", "mean", "anything"],
+          "dialogStemmed": ["did", "it", "mean", "anyth"]
         },
         {
           "character": "Emma",
           "dialog": " It... it was just a kiss.",
-          "dialogSplit": ["It", "it", "was", "just", "a", "kiss"]
+          "dialogSplit": ["It", "it", "was", "just", "a", "kiss"],
+          "dialogStemmed": ["it", "it", "wa", "just", "a", "kiss"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " I'm sure Neal will understand.",
-          "dialogSplit": ["I'm", "sure", "Neal", "will", "understand"]
+          "dialogSplit": ["I'm", "sure", "Neal", "will", "understand"],
+          "dialogStemmed": ["i'm", "sure", "neal", "will", "understand"]
         },
         {
           "character": "Emma",
           "dialog": "If he's still alive.",
-          "dialogSplit": ["If", "he's", "still", "alive"]
+          "dialogSplit": ["If", "he's", "still", "alive"],
+          "dialogStemmed": ["if", "he'", "still", "aliv"]
         },
         {
           "character": "Mary Margaret",
@@ -2530,9 +4328,40 @@
             "but",
             "you",
             "should"
+          ],
+          "dialogStemmed": [
+            "emma",
+            "i",
+            "get",
+            "what",
+            "you'r",
+            "do",
+            "you",
+            "know",
+            "you",
+            "don't",
+            "want",
+            "to",
+            "open",
+            "yourself",
+            "up",
+            "to",
+            "the",
+            "hope",
+            "that",
+            "he'",
+            "aliv",
+            "but",
+            "you",
+            "should"
           ]
         },
-        { "character": "Emma", "dialog": " Why?", "dialogSplit": ["Why"] },
+        {
+          "character": "Emma",
+          "dialog": " Why?",
+          "dialogSplit": ["Why"],
+          "dialogStemmed": ["whi"]
+        },
         {
           "character": "Mary Margaret",
           "dialog": " Because you deserve a happy ending, Emma. And happy endings always start with hope.",
@@ -2551,6 +4380,22 @@
             "start",
             "with",
             "hope"
+          ],
+          "dialogStemmed": [
+            "becaus",
+            "you",
+            "deserv",
+            "a",
+            "happi",
+            "end",
+            "emma",
+            "and",
+            "happi",
+            "end",
+            "alway",
+            "start",
+            "with",
+            "hope"
           ]
         }
       ]
@@ -2563,12 +4408,21 @@
         {
           "character": "Ariel",
           "dialog": " This was a terrible, terrible mistake.",
-          "dialogSplit": ["This", "was", "a", "terrible", "terrible", "mistake"]
+          "dialogSplit": [
+            "This",
+            "was",
+            "a",
+            "terrible",
+            "terrible",
+            "mistake"
+          ],
+          "dialogStemmed": ["thi", "wa", "a", "terribl", "terribl", "mistak"]
         },
         {
           "character": "Snow White",
           "dialog": " You met him. It's a start.",
-          "dialogSplit": ["You", "met", "him", "It's", "a", "start"]
+          "dialogSplit": ["You", "met", "him", "It's", "a", "start"],
+          "dialogStemmed": ["you", "met", "him", "it'", "a", "start"]
         },
         {
           "character": "Ariel",
@@ -2592,12 +4446,33 @@
             "he",
             "just",
             "met"
+          ],
+          "dialogStemmed": [
+            "more",
+            "like",
+            "an",
+            "end",
+            "i",
+            "can't",
+            "ask",
+            "him",
+            "to",
+            "give",
+            "up",
+            "hi",
+            "dream",
+            "for",
+            "someon",
+            "he",
+            "just",
+            "met"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Maybe you're the dream.",
-          "dialogSplit": ["Maybe", "you're", "the", "dream"]
+          "dialogSplit": ["Maybe", "you're", "the", "dream"],
+          "dialogStemmed": ["mayb", "you'r", "the", "dream"]
         },
         {
           "character": "Ariel",
@@ -2611,6 +4486,18 @@
             "him",
             "choose",
             "It's",
+            "not",
+            "right"
+          ],
+          "dialogStemmed": [
+            "mayb",
+            "but",
+            "i",
+            "can't",
+            "make",
+            "him",
+            "choos",
+            "it'",
             "not",
             "right"
           ]
@@ -2634,17 +4521,36 @@
             "choose",
             "You're",
             "afraid"
+          ],
+          "dialogStemmed": [
+            "you",
+            "can't",
+            "make",
+            "him",
+            "choos",
+            "or",
+            "you",
+            "don't",
+            "want",
+            "to",
+            "make",
+            "him",
+            "choos",
+            "you'r",
+            "afraid"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Of what?",
-          "dialogSplit": ["Of", "what"]
+          "dialogSplit": ["Of", "what"],
+          "dialogStemmed": ["of", "what"]
         },
         {
           "character": "Snow White",
           "dialog": " Of his choice.",
-          "dialogSplit": ["Of", "his", "choice"]
+          "dialogSplit": ["Of", "his", "choice"],
+          "dialogStemmed": ["of", "hi", "choic"]
         },
         {
           "character": "Ariel",
@@ -2659,6 +4565,17 @@
             "this",
             "that's",
             "easy"
+          ],
+          "dialogStemmed": [
+            "there",
+            "is",
+            "noth",
+            "about",
+            "ani",
+            "of",
+            "thi",
+            "that'",
+            "easi"
           ]
         },
         {
@@ -2700,12 +4617,50 @@
             "know",
             "you",
             "tried"
+          ],
+          "dialogStemmed": [
+            "so",
+            "take",
+            "my",
+            "advic",
+            "do",
+            "the",
+            "hard",
+            "thing",
+            "be",
+            "honest",
+            "no",
+            "secret",
+            "open",
+            "your",
+            "heart",
+            "to",
+            "love",
+            "it",
+            "is",
+            "so",
+            "worth",
+            "the",
+            "risk",
+            "even",
+            "if",
+            "you",
+            "get",
+            "hurt",
+            "then",
+            "you'll",
+            "know",
+            "you'll",
+            "know",
+            "you",
+            "tri"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " I just need some time to think.",
-          "dialogSplit": ["I", "just", "need", "some", "time", "to", "think"]
+          "dialogSplit": ["I", "just", "need", "some", "time", "to", "think"],
+          "dialogStemmed": ["i", "just", "need", "some", "time", "to", "think"]
         },
         {
           "character": "Snow White",
@@ -2718,6 +4673,21 @@
             "hours",
             "So",
             "I'll",
+            "be",
+            "here",
+            "if",
+            "you",
+            "need",
+            "me"
+          ],
+          "dialogStemmed": [
+            "well",
+            "you",
+            "have",
+            "three",
+            "hour",
+            "so",
+            "i'll",
             "be",
             "here",
             "if",
@@ -2800,12 +4770,78 @@
             "for",
             "nothin",
             "Ursula"
+          ],
+          "dialogStemmed": [
+            "what",
+            "should",
+            "i",
+            "do",
+            "that'",
+            "right",
+            "i'm",
+            "talk",
+            "to",
+            "you",
+            "ursula",
+            "mythic",
+            "goddess",
+            "of",
+            "the",
+            "sea",
+            "he",
+            "thought",
+            "you",
+            "brought",
+            "us",
+            "togeth",
+            "but",
+            "we",
+            "both",
+            "know",
+            "that'",
+            "lie",
+            "so",
+            "tell",
+            "me",
+            "between",
+            "girlfriend",
+            "what",
+            "do",
+            "i",
+            "do",
+            "noth",
+            "huh",
+            "well",
+            "what",
+            "should",
+            "i",
+            "expect",
+            "from",
+            "a",
+            "long",
+            "dead",
+            "myth",
+            "you",
+            "gave",
+            "me",
+            "leg",
+            "but",
+            "that'",
+            "it",
+            "right",
+            "no",
+            "answer",
+            "thank",
+            "for",
+            "nothin",
+            "ursula"
           ]
         },
         {
           "character": "Evil Queen",
           "dialog": " Hello... Ariel.",
-          "dialogSplit": ["Hello", "Ariel"]
+          "dialogSplit": ["Hello", "Ariel"],
+          "dialogStemmed": ["hello", "ariel"]
         }
       ]
     },
@@ -2830,12 +4866,27 @@
             "that",
             "was",
             "Belle"
+          ],
+          "dialogStemmed": [
+            "what",
+            "is",
+            "thi",
+            "amateur",
+            "hour",
+            "did",
+            "you",
+            "realli",
+            "believ",
+            "that",
+            "wa",
+            "bell"
           ]
         },
         {
           "character": "Gold",
           "dialog": " Why are you here?",
-          "dialogSplit": ["Why", "are", "you", "here"]
+          "dialogSplit": ["Why", "are", "you", "here"],
+          "dialogStemmed": ["whi", "are", "you", "here"]
         },
         {
           "character": "Regina",
@@ -2857,12 +4908,31 @@
             "be",
             "Pan's",
             "lunch"
+          ],
+          "dialogStemmed": [
+            "well",
+            "for",
+            "starter",
+            "it",
+            "appear",
+            "i'm",
+            "save",
+            "your",
+            "ass",
+            "you",
+            "were",
+            "about",
+            "to",
+            "be",
+            "pan'",
+            "lunch"
           ]
         },
         {
           "character": "Gold",
           "dialog": " Oh, what do you care?",
-          "dialogSplit": ["Oh", "what", "do", "you", "care"]
+          "dialogSplit": ["Oh", "what", "do", "you", "care"],
+          "dialogStemmed": ["oh", "what", "do", "you", "care"]
         },
         {
           "character": "Regina",
@@ -2894,6 +4964,34 @@
             "I",
             "need",
             "Rumplestiltskin"
+          ],
+          "dialogStemmed": [
+            "i",
+            "care",
+            "becaus",
+            "i'v",
+            "been",
+            "camp",
+            "with",
+            "the",
+            "charm",
+            "for",
+            "a",
+            "week",
+            "and",
+            "get",
+            "nowher",
+            "if",
+            "we'r",
+            "gonna",
+            "get",
+            "henri",
+            "i",
+            "need",
+            "you",
+            "i",
+            "need",
+            "rumplestiltskin"
           ]
         },
         {
@@ -2913,6 +5011,21 @@
             "Pan",
             "by",
             "dying"
+          ],
+          "dialogStemmed": [
+            "well",
+            "the",
+            "problem",
+            "deari",
+            "is",
+            "that",
+            "rumplestiltskin",
+            "can",
+            "onli",
+            "stop",
+            "pan",
+            "by",
+            "die"
           ]
         },
         {
@@ -2962,6 +5075,51 @@
             "one",
             "smug",
             "teenager"
+          ],
+          "dialogStemmed": [
+            "you'r",
+            "not",
+            "gonna",
+            "die",
+            "at",
+            "anyone'",
+            "hand",
+            "but",
+            "my",
+            "own",
+            "we'r",
+            "the",
+            "two",
+            "most",
+            "power",
+            "practition",
+            "of",
+            "magic",
+            "who",
+            "have",
+            "ever",
+            "live",
+            "the",
+            "evil",
+            "queen",
+            "and",
+            "the",
+            "dark",
+            "one",
+            "join",
+            "forc",
+            "i'd",
+            "say",
+            "we",
+            "can",
+            "find",
+            "anoth",
+            "way",
+            "to",
+            "handl",
+            "one",
+            "smug",
+            "teenag"
           ]
         },
         {
@@ -2982,6 +5140,26 @@
             "him",
             "requires",
             "And",
+            "that",
+            "is",
+            "my",
+            "life"
+          ],
+          "dialogStemmed": [
+            "you'v",
+            "never",
+            "face",
+            "him",
+            "i",
+            "have",
+            "and",
+            "i",
+            "know",
+            "what",
+            "kill",
+            "him",
+            "requir",
+            "and",
             "that",
             "is",
             "my",
@@ -3024,12 +5202,47 @@
             "some",
             "other",
             "fate"
+          ],
+          "dialogStemmed": [
+            "well",
+            "as",
+            "much",
+            "as",
+            "i",
+            "want",
+            "to",
+            "mayb",
+            "we",
+            "don't",
+            "have",
+            "to",
+            "kill",
+            "him",
+            "if",
+            "that'",
+            "the",
+            "case",
+            "then",
+            "mayb",
+            "we",
+            "can",
+            "find",
+            "anoth",
+            "way",
+            "someth",
+            "to",
+            "contain",
+            "him",
+            "some",
+            "other",
+            "fate"
           ]
         },
         {
           "character": "Gold",
           "dialog": " A fate worse than death.",
-          "dialogSplit": ["A", "fate", "worse", "than", "death"]
+          "dialogSplit": ["A", "fate", "worse", "than", "death"],
+          "dialogStemmed": ["a", "fate", "wors", "than", "death"]
         },
         {
           "character": "Regina",
@@ -3052,6 +5265,25 @@
             "we",
             "can",
             "enact"
+          ],
+          "dialogStemmed": [
+            "now",
+            "we'r",
+            "talkin",
+            "there'",
+            "my",
+            "malevol",
+            "imp",
+            "is",
+            "there",
+            "a",
+            "spell",
+            "you",
+            "know",
+            "someth",
+            "we",
+            "can",
+            "enact"
           ]
         },
         {
@@ -3065,6 +5297,20 @@
             "my",
             "shop",
             "I",
+            "might",
+            "have",
+            "just",
+            "the",
+            "thing"
+          ],
+          "dialogStemmed": [
+            "no",
+            "but",
+            "back",
+            "in",
+            "my",
+            "shop",
+            "i",
             "might",
             "have",
             "just",
@@ -3088,6 +5334,20 @@
             "the",
             "first",
             "place"
+          ],
+          "dialogStemmed": [
+            "well",
+            "whi",
+            "didn't",
+            "you",
+            "bring",
+            "it",
+            "with",
+            "you",
+            "in",
+            "the",
+            "first",
+            "place"
           ]
         },
         {
@@ -3096,6 +5356,20 @@
           "dialogSplit": [
             "Because",
             "I",
+            "came",
+            "here",
+            "to",
+            "kill",
+            "him",
+            "and",
+            "die",
+            "in",
+            "the",
+            "process"
+          ],
+          "dialogStemmed": [
+            "becaus",
+            "i",
             "came",
             "here",
             "to",
@@ -3137,12 +5411,40 @@
             "your",
             "survival",
             "instincts"
+          ],
+          "dialogStemmed": [
+            "well",
+            "i",
+            "could'v",
+            "told",
+            "you",
+            "that",
+            "wasn't",
+            "gonna",
+            "happen",
+            "you",
+            "forget",
+            "dear",
+            "i'v",
+            "known",
+            "you",
+            "a",
+            "long",
+            "time",
+            "i",
+            "know",
+            "all",
+            "about",
+            "your",
+            "surviv",
+            "instinct"
           ]
         },
         {
           "character": "Gold",
           "dialog": " Yeah, well, they just kicked in. ",
-          "dialogSplit": ["Yeah", "well", "they", "just", "kicked", "in"]
+          "dialogSplit": ["Yeah", "well", "they", "just", "kicked", "in"],
+          "dialogStemmed": ["yeah", "well", "they", "just", "kick", "in"]
         },
         {
           "character": "Regina",
@@ -3179,17 +5481,52 @@
             "problems",
             "are",
             "solved"
+          ],
+          "dialogStemmed": [
+            "good",
+            "so",
+            "now",
+            "we",
+            "just",
+            "need",
+            "a",
+            "chang",
+            "of",
+            "plan",
+            "we",
+            "need",
+            "to",
+            "get",
+            "back",
+            "to",
+            "your",
+            "shop",
+            "pick",
+            "up",
+            "thi",
+            "magic",
+            "item",
+            "and",
+            "then",
+            "all",
+            "of",
+            "our",
+            "problem",
+            "are",
+            "solv"
           ]
         },
         {
           "character": "Gold",
           "dialog": " Crossing realms? Is that all?",
-          "dialogSplit": ["Crossing", "realms", "Is", "that", "all"]
+          "dialogSplit": ["Crossing", "realms", "Is", "that", "all"],
+          "dialogStemmed": ["cross", "realm", "is", "that", "all"]
         },
         {
           "character": "Regina",
           "dialog": " Yes. That's all. ",
-          "dialogSplit": ["Yes", "That's", "all"]
+          "dialogSplit": ["Yes", "That's", "all"],
+          "dialogStemmed": ["ye", "that'", "all"]
         }
       ]
     },
@@ -3201,7 +5538,8 @@
         {
           "character": "Ariel",
           "dialog": " You're... real.",
-          "dialogSplit": ["You're", "real"]
+          "dialogSplit": ["You're", "real"],
+          "dialogStemmed": ["you'r", "real"]
         },
         {
           "character": "Evil Queen",
@@ -3214,6 +5552,16 @@
             "legs",
             "you're",
             "standing",
+            "on"
+          ],
+          "dialogStemmed": [
+            "as",
+            "real",
+            "as",
+            "the",
+            "leg",
+            "you'r",
+            "stand",
             "on"
           ]
         },
@@ -3229,6 +5577,16 @@
             "rude",
             "before",
             "I"
+          ],
+          "dialogStemmed": [
+            "i'm",
+            "sorri",
+            "if",
+            "i",
+            "wa",
+            "rude",
+            "befor",
+            "i"
           ]
         },
         {
@@ -3254,6 +5612,27 @@
             "with",
             "your",
             "dilemma"
+          ],
+          "dialogStemmed": [
+            "my",
+            "dear",
+            "sweet",
+            "child",
+            "don't",
+            "fret",
+            "i",
+            "understand",
+            "but",
+            "you'r",
+            "also",
+            "in",
+            "luck",
+            "i",
+            "can",
+            "help",
+            "with",
+            "your",
+            "dilemma"
           ]
         },
         {
@@ -3272,17 +5651,33 @@
             "truth",
             "don't",
             "I"
+          ],
+          "dialogStemmed": [
+            "with",
+            "princ",
+            "eric",
+            "i",
+            "have",
+            "to",
+            "tell",
+            "him",
+            "the",
+            "truth",
+            "don't",
+            "i"
           ]
         },
         {
           "character": "Evil Queen",
           "dialog": " Bah! Your friend was mistaken.",
-          "dialogSplit": ["Bah", "Your", "friend", "was", "mistaken"]
+          "dialogSplit": ["Bah", "Your", "friend", "was", "mistaken"],
+          "dialogStemmed": ["bah", "your", "friend", "wa", "mistaken"]
         },
         {
           "character": "Ariel",
           "dialog": " Are you sure?",
-          "dialogSplit": ["Are", "you", "sure"]
+          "dialogSplit": ["Are", "you", "sure"],
+          "dialogStemmed": ["are", "you", "sure"]
         },
         {
           "character": "Evil Queen",
@@ -3310,12 +5705,37 @@
             "that",
             "Or",
             "you"
+          ],
+          "dialogStemmed": [
+            "of",
+            "cours",
+            "i'm",
+            "sure",
+            "if",
+            "you",
+            "tell",
+            "him",
+            "the",
+            "truth",
+            "that",
+            "you'r",
+            "from",
+            "two",
+            "differ",
+            "world",
+            "he",
+            "won't",
+            "accept",
+            "that",
+            "or",
+            "you"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " How is this helping again?",
-          "dialogSplit": ["How", "is", "this", "helping", "again"]
+          "dialogSplit": ["How", "is", "this", "helping", "again"],
+          "dialogStemmed": ["how", "is", "thi", "help", "again"]
         },
         {
           "character": "Evil Queen",
@@ -3359,12 +5779,53 @@
             "you",
             "be",
             "interested"
+          ],
+          "dialogStemmed": [
+            "what",
+            "if",
+            "i",
+            "told",
+            "you",
+            "that",
+            "you",
+            "could",
+            "keep",
+            "your",
+            "leg",
+            "that",
+            "you",
+            "can",
+            "walk",
+            "on",
+            "land",
+            "be",
+            "a",
+            "part",
+            "of",
+            "hi",
+            "world",
+            "forev",
+            "without",
+            "ever",
+            "tell",
+            "him",
+            "your",
+            "secret",
+            "that",
+            "you'r",
+            "a",
+            "mermaid",
+            "would",
+            "you",
+            "be",
+            "interest"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Of course. ",
-          "dialogSplit": ["Of", "course"]
+          "dialogSplit": ["Of", "course"],
+          "dialogStemmed": ["of", "cours"]
         }
       ]
     },
@@ -3376,7 +5837,8 @@
         {
           "character": "Snow White",
           "dialog": " What is it? What happened?",
-          "dialogSplit": ["What", "is", "it", "What", "happened"]
+          "dialogSplit": ["What", "is", "it", "What", "happened"],
+          "dialogStemmed": ["what", "is", "it", "what", "happen"]
         },
         {
           "character": "Ariel",
@@ -3395,12 +5857,28 @@
             "both",
             "of",
             "us"
+          ],
+          "dialogStemmed": [
+            "someth",
+            "amaz",
+            "and",
+            "not",
+            "just",
+            "for",
+            "me",
+            "but",
+            "for",
+            "the",
+            "both",
+            "of",
+            "us"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " What are you talking about?",
-          "dialogSplit": ["What", "are", "you", "talking", "about"]
+          "dialogSplit": ["What", "are", "you", "talking", "about"],
+          "dialogStemmed": ["what", "are", "you", "talk", "about"]
         },
         {
           "character": "Ariel",
@@ -3435,44 +5913,92 @@
             "your",
             "evil",
             "queen"
+          ],
+          "dialogStemmed": [
+            "i",
+            "receiv",
+            "a",
+            "gift",
+            "a",
+            "gift",
+            "that",
+            "will",
+            "allow",
+            "me",
+            "to",
+            "spend",
+            "the",
+            "rest",
+            "of",
+            "my",
+            "life",
+            "with",
+            "eric",
+            "and",
+            "a",
+            "way",
+            "for",
+            "you",
+            "to",
+            "escap",
+            "your",
+            "evil",
+            "queen"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " How is that possible?",
-          "dialogSplit": ["How", "is", "that", "possible"]
+          "dialogSplit": ["How", "is", "that", "possible"],
+          "dialogStemmed": ["how", "is", "that", "possibl"]
         },
-        { "character": "Ariel", "dialog": " Look. ", "dialogSplit": ["Look"] },
+        {
+          "character": "Ariel",
+          "dialog": " Look. ",
+          "dialogSplit": ["Look"],
+          "dialogStemmed": ["look"]
+        },
         {
           "character": "Snow White",
           "dialog": " What are you doing?",
-          "dialogSplit": ["What", "are", "you", "doing"]
+          "dialogSplit": ["What", "are", "you", "doing"],
+          "dialogStemmed": ["what", "are", "you", "do"]
         },
         {
           "character": "Ariel",
           "dialog": " This is no ordinary bracelet.  Look.",
-          "dialogSplit": ["This", "is", "no", "ordinary", "bracelet", "Look"]
+          "dialogSplit": ["This", "is", "no", "ordinary", "bracelet", "Look"],
+          "dialogStemmed": ["thi", "is", "no", "ordinari", "bracelet", "look"]
         },
         {
           "character": "Snow White",
           "dialog": " Ohh..",
-          "dialogSplit": ["Ohh"]
+          "dialogSplit": ["Ohh"],
+          "dialogStemmed": ["ohh"]
         },
-        { "character": "Ariel", "dialog": " Here.", "dialogSplit": ["Here"] },
+        {
+          "character": "Ariel",
+          "dialog": " Here.",
+          "dialogSplit": ["Here"],
+          "dialogStemmed": ["here"]
+        },
         {
           "character": "Snow White",
           "dialog": " What's happening? Oh! Oh! ",
-          "dialogSplit": ["What's", "happening", "Oh", "Oh"]
+          "dialogSplit": ["What's", "happening", "Oh", "Oh"],
+          "dialogStemmed": ["what'", "happen", "oh", "oh"]
         },
         {
           "character": "Ariel",
           "dialog": " You're a mermaid.",
-          "dialogSplit": ["You're", "a", "mermaid"]
+          "dialogSplit": ["You're", "a", "mermaid"],
+          "dialogStemmed": ["you'r", "a", "mermaid"]
         },
         {
           "character": "Snow White",
           "dialog": " Ariel... What have you done?",
-          "dialogSplit": ["Ariel", "What", "have", "you", "done"]
+          "dialogSplit": ["Ariel", "What", "have", "you", "done"],
+          "dialogStemmed": ["ariel", "what", "have", "you", "done"]
         },
         {
           "character": "Ariel",
@@ -3540,14 +6066,84 @@
             "under",
             "the",
             "sea"
+          ],
+          "dialogStemmed": [
+            "the",
+            "bracelet",
+            "is",
+            "magic",
+            "i",
+            "got",
+            "it",
+            "from",
+            "ursula",
+            "by",
+            "wear",
+            "it",
+            "you",
+            "get",
+            "my",
+            "tail",
+            "and",
+            "i",
+            "can",
+            "keep",
+            "my",
+            "leg",
+            "that'",
+            "the",
+            "price",
+            "but",
+            "it'",
+            "a",
+            "good",
+            "price",
+            "don't",
+            "you",
+            "see",
+            "you",
+            "can",
+            "escap",
+            "you",
+            "can",
+            "travel",
+            "to",
+            "my",
+            "land",
+            "a",
+            "land",
+            "where",
+            "the",
+            "evil",
+            "queen",
+            "cannot",
+            "follow",
+            "and",
+            "you",
+            "can",
+            "have",
+            "a",
+            "life",
+            "a",
+            "wonder",
+            "life",
+            "under",
+            "the",
+            "sea"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Ursula gave you the bracelet?",
-          "dialogSplit": ["Ursula", "gave", "you", "the", "bracelet"]
+          "dialogSplit": ["Ursula", "gave", "you", "the", "bracelet"],
+          "dialogStemmed": ["ursula", "gave", "you", "the", "bracelet"]
         },
-        { "character": "Ariel", "dialog": " Yes.", "dialogSplit": ["Yes"] },
+        {
+          "character": "Ariel",
+          "dialog": " Yes.",
+          "dialogSplit": ["Yes"],
+          "dialogStemmed": ["ye"]
+        },
         {
           "character": "Snow White",
           "dialog": " Ursula is a myth. She hasn't existed for thousands of years. She's not real.",
@@ -3566,22 +6162,41 @@
             "She's",
             "not",
             "real"
+          ],
+          "dialogStemmed": [
+            "ursula",
+            "is",
+            "a",
+            "myth",
+            "she",
+            "hasn't",
+            "exist",
+            "for",
+            "thousand",
+            "of",
+            "year",
+            "she'",
+            "not",
+            "real"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Yes, she is.",
-          "dialogSplit": ["Yes", "she", "is"]
+          "dialogSplit": ["Yes", "she", "is"],
+          "dialogStemmed": ["ye", "she", "is"]
         },
         {
           "character": "Evil Queen",
           "dialog": " Actually... It's not entirely true.",
-          "dialogSplit": ["Actually", "It's", "not", "entirely", "true"]
+          "dialogSplit": ["Actually", "It's", "not", "entirely", "true"],
+          "dialogStemmed": ["actual", "it'", "not", "entir", "true"]
         },
         {
           "character": "Ariel",
           "dialog": " What's going on?",
-          "dialogSplit": ["What's", "going", "on"]
+          "dialogSplit": ["What's", "going", "on"],
+          "dialogStemmed": ["what'", "go", "on"]
         },
         {
           "character": "Evil Queen",
@@ -3597,12 +6212,25 @@
             "of",
             "the",
             "day"
+          ],
+          "dialogStemmed": [
+            "well",
+            "well",
+            "well",
+            "look",
+            "at",
+            "the",
+            "catch",
+            "of",
+            "the",
+            "day"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Ursula?",
-          "dialogSplit": ["Ursula"]
+          "dialogSplit": ["Ursula"],
+          "dialogStemmed": ["ursula"]
         },
         {
           "character": "Snow White",
@@ -3618,6 +6246,18 @@
             "the",
             "Evil",
             "Queen"
+          ],
+          "dialogStemmed": [
+            "no",
+            "thi",
+            "isn't",
+            "ursula",
+            "thi",
+            "is",
+            "regina",
+            "the",
+            "evil",
+            "queen"
           ]
         }
       ]
@@ -3646,6 +6286,23 @@
             "is",
             "keeping",
             "Neal"
+          ],
+          "dialogStemmed": [
+            "the",
+            "track",
+            "lead",
+            "directli",
+            "into",
+            "that",
+            "cave",
+            "thi",
+            "must",
+            "be",
+            "where",
+            "pan",
+            "is",
+            "keep",
+            "neal"
           ]
         },
         {
@@ -3669,6 +6326,25 @@
             "to",
             "stop",
             "us"
+          ],
+          "dialogStemmed": [
+            "if",
+            "the",
+            "cave",
+            "is",
+            "some",
+            "sort",
+            "of",
+            "prison",
+            "whi",
+            "aren't",
+            "there",
+            "ani",
+            "guard",
+            "post",
+            "to",
+            "stop",
+            "us"
           ]
         },
         {
@@ -3683,12 +6359,23 @@
             "guards",
             "Echo",
             "cave"
+          ],
+          "dialogStemmed": [
+            "becaus",
+            "thi",
+            "prison",
+            "doesn't",
+            "requir",
+            "guard",
+            "echo",
+            "cave"
           ]
         },
         {
           "character": "Mary Margaret",
           "dialog": " You know it?",
-          "dialogSplit": ["You", "know", "it"]
+          "dialogSplit": ["You", "know", "it"],
+          "dialogStemmed": ["you", "know", "it"]
         },
         {
           "character": "Hook",
@@ -3719,12 +6406,40 @@
             "reveal",
             "a",
             "secret"
+          ],
+          "dialogStemmed": [
+            "all",
+            "too",
+            "well",
+            "i",
+            "lost",
+            "half",
+            "my",
+            "crew",
+            "insid",
+            "those",
+            "rock",
+            "wall",
+            "the",
+            "onli",
+            "way",
+            "to",
+            "rescu",
+            "someon",
+            "from",
+            "insid",
+            "is",
+            "to",
+            "reveal",
+            "a",
+            "secret"
           ]
         },
         {
           "character": "Mary Margaret",
           "dialog": " A secret? That's all?",
-          "dialogSplit": ["A", "secret", "That's", "all"]
+          "dialogSplit": ["A", "secret", "That's", "all"],
+          "dialogStemmed": ["a", "secret", "that'", "all"]
         },
         {
           "character": "Hook",
@@ -3770,17 +6485,61 @@
             "admit",
             "to",
             "anyone"
+          ],
+          "dialogStemmed": [
+            "your",
+            "darkest",
+            "secret",
+            "echo",
+            "cave",
+            "deriv",
+            "it",
+            "name",
+            "from",
+            "an",
+            "old",
+            "say",
+            "the",
+            "deeper",
+            "the",
+            "lie",
+            "the",
+            "more",
+            "truth",
+            "in",
+            "it",
+            "echo",
+            "the",
+            "cave",
+            "demand",
+            "that",
+            "you",
+            "reveal",
+            "a",
+            "truth",
+            "about",
+            "yourself",
+            "a",
+            "secret",
+            "you",
+            "would",
+            "never",
+            "admit",
+            "to",
+            "anyon"
           ]
         },
         {
           "character": "Emma",
           "dialog": " This is ridiculous.",
-          "dialogSplit": ["This", "is", "ridiculous"]
+          "dialogSplit": ["This", "is", "ridiculous"],
+          "dialogStemmed": ["thi", "is", "ridicul"]
         },
         {
           "character": "Hook",
           "dialog": " Don't kill the messenger, luv.",
-          "dialogSplit": ["Don't", "kill", "the", "messenger", "luv"]
+          "dialogSplit": ["Don't", "kill", "the", "messenger", "luv"],
+          "dialogStemmed": ["don't", "kill", "the", "messeng", "luv"]
         },
         {
           "character": "Emma",
@@ -3801,6 +6560,23 @@
             "alive",
             "in",
             "there"
+          ],
+          "dialogStemmed": [
+            "even",
+            "if",
+            "we",
+            "spill",
+            "our",
+            "gut",
+            "how",
+            "do",
+            "we",
+            "know",
+            "neal'",
+            "still",
+            "aliv",
+            "in",
+            "there"
           ]
         },
         {
@@ -3819,9 +6595,28 @@
             "to",
             "rescue",
             "him"
+          ],
+          "dialogStemmed": [
+            "becaus",
+            "thi",
+            "is",
+            "what",
+            "pan",
+            "want",
+            "he",
+            "want",
+            "us",
+            "to",
+            "rescu",
+            "him"
           ]
         },
-        { "character": "David", "dialog": " Why?", "dialogSplit": ["Why"] },
+        {
+          "character": "David",
+          "dialog": " Why?",
+          "dialogSplit": ["Why"],
+          "dialogStemmed": ["whi"]
+        },
         {
           "character": "Hook",
           "dialog": " So that we reveal our secrets. He believes once we do, our secrets will destroy us.",
@@ -3842,6 +6637,24 @@
             "will",
             "destroy",
             "us"
+          ],
+          "dialogStemmed": [
+            "so",
+            "that",
+            "we",
+            "reveal",
+            "our",
+            "secret",
+            "he",
+            "believ",
+            "onc",
+            "we",
+            "do",
+            "our",
+            "secret",
+            "will",
+            "destroy",
+            "us"
           ]
         }
       ]
@@ -3854,17 +6667,20 @@
         {
           "character": "Evil Queen",
           "dialog": " Having trouble with your fin?",
-          "dialogSplit": ["Having", "trouble", "with", "your", "fin"]
+          "dialogSplit": ["Having", "trouble", "with", "your", "fin"],
+          "dialogStemmed": ["have", "troubl", "with", "your", "fin"]
         },
         {
           "character": "Snow White",
           "dialog": " I'll figure it out!",
-          "dialogSplit": ["I'll", "figure", "it", "out"]
+          "dialogSplit": ["I'll", "figure", "it", "out"],
+          "dialogStemmed": ["i'll", "figur", "it", "out"]
         },
         {
           "character": "Ariel",
           "dialog": " Snow, the bracelet. ",
-          "dialogSplit": ["Snow", "the", "bracelet"]
+          "dialogSplit": ["Snow", "the", "bracelet"],
+          "dialogStemmed": ["snow", "the", "bracelet"]
         },
         {
           "character": "Evil Queen",
@@ -3893,12 +6709,38 @@
             "to",
             "run",
             "away"
+          ],
+          "dialogStemmed": [
+            "the",
+            "wearer",
+            "can't",
+            "take",
+            "it",
+            "off",
+            "oh",
+            "did",
+            "i",
+            "leav",
+            "that",
+            "detail",
+            "out",
+            "for",
+            "onc",
+            "snow",
+            "you",
+            "won't",
+            "be",
+            "abl",
+            "to",
+            "run",
+            "away"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " You tricked me?",
-          "dialogSplit": ["You", "tricked", "me"]
+          "dialogSplit": ["You", "tricked", "me"],
+          "dialogStemmed": ["you", "trick", "me"]
         },
         {
           "character": "Evil Queen",
@@ -3922,12 +6764,33 @@
             "for",
             "your",
             "problems"
+          ],
+          "dialogStemmed": [
+            "you",
+            "went",
+            "to",
+            "a",
+            "long",
+            "dead",
+            "octopu",
+            "for",
+            "advic",
+            "and",
+            "you'r",
+            "go",
+            "to",
+            "blame",
+            "me",
+            "for",
+            "your",
+            "problem"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " This is wrong.",
-          "dialogSplit": ["This", "is", "wrong"]
+          "dialogSplit": ["This", "is", "wrong"],
+          "dialogStemmed": ["thi", "is", "wrong"]
         },
         {
           "character": "Evil Queen",
@@ -3942,12 +6805,24 @@
             "not",
             "helping",
             "her"
+          ],
+          "dialogStemmed": [
+            "unh",
+            "unh",
+            "unh",
+            "sorri",
+            "dear",
+            "you'r",
+            "not",
+            "help",
+            "her"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " Ariel, get out of here.",
-          "dialogSplit": ["Ariel", "get", "out", "of", "here"]
+          "dialogSplit": ["Ariel", "get", "out", "of", "here"],
+          "dialogStemmed": ["ariel", "get", "out", "of", "here"]
         },
         {
           "character": "Evil Queen",
@@ -3963,6 +6838,18 @@
             "of",
             "here",
             "mermaid"
+          ],
+          "dialogStemmed": [
+            "for",
+            "onc",
+            "we'r",
+            "in",
+            "agreement",
+            "get",
+            "out",
+            "of",
+            "here",
+            "mermaid"
           ]
         },
         {
@@ -3972,6 +6859,15 @@
             "Not",
             "if",
             "you're",
+            "gonna",
+            "hurt",
+            "my",
+            "friend"
+          ],
+          "dialogStemmed": [
+            "not",
+            "if",
+            "you'r",
             "gonna",
             "hurt",
             "my",
@@ -4024,6 +6920,50 @@
             "no",
             "second",
             "chances"
+          ],
+          "dialogStemmed": [
+            "you",
+            "have",
+            "a",
+            "choic",
+            "your",
+            "friend'",
+            "go",
+            "to",
+            "be",
+            "hurt",
+            "either",
+            "way",
+            "the",
+            "real",
+            "question",
+            "is",
+            "whether",
+            "you'r",
+            "go",
+            "to",
+            "join",
+            "her",
+            "or",
+            "are",
+            "you",
+            "go",
+            "to",
+            "run",
+            "off",
+            "and",
+            "get",
+            "your",
+            "happi",
+            "end",
+            "hmm",
+            "go",
+            "on",
+            "there",
+            "are",
+            "no",
+            "second",
+            "chanc"
           ]
         },
         {
@@ -4061,6 +7001,39 @@
             "Go",
             "to",
             "him"
+          ],
+          "dialogStemmed": [
+            "it'",
+            "okay",
+            "ariel",
+            "i",
+            "can't",
+            "keep",
+            "run",
+            "forev",
+            "you",
+            "have",
+            "a",
+            "chanc",
+            "at",
+            "happi",
+            "that'",
+            "someth",
+            "the",
+            "queen",
+            "will",
+            "never",
+            "have",
+            "eric",
+            "is",
+            "go",
+            "to",
+            "leav",
+            "ani",
+            "moment",
+            "go",
+            "to",
+            "him"
           ]
         },
         {
@@ -4086,12 +7059,34 @@
             "For",
             "a",
             "friend"
+          ],
+          "dialogStemmed": [
+            "listen",
+            "to",
+            "her",
+            "ariel",
+            "are",
+            "you",
+            "realli",
+            "go",
+            "to",
+            "give",
+            "up",
+            "the",
+            "love",
+            "of",
+            "your",
+            "life",
+            "for",
+            "a",
+            "friend"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " I'm sorry. ",
-          "dialogSplit": ["I'm", "sorry"]
+          "dialogSplit": ["I'm", "sorry"],
+          "dialogStemmed": ["i'm", "sorri"]
         },
         {
           "character": "Evil Queen",
@@ -4108,17 +7103,32 @@
             "of",
             "the",
             "day"
+          ],
+          "dialogStemmed": [
+            "now",
+            "where",
+            "were",
+            "we",
+            "oh",
+            "right",
+            "the",
+            "catch",
+            "of",
+            "the",
+            "day"
           ]
         },
         {
           "character": "Snow White",
           "dialog": " What are you doing? ",
-          "dialogSplit": ["What", "are", "you", "doing"]
+          "dialogSplit": ["What", "are", "you", "doing"],
+          "dialogStemmed": ["what", "are", "you", "do"]
         },
         {
           "character": "Ariel",
           "dialog": " Hold your breath. ",
-          "dialogSplit": ["Hold", "your", "breath"]
+          "dialogSplit": ["Hold", "your", "breath"],
+          "dialogStemmed": ["hold", "your", "breath"]
         }
       ]
     },
@@ -4127,12 +7137,23 @@
       "tense": "Present",
       "location": null,
       "dialog": [
-        { "character": "Neal", "dialog": " Emma!", "dialogSplit": ["Emma"] },
-        { "character": "Emma", "dialog": " Neal.", "dialogSplit": ["Neal"] },
+        {
+          "character": "Neal",
+          "dialog": " Emma!",
+          "dialogSplit": ["Emma"],
+          "dialogStemmed": ["emma"]
+        },
+        {
+          "character": "Emma",
+          "dialog": " Neal.",
+          "dialogSplit": ["Neal"],
+          "dialogStemmed": ["neal"]
+        },
         {
           "character": "Mary Margaret",
           "dialog": " It must be a hundred feet across.",
-          "dialogSplit": ["It", "must", "be", "a", "hundred", "feet", "across"]
+          "dialogSplit": ["It", "must", "be", "a", "hundred", "feet", "across"],
+          "dialogStemmed": ["it", "must", "be", "a", "hundr", "feet", "across"]
         },
         {
           "character": "David",
@@ -4157,12 +7178,34 @@
             "to",
             "swing",
             "over"
+          ],
+          "dialogStemmed": [
+            "even",
+            "if",
+            "we",
+            "fashion",
+            "some",
+            "sort",
+            "of",
+            "rope",
+            "there'",
+            "noth",
+            "to",
+            "attach",
+            "it",
+            "to",
+            "no",
+            "way",
+            "to",
+            "swing",
+            "over"
           ]
         },
         {
           "character": "Emma",
           "dialog": " So what do we do?",
-          "dialogSplit": ["So", "what", "do", "we", "do"]
+          "dialogSplit": ["So", "what", "do", "we", "do"],
+          "dialogStemmed": ["so", "what", "do", "we", "do"]
         },
         {
           "character": "Hook",
@@ -4190,6 +7233,30 @@
             "kick",
             "things",
             "off"
+          ],
+          "dialogStemmed": [
+            "i",
+            "told",
+            "you",
+            "what",
+            "need",
+            "to",
+            "be",
+            "done",
+            "consid",
+            "thi",
+            "the",
+            "moment",
+            "of",
+            "truth",
+            "liter",
+            "now",
+            "who",
+            "want",
+            "to",
+            "kick",
+            "thing",
+            "off"
           ]
         },
         {
@@ -4206,6 +7273,18 @@
             "they",
             "sprout",
             "wings"
+          ],
+          "dialogStemmed": [
+            "so",
+            "what",
+            "someon",
+            "tell",
+            "their",
+            "secret",
+            "and",
+            "they",
+            "sprout",
+            "wing"
           ]
         },
         {
@@ -4222,12 +7301,25 @@
             "I've",
             "been",
             "told"
+          ],
+          "dialogStemmed": [
+            "i",
+            "don't",
+            "know",
+            "the",
+            "particular",
+            "onli",
+            "what",
+            "i'v",
+            "been",
+            "told"
           ]
         },
         {
           "character": "David",
           "dialog": " Well, how do you know it'll work? ",
-          "dialogSplit": ["Well", "how", "do", "you", "know", "it'll", "work"]
+          "dialogSplit": ["Well", "how", "do", "you", "know", "it'll", "work"],
+          "dialogStemmed": ["well", "how", "do", "you", "know", "it'll", "work"]
         },
         {
           "character": "Hook",
@@ -4245,17 +7337,33 @@
             "I",
             "kissed",
             "Emma"
+          ],
+          "dialogStemmed": [
+            "there'",
+            "onli",
+            "one",
+            "way",
+            "to",
+            "find",
+            "out",
+            "i",
+            "suppos",
+            "i",
+            "kiss",
+            "emma"
           ]
         },
         {
           "character": "David",
           "dialog": " You did what?",
-          "dialogSplit": ["You", "did", "what"]
+          "dialogSplit": ["You", "did", "what"],
+          "dialogStemmed": ["you", "did", "what"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " David, now is not the time.",
-          "dialogSplit": ["David", "now", "is", "not", "the", "time"]
+          "dialogSplit": ["David", "now", "is", "not", "the", "time"],
+          "dialogStemmed": ["david", "now", "is", "not", "the", "time"]
         },
         {
           "character": "Emma",
@@ -4279,6 +7387,30 @@
             "a",
             "kiss",
             "How's",
+            "that",
+            "your",
+            "darkest",
+            "secret"
+          ],
+          "dialogStemmed": [
+            "i",
+            "alreadi",
+            "told",
+            "mari",
+            "margaret",
+            "so",
+            "technic",
+            "it'",
+            "not",
+            "a",
+            "secret",
+            "but",
+            "it",
+            "wa",
+            "just",
+            "a",
+            "kiss",
+            "how'",
             "that",
             "your",
             "darkest",
@@ -4327,12 +7459,53 @@
             "I",
             "met",
             "you"
+          ],
+          "dialogStemmed": [
+            "it'",
+            "what",
+            "the",
+            "kiss",
+            "expos",
+            "my",
+            "secret",
+            "is",
+            "i",
+            "never",
+            "thought",
+            "i'd",
+            "be",
+            "capabl",
+            "of",
+            "let",
+            "go",
+            "of",
+            "my",
+            "first",
+            "love",
+            "of",
+            "my",
+            "milah",
+            "to",
+            "believ",
+            "that",
+            "i",
+            "could",
+            "find",
+            "someon",
+            "els",
+            "that",
+            "is",
+            "until",
+            "i",
+            "met",
+            "you"
           ]
         },
         {
           "character": "David",
           "dialog": " Uh... Mary Margaret...",
-          "dialogSplit": ["Uh", "Mary", "Margaret"]
+          "dialogSplit": ["Uh", "Mary", "Margaret"],
+          "dialogStemmed": ["uh", "mari", "margaret"]
         },
         {
           "character": "Mary Margaret",
@@ -4446,12 +7619,123 @@
             "missed",
             "it",
             "all"
+          ],
+          "dialogStemmed": [
+            "no",
+            "no",
+            "no",
+            "me",
+            "next",
+            "ever",
+            "sinc",
+            "the",
+            "curs",
+            "broke",
+            "sinc",
+            "we",
+            "found",
+            "each",
+            "other",
+            "sinc",
+            "we",
+            "found",
+            "emma",
+            "and",
+            "all",
+            "of",
+            "that",
+            "happi",
+            "there",
+            "is",
+            "someth",
+            "i",
+            "haven't",
+            "want",
+            "to",
+            "admit",
+            "our",
+            "daughter",
+            "is",
+            "a",
+            "beauti",
+            "smart",
+            "amaz",
+            "woman",
+            "whom",
+            "i",
+            "love",
+            "veri",
+            "much",
+            "and",
+            "of",
+            "whom",
+            "i",
+            "could",
+            "not",
+            "be",
+            "more",
+            "proud",
+            "but",
+            "she'",
+            "all",
+            "grown",
+            "up",
+            "and",
+            "as",
+            "much",
+            "as",
+            "i",
+            "wanna",
+            "pretend",
+            "i'm",
+            "okay",
+            "with",
+            "that",
+            "i'm",
+            "not",
+            "we",
+            "miss",
+            "it",
+            "david",
+            "what",
+            "we",
+            "have",
+            "with",
+            "her",
+            "is",
+            "uniqu",
+            "but",
+            "it'",
+            "not",
+            "what",
+            "i",
+            "want",
+            "we",
+            "were",
+            "cheat",
+            "out",
+            "of",
+            "everyth",
+            "her",
+            "first",
+            "step",
+            "her",
+            "first",
+            "word",
+            "her",
+            "first",
+            "smile",
+            "we",
+            "miss",
+            "it",
+            "all"
           ]
         },
         {
           "character": "David",
           "dialog": " What are you saying?",
-          "dialogSplit": ["What", "are", "you", "saying"]
+          "dialogSplit": ["What", "are", "you", "saying"],
+          "dialogStemmed": ["what", "are", "you", "say"]
         },
         {
           "character": "Mary Margaret: ",
@@ -4479,6 +7763,30 @@
             "have",
             "another",
             "baby"
+          ],
+          "dialogStemmed": [
+            "when",
+            "we",
+            "get",
+            "off",
+            "thi",
+            "island",
+            "and",
+            "get",
+            "back",
+            "to",
+            "storybrook",
+            "i",
+            "want",
+            "anoth",
+            "go",
+            "at",
+            "it",
+            "i",
+            "wanna",
+            "have",
+            "anoth",
+            "babi"
           ]
         },
         {
@@ -4517,12 +7825,47 @@
             "not",
             "with",
             "me"
+          ],
+          "dialogStemmed": [
+            "noth",
+            "in",
+            "thi",
+            "world",
+            "would",
+            "make",
+            "me",
+            "happier",
+            "and",
+            "i",
+            "know",
+            "with",
+            "all",
+            "my",
+            "heart",
+            "that",
+            "you",
+            "would",
+            "make",
+            "an",
+            "amaz",
+            "mother",
+            "but",
+            "it",
+            "can",
+            "never",
+            "happen",
+            "at",
+            "least",
+            "not",
+            "with",
+            "me"
           ]
         },
         {
           "character": "Mary Margaret",
           "dialog": " What do you mean?",
-          "dialogSplit": ["What", "do", "you", "mean"]
+          "dialogSplit": ["What", "do", "you", "mean"],
+          "dialogStemmed": ["what", "do", "you", "mean"]
         },
         {
           "character": "David",
@@ -4547,17 +7890,40 @@
             "find",
             "a",
             "cure"
+          ],
+          "dialogStemmed": [
+            "when",
+            "hook",
+            "and",
+            "i",
+            "went",
+            "to",
+            "search",
+            "for",
+            "the",
+            "sextant",
+            "he",
+            "wa",
+            "realli",
+            "take",
+            "me",
+            "to",
+            "find",
+            "a",
+            "cure"
           ]
         },
         {
           "character": "Mary Margaret",
           "dialog": " A cure for what?",
-          "dialogSplit": ["A", "cure", "for", "what"]
+          "dialogSplit": ["A", "cure", "for", "what"],
+          "dialogStemmed": ["a", "cure", "for", "what"]
         },
         {
           "character": "David",
           "dialog": "Dreamshade.",
-          "dialogSplit": ["Dreamshade"]
+          "dialogSplit": ["Dreamshade"],
+          "dialogStemmed": ["dreamshad"]
         },
         {
           "character": "Mary Margaret",
@@ -4570,6 +7936,20 @@
             "arrow",
             "you",
             "pushed",
+            "me",
+            "out",
+            "of",
+            "the",
+            "way"
+          ],
+          "dialogStemmed": [
+            "the",
+            "lost",
+            "boy",
+            "the",
+            "arrow",
+            "you",
+            "push",
             "me",
             "out",
             "of",
@@ -4610,17 +7990,50 @@
             "do",
             "I'll",
             "die"
+          ],
+          "dialogStemmed": [
+            "i",
+            "wasn't",
+            "fast",
+            "enough",
+            "i",
+            "wa",
+            "hit",
+            "hook",
+            "wa",
+            "abl",
+            "to",
+            "find",
+            "a",
+            "cure",
+            "but",
+            "it",
+            "come",
+            "at",
+            "a",
+            "price",
+            "i",
+            "can't",
+            "leav",
+            "neverland",
+            "if",
+            "i",
+            "do",
+            "i'll",
+            "die"
           ]
         },
         {
           "character": "Emma",
           "dialog": " You okay?",
-          "dialogSplit": ["You", "okay"]
+          "dialogSplit": ["You", "okay"],
+          "dialogStemmed": ["you", "okay"]
         },
         {
           "character": "Neal",
           "dialog": " Yeah. But Henry...",
-          "dialogSplit": ["Yeah", "But", "Henry"]
+          "dialogSplit": ["Yeah", "But", "Henry"],
+          "dialogStemmed": ["yeah", "but", "henri"]
         },
         {
           "character": "Emma",
@@ -4636,6 +8049,26 @@
             "of",
             "him",
             "Just",
+            "need",
+            "to",
+            "get",
+            "you",
+            "out",
+            "of",
+            "there",
+            "first"
+          ],
+          "dialogStemmed": [
+            "i",
+            "it'",
+            "okay",
+            "we'r",
+            "gonna",
+            "take",
+            "care",
+            "of",
+            "him",
+            "just",
             "need",
             "to",
             "get",
@@ -4669,6 +8102,27 @@
             "tell",
             "me",
             "anything"
+          ],
+          "dialogStemmed": [
+            "wha",
+            "emma",
+            "emma",
+            "emma",
+            "emma",
+            "you",
+            "know",
+            "that'",
+            "not",
+            "how",
+            "thi",
+            "work",
+            "it'",
+            "okay",
+            "you",
+            "can",
+            "tell",
+            "me",
+            "anyth"
           ]
         },
         {
@@ -4832,12 +8286,172 @@
             "all",
             "over",
             "again"
+          ],
+          "dialogStemmed": [
+            "when",
+            "i",
+            "heard",
+            "you",
+            "might",
+            "be",
+            "here",
+            "and",
+            "that",
+            "you",
+            "might",
+            "still",
+            "be",
+            "aliv",
+            "i",
+            "knew",
+            "i",
+            "should",
+            "be",
+            "happi",
+            "but",
+            "i",
+            "wasn't",
+            "i",
+            "wa",
+            "terrifi",
+            "i",
+            "didn't",
+            "understand",
+            "whi",
+            "until",
+            "now",
+            "from",
+            "the",
+            "moment",
+            "i",
+            "saw",
+            "you",
+            "in",
+            "new",
+            "york",
+            "in",
+            "the",
+            "instant",
+            "you",
+            "step",
+            "back",
+            "in",
+            "my",
+            "life",
+            "i",
+            "knew",
+            "i",
+            "knew",
+            "i'd",
+            "never",
+            "stop",
+            "love",
+            "you",
+            "and",
+            "befor",
+            "i",
+            "even",
+            "had",
+            "a",
+            "chanc",
+            "to",
+            "take",
+            "a",
+            "breath",
+            "i",
+            "i",
+            "lost",
+            "you",
+            "onc",
+            "more",
+            "and",
+            "all",
+            "that",
+            "pain",
+            "that",
+            "i",
+            "had",
+            "push",
+            "down",
+            "for",
+            "all",
+            "those",
+            "year",
+            "it",
+            "just",
+            "came",
+            "rush",
+            "back",
+            "and",
+            "i",
+            "i",
+            "didn't",
+            "know",
+            "if",
+            "i",
+            "could",
+            "go",
+            "through",
+            "it",
+            "again",
+            "i",
+            "love",
+            "you",
+            "i",
+            "probabl",
+            "alway",
+            "will",
+            "but",
+            "my",
+            "secret",
+            "is",
+            "that",
+            "i",
+            "wa",
+            "hope",
+            "that",
+            "thi",
+            "wa",
+            "a",
+            "trick",
+            "i",
+            "wa",
+            "hope",
+            "you",
+            "were",
+            "dead",
+            "becaus",
+            "it",
+            "would",
+            "be",
+            "easier",
+            "for",
+            "me",
+            "to",
+            "put",
+            "you",
+            "behind",
+            "me",
+            "than",
+            "to",
+            "face",
+            "all",
+            "the",
+            "pain",
+            "that",
+            "we",
+            "went",
+            "through",
+            "all",
+            "over",
+            "again"
           ]
         },
         {
           "character": "Neal",
           "dialog": " Thank you.",
-          "dialogSplit": ["Thank", "you"]
+          "dialogSplit": ["Thank", "you"],
+          "dialogStemmed": ["thank", "you"]
         },
         {
           "character": "David",
@@ -4854,6 +8468,19 @@
             "to",
             "save",
             "Henry"
+          ],
+          "dialogStemmed": [
+            "well",
+            "don't",
+            "thank",
+            "us",
+            "yet",
+            "we",
+            "still",
+            "have",
+            "to",
+            "save",
+            "henri"
           ]
         },
         {
@@ -4879,6 +8506,27 @@
             "off",
             "this",
             "island"
+          ],
+          "dialogStemmed": [
+            "we",
+            "found",
+            "your",
+            "star",
+            "map",
+            "so",
+            "the",
+            "real",
+            "question",
+            "is",
+            "do",
+            "you",
+            "know",
+            "how",
+            "to",
+            "get",
+            "off",
+            "thi",
+            "island"
           ]
         },
         {
@@ -4892,6 +8540,19 @@
             "find",
             "Henry",
             "I",
+            "can",
+            "get",
+            "us",
+            "home"
+          ],
+          "dialogStemmed": [
+            "well",
+            "if",
+            "we",
+            "can",
+            "find",
+            "henri",
+            "i",
             "can",
             "get",
             "us",
@@ -4911,27 +8572,42 @@
             "retrieve",
             "the",
             "boy"
+          ],
+          "dialogStemmed": [
+            "let'",
+            "go",
+            "get",
+            "tinker",
+            "bell",
+            "and",
+            "retriev",
+            "the",
+            "boy"
           ]
         },
         {
           "character": "Emma",
           "dialog": " You all right?",
-          "dialogSplit": ["You", "all", "right"]
+          "dialogSplit": ["You", "all", "right"],
+          "dialogStemmed": ["you", "all", "right"]
         },
         {
           "character": "Neal",
           "dialog": " Yeah, I'm fine.",
-          "dialogSplit": ["Yeah", "I'm", "fine"]
+          "dialogSplit": ["Yeah", "I'm", "fine"],
+          "dialogStemmed": ["yeah", "i'm", "fine"]
         },
         {
           "character": "Emma",
           "dialog": " About what I said...",
-          "dialogSplit": ["About", "what", "I", "said"]
+          "dialogSplit": ["About", "what", "I", "said"],
+          "dialogStemmed": ["about", "what", "i", "said"]
         },
         {
           "character": "Neal",
           "dialog": " Hey. Hey, Emma, it's okay.",
-          "dialogSplit": ["Hey", "Hey", "Emma", "it's", "okay"]
+          "dialogSplit": ["Hey", "Hey", "Emma", "it's", "okay"],
+          "dialogStemmed": ["hey", "hey", "emma", "it'", "okay"]
         },
         {
           "character": "Emma",
@@ -4956,6 +8632,27 @@
             "can't",
             "I'm",
             "sorry"
+          ],
+          "dialogStemmed": [
+            "no",
+            "it'",
+            "not",
+            "i",
+            "wish",
+            "i",
+            "could",
+            "chang",
+            "how",
+            "i",
+            "feel",
+            "more",
+            "than",
+            "anyth",
+            "but",
+            "i",
+            "can't",
+            "i'm",
+            "sorri"
           ]
         },
         {
@@ -5002,17 +8699,61 @@
             "for",
             "you",
             "Never"
+          ],
+          "dialogStemmed": [
+            "don't",
+            "be",
+            "after",
+            "everyth",
+            "i'v",
+            "put",
+            "you",
+            "through",
+            "you",
+            "don't",
+            "ever",
+            "have",
+            "to",
+            "apolog",
+            "to",
+            "me",
+            "about",
+            "how",
+            "you",
+            "feel",
+            "hey",
+            "i'm",
+            "glad",
+            "you",
+            "told",
+            "me",
+            "i",
+            "have",
+            "a",
+            "secret",
+            "too",
+            "emma",
+            "i'm",
+            "never",
+            "gonna",
+            "stop",
+            "fight",
+            "for",
+            "you",
+            "never"
           ]
         },
         {
           "character": "David",
           "dialog": " Look, I know I should've told you...",
-          "dialogSplit": ["Look", "I", "know", "I", "should've", "told", "you"]
+          "dialogSplit": ["Look", "I", "know", "I", "should've", "told", "you"],
+          "dialogStemmed": ["look", "i", "know", "i", "should'v", "told", "you"]
         },
         {
           "character": "Mary Margaret",
           "dialog": " Don't. Just... not now.",
-          "dialogSplit": ["Don't", "Just", "not", "now"]
+          "dialogSplit": ["Don't", "Just", "not", "now"],
+          "dialogStemmed": ["don't", "just", "not", "now"]
         }
       ]
     },
@@ -5033,6 +8774,16 @@
             "Are",
             "you",
             "okay"
+          ],
+          "dialogStemmed": [
+            "i",
+            "am",
+            "so",
+            "sorri",
+            "snow",
+            "are",
+            "you",
+            "okay"
           ]
         },
         {
@@ -5047,9 +8798,24 @@
             "need",
             "to",
             "go"
+          ],
+          "dialogStemmed": [
+            "yeah",
+            "i'm",
+            "fine",
+            "but",
+            "you",
+            "need",
+            "to",
+            "go"
           ]
         },
-        { "character": "Ariel", "dialog": " What?", "dialogSplit": ["What"] },
+        {
+          "character": "Ariel",
+          "dialog": " What?",
+          "dialogSplit": ["What"],
+          "dialogStemmed": ["what"]
+        },
         {
           "character": "Snow White",
           "dialog": " Eric... tell him the truth. Go to him.",
@@ -5060,6 +8826,16 @@
             "the",
             "truth",
             "Go",
+            "to",
+            "him"
+          ],
+          "dialogStemmed": [
+            "eric",
+            "tell",
+            "him",
+            "the",
+            "truth",
+            "go",
             "to",
             "him"
           ]
@@ -5082,6 +8858,22 @@
             "from",
             "the",
             "docks"
+          ],
+          "dialogStemmed": [
+            "the",
+            "caravan",
+            "is",
+            "probabl",
+            "long",
+            "gone",
+            "by",
+            "now",
+            "and",
+            "we'r",
+            "mile",
+            "from",
+            "the",
+            "dock"
           ]
         },
         {
@@ -5104,12 +8896,31 @@
             "long",
             "as",
             "possible"
+          ],
+          "dialogStemmed": [
+            "i",
+            "saw",
+            "how",
+            "he",
+            "look",
+            "at",
+            "you",
+            "at",
+            "the",
+            "ball",
+            "he'll",
+            "wait",
+            "as",
+            "long",
+            "as",
+            "possibl"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " You think he's still there?",
-          "dialogSplit": ["You", "think", "he's", "still", "there"]
+          "dialogSplit": ["You", "think", "he's", "still", "there"],
+          "dialogStemmed": ["you", "think", "he'", "still", "there"]
         },
         {
           "character": "Snow White",
@@ -5124,17 +8935,30 @@
             "find",
             "out",
             "Go"
+          ],
+          "dialogStemmed": [
+            "there",
+            "is",
+            "onli",
+            "one",
+            "way",
+            "to",
+            "find",
+            "out",
+            "go"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " Thank you, Snow!",
-          "dialogSplit": ["Thank", "you", "Snow"]
+          "dialogSplit": ["Thank", "you", "Snow"],
+          "dialogStemmed": ["thank", "you", "snow"]
         },
         {
           "character": "Snow White",
           "dialog": " Go! Just go! ",
-          "dialogSplit": ["Go", "Just", "go"]
+          "dialogSplit": ["Go", "Just", "go"],
+          "dialogStemmed": ["go", "just", "go"]
         }
       ]
     },
@@ -5146,12 +8970,14 @@
         {
           "character": "Man",
           "dialog": " Your Highness... It's time.",
-          "dialogSplit": ["Your", "Highness", "It's", "time"]
+          "dialogSplit": ["Your", "Highness", "It's", "time"],
+          "dialogStemmed": ["your", "high", "it'", "time"]
         },
         {
           "character": "Prince Eric",
           "dialog": " Just a little longer.",
-          "dialogSplit": ["Just", "a", "little", "longer"]
+          "dialogSplit": ["Just", "a", "little", "longer"],
+          "dialogStemmed": ["just", "a", "littl", "longer"]
         },
         {
           "character": "Ariel",
@@ -5165,6 +8991,16 @@
             "please",
             "no",
             "Eric"
+          ],
+          "dialogStemmed": [
+            "eric",
+            "eric",
+            "eric",
+            "eric",
+            "no",
+            "pleas",
+            "no",
+            "eric"
           ]
         },
         {
@@ -5229,6 +9065,66 @@
             "home",
             "Little",
             "mermaid"
+          ],
+          "dialogStemmed": [
+            "i",
+            "told",
+            "you",
+            "there'd",
+            "be",
+            "no",
+            "second",
+            "chanc",
+            "hmm",
+            "oh",
+            "that",
+            "your",
+            "voic",
+            "i",
+            "took",
+            "it",
+            "the",
+            "onli",
+            "thing",
+            "wors",
+            "about",
+            "tell",
+            "your",
+            "princ",
+            "how",
+            "you",
+            "feel",
+            "and",
+            "reject",
+            "you",
+            "is",
+            "never",
+            "tell",
+            "him",
+            "at",
+            "all",
+            "never",
+            "know",
+            "never",
+            "even",
+            "have",
+            "a",
+            "chanc",
+            "at",
+            "true",
+            "love",
+            "that'",
+            "right",
+            "dear",
+            "he'",
+            "gone",
+            "time",
+            "to",
+            "swim",
+            "back",
+            "home",
+            "littl",
+            "mermaid"
           ]
         }
       ]
@@ -5241,12 +9137,14 @@
         {
           "character": "Ursula",
           "dialog": " Hello, Regina.",
-          "dialogSplit": ["Hello", "Regina"]
+          "dialogSplit": ["Hello", "Regina"],
+          "dialogStemmed": ["hello", "regina"]
         },
         {
           "character": "Evil Queen",
           "dialog": " You. You're real?",
-          "dialogSplit": ["You", "You're", "real"]
+          "dialogSplit": ["You", "You're", "real"],
+          "dialogStemmed": ["you", "you'r", "real"]
         },
         {
           "character": "Ursula",
@@ -5267,13 +9165,36 @@
             "real",
             "I",
             "am"
+          ],
+          "dialogStemmed": [
+            "next",
+            "time",
+            "you",
+            "claim",
+            "to",
+            "be",
+            "me",
+            "you'll",
+            "find",
+            "out",
+            "just",
+            "how",
+            "real",
+            "i",
+            "am"
           ]
         },
-        { "character": "Evil Queen", "dialog": " Oh!", "dialogSplit": ["Oh"] },
+        {
+          "character": "Evil Queen",
+          "dialog": " Oh!",
+          "dialogSplit": ["Oh"],
+          "dialogStemmed": ["oh"]
+        },
         {
           "character": "Ursula",
           "dialog": " Don't ever do that again. ",
-          "dialogSplit": ["Don't", "ever", "do", "that", "again"]
+          "dialogSplit": ["Don't", "ever", "do", "that", "again"],
+          "dialogStemmed": ["don't", "ever", "do", "that", "again"]
         }
       ]
     },
@@ -5300,6 +9221,22 @@
             "already",
             "tried",
             "that"
+          ],
+          "dialogStemmed": [
+            "if",
+            "you",
+            "think",
+            "summon",
+            "a",
+            "giant",
+            "squid",
+            "is",
+            "the",
+            "answer",
+            "i'v",
+            "alreadi",
+            "tri",
+            "that"
           ]
         },
         {
@@ -5323,6 +9260,25 @@
             "Ariel",
             "Long",
             "time"
+          ],
+          "dialogStemmed": [
+            "oh",
+            "you'v",
+            "had",
+            "fun",
+            "haven't",
+            "you",
+            "i",
+            "have",
+            "no",
+            "intent",
+            "of",
+            "order",
+            "calamari",
+            "hello",
+            "ariel",
+            "long",
+            "time"
           ]
         },
         {
@@ -5341,6 +9297,20 @@
             "can't",
             "be",
             "trusted"
+          ],
+          "dialogStemmed": [
+            "it'",
+            "true",
+            "mermaid",
+            "can",
+            "travel",
+            "across",
+            "realm",
+            "but",
+            "they",
+            "can't",
+            "be",
+            "trust"
           ]
         },
         {
@@ -5354,6 +9324,15 @@
             "have",
             "history",
             "together"
+          ],
+          "dialogStemmed": [
+            "thi",
+            "one",
+            "can",
+            "we",
+            "have",
+            "histori",
+            "togeth"
           ]
         },
         {
@@ -5370,23 +9349,43 @@
             "on",
             "her",
             "face"
+          ],
+          "dialogStemmed": [
+            "well",
+            "that",
+            "would",
+            "explain",
+            "the",
+            "distast",
+            "look",
+            "on",
+            "her",
+            "face"
           ]
         },
         {
           "character": "Regina",
           "dialog": " And now she's going to help us.",
-          "dialogSplit": ["And", "now", "she's", "going", "to", "help", "us"]
+          "dialogSplit": ["And", "now", "she's", "going", "to", "help", "us"],
+          "dialogStemmed": ["and", "now", "she'", "go", "to", "help", "us"]
         },
-        { "character": "Ariel", "dialog": "", "dialogSplit": [] },
+        {
+          "character": "Ariel",
+          "dialog": "",
+          "dialogSplit": [],
+          "dialogStemmed": []
+        },
         {
           "character": "Regina",
           "dialog": " Oh, right, your voice. ",
-          "dialogSplit": ["Oh", "right", "your", "voice"]
+          "dialogSplit": ["Oh", "right", "your", "voice"],
+          "dialogStemmed": ["oh", "right", "your", "voic"]
         },
         {
           "character": "Ariel",
           "dialog": " Why would I help you?",
-          "dialogSplit": ["Why", "would", "I", "help", "you"]
+          "dialogSplit": ["Why", "would", "I", "help", "you"],
+          "dialogStemmed": ["whi", "would", "i", "help", "you"]
         },
         {
           "character": "Regina",
@@ -5423,9 +9422,47 @@
             "you",
             "need",
             "most"
+          ],
+          "dialogStemmed": [
+            "becaus",
+            "i",
+            "can",
+            "give",
+            "you",
+            "what",
+            "you",
+            "want",
+            "i",
+            "can",
+            "give",
+            "you",
+            "leg",
+            "ariel",
+            "and",
+            "thi",
+            "time",
+            "control",
+            "over",
+            "them",
+            "but",
+            "more",
+            "importantli",
+            "i",
+            "can",
+            "give",
+            "you",
+            "what",
+            "you",
+            "need",
+            "most"
           ]
         },
-        { "character": "Ariel", "dialog": " What?", "dialogSplit": ["What"] },
+        {
+          "character": "Ariel",
+          "dialog": " What?",
+          "dialogSplit": ["What"],
+          "dialogStemmed": ["what"]
+        },
         {
           "character": "Regina",
           "dialog": " The place I'm sending you... among its residents... is your Prince Eric.",
@@ -5442,17 +9479,33 @@
             "your",
             "Prince",
             "Eric"
+          ],
+          "dialogStemmed": [
+            "the",
+            "place",
+            "i'm",
+            "send",
+            "you",
+            "among",
+            "it",
+            "resid",
+            "is",
+            "your",
+            "princ",
+            "eric"
           ]
         },
         {
           "character": "Ariel",
           "dialog": " What's the name of this place?",
-          "dialogSplit": ["What's", "the", "name", "of", "this", "place"]
+          "dialogSplit": ["What's", "the", "name", "of", "this", "place"],
+          "dialogStemmed": ["what'", "the", "name", "of", "thi", "place"]
         },
         {
           "character": "Regina",
           "dialog": " Storybrooke.",
-          "dialogSplit": ["Storybrooke"]
+          "dialogSplit": ["Storybrooke"],
+          "dialogStemmed": ["storybrook"]
         }
       ]
     }
