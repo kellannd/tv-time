@@ -11,7 +11,7 @@ from pathlib import Path
     # with open("data/scripts/season3/" + file.name, 'r') as file:
     #     data = json.load(file)
 
-with open("The_Jolly_Roger.json", "r") as file:
+with open("Ariel.json", "r") as file:
     data = json.load(file)
 
 for scene in data["scenes"]:
@@ -28,7 +28,7 @@ for scene in data["scenes"]:
         dialogStemmed = []
 
 
-with open("The_Jolly_Roger.json", 'w') as file:
+with open("Ariel.json", 'w') as file:
     json.dump(data, file)
 
 
