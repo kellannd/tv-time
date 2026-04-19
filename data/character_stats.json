@@ -1,0 +1,1567 @@
+[
+  {
+    "character": "Emma Swan",
+    "lines": 3248,
+    "episodes": 63
+  },
+  {
+    "character": "Regina / Evil Queen",
+    "lines": 2386,
+    "episodes": 61
+  },
+  {
+    "character": "Snow White / Mary Margaret",
+    "lines": 2198,
+    "episodes": 63
+  },
+  {
+    "character": "Rumplestiltskin / Mr. Gold",
+    "lines": 1945,
+    "episodes": 55
+  },
+  {
+    "character": "Prince Charming / David",
+    "lines": 1820,
+    "episodes": 61
+  },
+  {
+    "character": "Hook / Killian Jones",
+    "lines": 1187,
+    "episodes": 35
+  },
+  {
+    "character": "Henry",
+    "lines": 1035,
+    "episodes": 60
+  },
+  {
+    "character": "Neal / Baelfire",
+    "lines": 768,
+    "episodes": 26
+  },
+  {
+    "character": "Belle",
+    "lines": 580,
+    "episodes": 32
+  },
+  {
+    "character": "Cora / Queen of Hearts",
+    "lines": 337,
+    "episodes": 13
+  },
+  {
+    "character": "Zelena / Wicked Witch",
+    "lines": 304,
+    "episodes": 9
+  },
+  {
+    "character": "Red / Ruby",
+    "lines": 300,
+    "episodes": 29
+  },
+  {
+    "character": "August / Pinocchio",
+    "lines": 253,
+    "episodes": 11
+  },
+  {
+    "character": "Peter Pan",
+    "lines": 223,
+    "episodes": 10
+  },
+  {
+    "character": "Jiminy Cricket / Archie",
+    "lines": 219,
+    "episodes": 19
+  },
+  {
+    "character": "Grumpy / Leroy",
+    "lines": 206,
+    "episodes": 28
+  },
+  {
+    "character": "Graham / The Huntsman",
+    "lines": 195,
+    "episodes": 9
+  },
+  {
+    "character": "Ariel",
+    "lines": 189,
+    "episodes": 4
+  },
+  {
+    "character": "Mulan",
+    "lines": 181,
+    "episodes": 10
+  },
+  {
+    "character": "Aurora",
+    "lines": 176,
+    "episodes": 13
+  },
+  {
+    "character": "Jefferson / Mad Hatter",
+    "lines": 164,
+    "episodes": 6
+  },
+  {
+    "character": "Robin Hood",
+    "lines": 159,
+    "episodes": 12
+  },
+  {
+    "character": "Tinker Bell",
+    "lines": 142,
+    "episodes": 8
+  },
+  {
+    "character": "Tamara",
+    "lines": 134,
+    "episodes": 7
+  },
+  {
+    "character": "Blue Fairy",
+    "lines": 130,
+    "episodes": 18
+  },
+  {
+    "character": "Dr. Whale / Frankenstein",
+    "lines": 128,
+    "episodes": 13
+  },
+  {
+    "character": "Sidney / Magic Mirror",
+    "lines": 114,
+    "episodes": 9
+  },
+  {
+    "character": "Greg",
+    "lines": 114,
+    "episodes": 10
+  },
+  {
+    "character": "Kathryn / Princess Abigail",
+    "lines": 103,
+    "episodes": 6
+  },
+  {
+    "character": "Granny",
+    "lines": 82,
+    "episodes": 23
+  },
+  {
+    "character": "Geppetto / Marco",
+    "lines": 82,
+    "episodes": 8
+  },
+  {
+    "character": "Anton",
+    "lines": 77,
+    "episodes": 2
+  },
+  {
+    "character": "Felix",
+    "lines": 71,
+    "episodes": 11
+  },
+  {
+    "character": "Man",
+    "lines": 66,
+    "episodes": 20
+  },
+  {
+    "character": "King George",
+    "lines": 61,
+    "episodes": 6
+  },
+  {
+    "character": "Glinda",
+    "lines": 59,
+    "episodes": 2
+  },
+  {
+    "character": "Cinderella",
+    "lines": 53,
+    "episodes": 1
+  },
+  {
+    "character": "Smee",
+    "lines": 48,
+    "episodes": 6
+  },
+  {
+    "character": "Wendy",
+    "lines": 47,
+    "episodes": 4
+  },
+  {
+    "character": "Stranger",
+    "lines": 45,
+    "episodes": 5
+  },
+  {
+    "character": "Milah",
+    "lines": 45,
+    "episodes": 2
+  },
+  {
+    "character": "Doctor",
+    "lines": 43,
+    "episodes": 5
+  },
+  {
+    "character": "Ruth",
+    "lines": 40,
+    "episodes": 2
+  },
+  {
+    "character": "Lacey",
+    "lines": 40,
+    "episodes": 3
+  },
+  {
+    "character": "Kurt",
+    "lines": 40,
+    "episodes": 1
+  },
+  {
+    "character": "Myrna",
+    "lines": 38,
+    "episodes": 1
+  },
+  {
+    "character": "Gretel",
+    "lines": 36,
+    "episodes": 1
+  },
+  {
+    "character": "Victor",
+    "lines": 36,
+    "episodes": 1
+  },
+  {
+    "character": "Woman",
+    "lines": 35,
+    "episodes": 9
+  },
+  {
+    "character": "Ashley",
+    "lines": 35,
+    "episodes": 2
+  },
+  {
+    "character": "Lancelot",
+    "lines": 33,
+    "episodes": 1
+  },
+  {
+    "character": "Dr. Hopper",
+    "lines": 32,
+    "episodes": 4
+  },
+  {
+    "character": "Martin",
+    "lines": 32,
+    "episodes": 1
+  },
+  {
+    "character": "Owen",
+    "lines": 32,
+    "episodes": 1
+  },
+  {
+    "character": "Liam",
+    "lines": 31,
+    "episodes": 1
+  },
+  {
+    "character": "Phillip",
+    "lines": 29,
+    "episodes": 3
+  },
+  {
+    "character": "Johanna",
+    "lines": 29,
+    "episodes": 1
+  },
+  {
+    "character": "Robin",
+    "lines": 29,
+    "episodes": 5
+  },
+  {
+    "character": "Boy",
+    "lines": 27,
+    "episodes": 2
+  },
+  {
+    "character": "Valet",
+    "lines": 27,
+    "episodes": 3
+  },
+  {
+    "character": "Michael",
+    "lines": 27,
+    "episodes": 5
+  },
+  {
+    "character": "Walsh",
+    "lines": 27,
+    "episodes": 2
+  },
+  {
+    "character": "Moe",
+    "lines": 26,
+    "episodes": 2
+  },
+  {
+    "character": "Arlo",
+    "lines": 25,
+    "episodes": 1
+  },
+  {
+    "character": "Daniel",
+    "lines": 24,
+    "episodes": 2
+  },
+  {
+    "character": "John",
+    "lines": 24,
+    "episodes": 4
+  },
+  {
+    "character": "King Leopold",
+    "lines": 23,
+    "episodes": 2
+  },
+  {
+    "character": "Woodcutter",
+    "lines": 23,
+    "episodes": 2
+  },
+  {
+    "character": "Seer",
+    "lines": 23,
+    "episodes": 1
+  },
+  {
+    "character": "Abigail",
+    "lines": 22,
+    "episodes": 3
+  },
+  {
+    "character": "Thief",
+    "lines": 22,
+    "episodes": 2
+  },
+  {
+    "character": "Spencer",
+    "lines": 22,
+    "episodes": 1
+  },
+  {
+    "character": "King Xavier",
+    "lines": 22,
+    "episodes": 1
+  },
+  {
+    "character": "Prince Thomas",
+    "lines": 21,
+    "episodes": 1
+  },
+  {
+    "character": "Prince James",
+    "lines": 21,
+    "episodes": 2
+  },
+  {
+    "character": "Anita",
+    "lines": 21,
+    "episodes": 1
+  },
+  {
+    "character": "The Wizard",
+    "lines": 21,
+    "episodes": 2
+  },
+  {
+    "character": "Mr. Clark",
+    "lines": 20,
+    "episodes": 8
+  },
+  {
+    "character": "Dragon",
+    "lines": 20,
+    "episodes": 1
+  },
+  {
+    "character": "Lumiere",
+    "lines": 20,
+    "episodes": 1
+  },
+  {
+    "character": "Ava",
+    "lines": 19,
+    "episodes": 1
+  },
+  {
+    "character": "Jonathan",
+    "lines": 19,
+    "episodes": 1
+  },
+  {
+    "character": "Dorothy",
+    "lines": 19,
+    "episodes": 1
+  },
+  {
+    "character": "Rapunzel",
+    "lines": 18,
+    "episodes": 1
+  },
+  {
+    "character": "Happy",
+    "lines": 17,
+    "episodes": 10
+  },
+  {
+    "character": "King Midas",
+    "lines": 17,
+    "episodes": 2
+  },
+  {
+    "character": "Hordor",
+    "lines": 16,
+    "episodes": 1
+  },
+  {
+    "character": "Alphonse",
+    "lines": 16,
+    "episodes": 1
+  },
+  {
+    "character": "Girl",
+    "lines": 16,
+    "episodes": 3
+  },
+  {
+    "character": "Queen Eva",
+    "lines": 16,
+    "episodes": 1
+  },
+  {
+    "character": "Grace",
+    "lines": 15,
+    "episodes": 2
+  },
+  {
+    "character": "Hansel",
+    "lines": 15,
+    "episodes": 1
+  },
+  {
+    "character": "Trader",
+    "lines": 15,
+    "episodes": 1
+  },
+  {
+    "character": "Guard",
+    "lines": 14,
+    "episodes": 9
+  },
+  {
+    "character": "Prince Phillip",
+    "lines": 14,
+    "episodes": 3
+  },
+  {
+    "character": "Adoption Agent",
+    "lines": 14,
+    "episodes": 1
+  },
+  {
+    "character": "Nurse",
+    "lines": 13,
+    "episodes": 7
+  },
+  {
+    "character": "Maleficent",
+    "lines": 13,
+    "episodes": 2
+  },
+  {
+    "character": "Ryan",
+    "lines": 13,
+    "episodes": 1
+  },
+  {
+    "character": "The Giant",
+    "lines": 13,
+    "episodes": 1
+  },
+  {
+    "character": "Alistair",
+    "lines": 13,
+    "episodes": 1
+  },
+  {
+    "character": "Prince Leopold",
+    "lines": 13,
+    "episodes": 1
+  },
+  {
+    "character": "Doc",
+    "lines": 12,
+    "episodes": 9
+  },
+  {
+    "character": "Black Knight",
+    "lines": 12,
+    "episodes": 3
+  },
+  {
+    "character": "D.A. Spencer",
+    "lines": 12,
+    "episodes": 1
+  },
+  {
+    "character": "Jack",
+    "lines": 12,
+    "episodes": 1
+  },
+  {
+    "character": "Prince Eric",
+    "lines": 12,
+    "episodes": 1
+  },
+  {
+    "character": "Sean",
+    "lines": 11,
+    "episodes": 2
+  },
+  {
+    "character": "Mitchell",
+    "lines": 11,
+    "episodes": 1
+  },
+  {
+    "character": "Knight",
+    "lines": 11,
+    "episodes": 3
+  },
+  {
+    "character": "Devin",
+    "lines": 11,
+    "episodes": 1
+  },
+  {
+    "character": "Blackbeard",
+    "lines": 11,
+    "episodes": 1
+  },
+  {
+    "character": "The Genie",
+    "lines": 10,
+    "episodes": 1
+  },
+  {
+    "character": "Knave of Hearts",
+    "lines": 10,
+    "episodes": 2
+  },
+  {
+    "character": "Billy",
+    "lines": 10,
+    "episodes": 3
+  },
+  {
+    "character": "Eva",
+    "lines": 10,
+    "episodes": 2
+  },
+  {
+    "character": "Maurice",
+    "lines": 9,
+    "episodes": 1
+  },
+  {
+    "character": "Troll",
+    "lines": 9,
+    "episodes": 1
+  },
+  {
+    "character": "Blind Witch",
+    "lines": 9,
+    "episodes": 2
+  },
+  {
+    "character": "Siren",
+    "lines": 9,
+    "episodes": 1
+  },
+  {
+    "character": "Gerhardt",
+    "lines": 9,
+    "episodes": 1
+  },
+  {
+    "character": "Sheriff of Nottingham",
+    "lines": 9,
+    "episodes": 1
+  },
+  {
+    "character": "William Smee",
+    "lines": 9,
+    "episodes": 2
+  },
+  {
+    "character": "Captain",
+    "lines": 9,
+    "episodes": 2
+  },
+  {
+    "character": "Beggar",
+    "lines": 8,
+    "episodes": 1
+  },
+  {
+    "character": "Quinn",
+    "lines": 8,
+    "episodes": 1
+  },
+  {
+    "character": "Lieutenant",
+    "lines": 8,
+    "episodes": 1
+  },
+  {
+    "character": "Zoso",
+    "lines": 7,
+    "episodes": 1
+  },
+  {
+    "character": "Donna",
+    "lines": 7,
+    "episodes": 1
+  },
+  {
+    "character": "Store Keeper",
+    "lines": 7,
+    "episodes": 1
+  },
+  {
+    "character": "Roland",
+    "lines": 7,
+    "episodes": 4
+  },
+  {
+    "character": "Little John",
+    "lines": 7,
+    "episodes": 3
+  },
+  {
+    "character": "Stealthy",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Guard 1",
+    "lines": 6,
+    "episodes": 2
+  },
+  {
+    "character": "Severe Nurse",
+    "lines": 6,
+    "episodes": 3
+  },
+  {
+    "character": "Walter",
+    "lines": 6,
+    "episodes": 4
+  },
+  {
+    "character": "Man 2",
+    "lines": 6,
+    "episodes": 3
+  },
+  {
+    "character": "Burly Knight",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Keith",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Commanding Officer",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Cop",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Berkley",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Leopold",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Crewmen",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Woodcutter's Wife",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Lost Boy #1",
+    "lines": 6,
+    "episodes": 1
+  },
+  {
+    "character": "Knight 1",
+    "lines": 5,
+    "episodes": 2
+  },
+  {
+    "character": "Voice",
+    "lines": 5,
+    "episodes": 2
+  },
+  {
+    "character": "Gaston",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Stephen",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Donkey Man",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Morraine",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Igor",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Store Customer",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Smee's Counterpart",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Abraham",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Mermaid",
+    "lines": 5,
+    "episodes": 1
+  },
+  {
+    "character": "Dr. Thatcher",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Morraine's Father",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Morraine's Mother",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Old Woman",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "George",
+    "lines": 4,
+    "episodes": 2
+  },
+  {
+    "character": "Gordie",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Crowd",
+    "lines": 4,
+    "episodes": 2
+  },
+  {
+    "character": "Bartender",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Claude",
+    "lines": 4,
+    "episodes": 2
+  },
+  {
+    "character": "Isra",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Quon",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Victor's Assistant",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Carny",
+    "lines": 4,
+    "episodes": 1
+  },
+  {
+    "character": "Widow Lucas",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Sneezy",
+    "lines": 3,
+    "episodes": 3
+  },
+  {
+    "character": "Knight 2",
+    "lines": 3,
+    "episodes": 2
+  },
+  {
+    "character": "John Doe",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Prince Puppet",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Man 1",
+    "lines": 3,
+    "episodes": 3
+  },
+  {
+    "character": "Fairy Godmother",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Nicholas",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Mr. Krzyszkowski",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Frederick",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Soldier 2",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Police Officer",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Fisherman",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Peasant Boy",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Ursula",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Nun #1",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Young Crewman",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Witch of the North",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Marian",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Friar Tuck",
+    "lines": 3,
+    "episodes": 1
+  },
+  {
+    "character": "Dwarf",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Guard 2",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Announcer",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Paramedic",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Sidney Glass",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Bishop",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Peter",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Guards",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Princess Puppet",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Dragon Puppet",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Man 3",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "The King",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Mr. Raskind",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Margaret",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Lost boy",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Bashful",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Companion",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Intercom",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Soldier",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Prison Guard",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Village Woman",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew Member",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Moe:",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew Member 3",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Rivers",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Waitress",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Johanna:",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Unnamed Giant 1",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Unnamed Giant 2",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Security Officer",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Anton'",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Third Sailor",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Crew Member",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Various Crewmen",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Single Crewman",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Witch of the East",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Lost Boy",
+    "lines": 2,
+    "episodes": 2
+  },
+  {
+    "character": "Lost Boys",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Lost Boy #2",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Prisoner",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Black Beard",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Troll 1",
+    "lines": 2,
+    "episodes": 1
+  },
+  {
+    "character": "Man on TV",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Weatherman",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Man over radio",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Together",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Guard 4",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": ".",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "The Beggar",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Old woman",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Caterpillar",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Paige",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "King George's men",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Cabbie",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Steward",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ashley:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Sean:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Coachman",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Abigail:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Martin and Myrna",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Blue Fair",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Man 4",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Man 5",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Man 2:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Obstetrician",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Guests",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Gene",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ellen",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Frank",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Men",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Sindey",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Lyrics",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Gnome",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Hansel and Gretel",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ava:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Gretel:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Crowd Member 1",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Crowd Member 2",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Crowd Member 3",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Eerie Voice",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Soldier 1",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Seer:",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Orderly",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Motel Guest",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Cop 1",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Cop 2",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Moe French",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Server",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew Member 1",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew Member 2",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Ship Crew Member 4",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Royal Guard",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Father",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Princess",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Princess Eva",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Archie's Voicemail",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Prince Philip",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Bill Godwin",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Male Announcer",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Man Waiting in Line",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Woman over P.A.",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Bar Patron",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Charlie",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Woamn",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Malcolm",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "First Sailor",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Second Sailor",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Bosun",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Crewman",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "(she rippes down the curtain.) You're telling me. (dragging the Wizard towards herself.)",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Wizard",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Sleepy",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Tinkerbell",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Police Man",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Black Knights",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Golden Knight",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Blue",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Troll 2",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Wench",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "All",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Eric",
+    "lines": 1,
+    "episodes": 1
+  },
+  {
+    "character": "Night Root Rapunzel",
+    "lines": 1,
+    "episodes": 1
+  }
+]
