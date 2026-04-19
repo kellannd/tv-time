@@ -1,0 +1,12 @@
+body {
+ background-image: url("../images/forest_no_text.png");
+ background-color: #202092;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(15, 60, 165, 0.788);
+  font-size: 20px;
+  color: white;
+}
