@@ -3,7 +3,20 @@ body {
  background-color: #202092;
 }
 
-.header {
+/**.header {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-image: url("../images/banner.png");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 180px;
+  font-size: 20px;
+  color: white;
+} **/
+<!-- .header {
   padding: 10px 20px;
   display: flex;
   align-items: center;
@@ -17,7 +30,7 @@ body {
   flex: 1;
   text-align: center;
   margin: 0;
-}
+} 
 
 .menu-icon {
   color: white;
