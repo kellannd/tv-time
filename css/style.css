@@ -60,6 +60,25 @@ body {
   display: none;
 }
 
+.main-container {
+  width: 75%;
+  margin: 40px auto;
+  background-color: rgba(10, 20, 60, 0.75); 
+  border-radius: 16px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.section-card {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+
 .section {
   padding: 40px 60px;
   color: white;
