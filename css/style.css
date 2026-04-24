@@ -12,13 +12,15 @@ body {
 }
 
 .header {
-  padding: 18px 24px;
+  padding: 18px 24px 20px;
   display: flex;
   align-items: center;
   gap: 16px;
-  background: linear-gradient(135deg, rgba(8, 20, 62, 0.95), rgba(11, 76, 105, 0.78));
-  border-bottom: 1px solid rgba(210, 227, 255, 0.16);
-  backdrop-filter: blur(6px);
+  justify-content: center;
+  background:
+    linear-gradient(135deg, rgba(8, 20, 62, 0.96), rgba(9, 52, 79, 0.88));
+  border-bottom: 1px solid rgba(210, 227, 255, 0.12);
+  backdrop-filter: blur(8px);
 }
 
 .header h1 {
