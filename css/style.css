@@ -29,17 +29,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.menu-icon {
-  color: #f4f4f2;
-  font-size: 24px;
-  text-decoration: none;
-  flex-shrink: 0;
-}
-
-.menu-icon:hover {
-  color: #d5e7ff;
-}
-
 .topnav {
   display: flex;
   justify-content: center;
