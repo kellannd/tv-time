@@ -1,0 +1,322 @@
+[
+  {
+    "season": "season1",
+    "path": "scripts/season1/715am.json",
+    "episodeFile": "715am.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/A_Land_Without_Magic.json",
+    "episodeFile": "A_Land_Without_Magic.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/An_Apple_Red_as_Blood.json",
+    "episodeFile": "An_Apple_Red_as_Blood.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Desperate_Souls.json",
+    "episodeFile": "Desperate_Souls.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Fruit_of_the_Poisonous_Tree.json",
+    "episodeFile": "Fruit_of_the_Poisonous_Tree.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Hat_Trick.json",
+    "episodeFile": "Hat_Trick.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Heart_of_Darkness.json",
+    "episodeFile": "Heart_of_Darkness.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Pilot.json",
+    "episodeFile": "Pilot.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Red-Handed.json",
+    "episodeFile": "Red-Handed.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Skin_Deep.json",
+    "episodeFile": "Skin_Deep.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/Snow_Falls.json",
+    "episodeFile": "Snow_Falls.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/That_Still_Small_Voice.json",
+    "episodeFile": "That_Still_Small_Voice.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Heart_Is_a_Lonely_Hunter.json",
+    "episodeFile": "The_Heart_Is_a_Lonely_Hunter.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Price_of_Gold.json",
+    "episodeFile": "The_Price_of_Gold.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Return.json",
+    "episodeFile": "The_Return.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Shepherd.json",
+    "episodeFile": "The_Shepherd.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Stable_Boy.json",
+    "episodeFile": "The_Stable_Boy.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Stranger.json",
+    "episodeFile": "The_Stranger.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/The_Thing_You_Love_Most.json",
+    "episodeFile": "The_Thing_You_Love_Most.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/True_North.json",
+    "episodeFile": "True_North.json"
+  },
+  {
+    "season": "season1",
+    "path": "scripts/season1/What_Happened_to_Frederick.json",
+    "episodeFile": "What_Happened_to_Frederick.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/And_Straight_On_Til_Morning.json",
+    "episodeFile": "And_Straight_On_Til_Morning.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Broken.json",
+    "episodeFile": "Broken.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Child_of_the_Moon.json",
+    "episodeFile": "Child_of_the_Moon.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/In_the_Name_of_the_Brother.json",
+    "episodeFile": "In_the_Name_of_the_Brother.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Into_the_Deep.json",
+    "episodeFile": "Into_the_Deep.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Lacey.json",
+    "episodeFile": "Lacey.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Lady_of_the_Lake.json",
+    "episodeFile": "Lady_of_the_Lake.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Manhattan.json",
+    "episodeFile": "Manhattan.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Queen_of_Hearts.json",
+    "episodeFile": "Queen_of_Hearts.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Second_Star_to_the_Right.json",
+    "episodeFile": "Second_Star_to_the_Right.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Selfless,_Brave_and_True.json",
+    "episodeFile": "Selfless,_Brave_and_True.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Tallahassee.json",
+    "episodeFile": "Tallahassee.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Cricket_Game.json",
+    "episodeFile": "The_Cricket_Game.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Crocodile.json",
+    "episodeFile": "The_Crocodile.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Doctor.json",
+    "episodeFile": "The_Doctor.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Evil_Queen.json",
+    "episodeFile": "The_Evil_Queen.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Millers_Daughter.json",
+    "episodeFile": "The_Millers_Daughter.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Outsider.json",
+    "episodeFile": "The_Outsider.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/The_Queen_Is_Dead.json",
+    "episodeFile": "The_Queen_Is_Dead.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Tiny.json",
+    "episodeFile": "Tiny.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/We_Are_Both.json",
+    "episodeFile": "We_Are_Both.json"
+  },
+  {
+    "season": "season2",
+    "path": "scripts/season2/Welcome_to_Storybrooke.json",
+    "episodeFile": "Welcome_to_Storybrooke.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/A_Curious_Thing.json",
+    "episodeFile": "A_Curious_Thing.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Ariel.json",
+    "episodeFile": "Ariel.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Bleeding_Through.json",
+    "episodeFile": "Bleeding_Through.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Dark_Hollow.json",
+    "episodeFile": "Dark_Hollow.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Going_Home.json",
+    "episodeFile": "Going_Home.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Good_Form.json",
+    "episodeFile": "Good_Form.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Its_Not_Easy_Being_Green.json",
+    "episodeFile": "Its_Not_Easy_Being_Green.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Kansas.json",
+    "episodeFile": "Kansas.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Lost_Girl.json",
+    "episodeFile": "Lost_Girl.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Nasty_Habits.json",
+    "episodeFile": "Nasty_Habits.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/New_York_City_Serenade.json",
+    "episodeFile": "New_York_City_Serenade.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Quiet_Minds.json",
+    "episodeFile": "Quiet_Minds.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Quite_a_Common_Fairy.json",
+    "episodeFile": "Quite_a_Common_Fairy.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Save_Henry.json",
+    "episodeFile": "Save_Henry.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Snow_Drifts.json",
+    "episodeFile": "Snow_Drifts.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/The_Heart_of_the_Truest_Believer.json",
+    "episodeFile": "The_Heart_of_the_Truest_Believer.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/The_Jolly_Roger.json",
+    "episodeFile": "The_Jolly_Roger.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/The_New_Neverland.json",
+    "episodeFile": "The_New_Neverland.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/The_Tower.json",
+    "episodeFile": "The_Tower.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Theres_No_Place_Like_Home.json",
+    "episodeFile": "Theres_No_Place_Like_Home.json"
+  },
+  {
+    "season": "season3",
+    "path": "scripts/season3/Witch_Hunt.json",
+    "episodeFile": "Witch_Hunt.json"
+  }
+]

@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>D3 Project Starter Template</title>
+    <title>What Do Characters Say?</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -11,18 +12,70 @@
         <a href="javascript:void(0);" class="menu-icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
         </a>
-        <H1><em>L4? Extra Placeholder</em></H1>
+        <h1><em>What Do Characters Say?</em></h1>
     </div>
 
     <div class="topnav" id="menu">
         <a href="index.html">Home</a>
         <a href="level2.html">Level 2</a>
         <a href="level3.html">Level 3</a>
-        <a href="level4.html" class="active">L4? Extra Placeholder</a>
+        <a href="level4.html" class="active">Character Language</a>
     </div>
 
+    <main class="analysis-shell simple-analysis">
+        <section class="hero-card">
+            <p class="eyebrow">Character Dialogue</p>
+            <h2>Explore what each character says most often.</h2>
+            <p class="hero-copy">
+                Pick a character and optionally filter to one season. This view shows common words,
+                repeated phrases, and how their language changes across seasons.
+            </p>
+        </section>
 
+        <section class="control-panel simple-controls">
+            <label class="control-group">
+                <span>Character</span>
+                <select id="character-select"></select>
+            </label>
 
+            <label class="control-group">
+                <span>Season</span>
+                <select id="season-select">
+                    <option value="all">Whole Show</option>
+                </select>
+            </label>
+        </section>
+
+        <section class="viz-grid simple-viz-grid">
+            <article class="viz-card viz-card-wide">
+                <p class="eyebrow">Text View</p>
+                <h3>Word Cloud</h3>
+                <p class="viz-note">Bigger words are used more often after stop-word removal.</p>
+                <div id="word-cloud" class="word-cloud"></div>
+            </article>
+
+            <article class="viz-card">
+                <p class="eyebrow">Top Terms</p>
+                <h3>Top Words</h3>
+                <div id="top-words" class="simple-list"></div>
+            </article>
+
+            <article class="viz-card">
+                <p class="eyebrow">Repeated Lines</p>
+                <h3>Common Phrases</h3>
+                <div id="top-phrases" class="simple-list"></div>
+            </article>
+
+            <article class="viz-card viz-card-wide">
+                <p class="eyebrow">By Season</p>
+                <h3>Season Comparison</h3>
+                <div id="season-breakdown" class="season-breakdown"></div>
+            </article>
+        </section>
+    </main>
+
+    <script src="js/d3.v6.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/level4.js"></script>
 </body>
 </html>
