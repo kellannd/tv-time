@@ -41,13 +41,20 @@ body {
 }
 
 .topnav {
-  display: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
   background-color: rgba(6, 14, 41, 0.96);
   overflow: hidden;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  border-bottom: 1px solid rgba(210, 227, 255, 0.12);
+  backdrop-filter: blur(6px);
 }
 
 .topnav a {
-  float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -271,6 +278,10 @@ body {
   .viz-grid,
   .season-breakdown {
     grid-template-columns: 1fr;
+  }
+
+  .topnav {
+    justify-content: flex-start;
   }
 
   .main-container,
