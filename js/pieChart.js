@@ -44,7 +44,7 @@ class Pie {
       );
 
     // Color scale
-    vis.colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+    vis.colorScale = d3.scaleOrdinal(d3.schemeTableau10);
 
     // Pie generator
     vis.pie = d3

@@ -164,22 +164,91 @@ element.addEventListener("change", (event) => {
   }
   locPieChart.updateVis(locChart);
   tensePieChart.updateVis(tenseChart);
+
+  // change selection title
+  let season = episode.season.slice(-1);
+  let ep_index;
+  if (season == "1") {
+    ep_index = season1.indexOf(episode.episode) + 1
+  } else if (season == "2") {
+    ep_index = season2.indexOf(episode.episode) + 1
+  } else {
+    ep_index = season3.indexOf(episode.episode) + 1
+  }
+  let element = document.getElementById("selection-title")
+  element.innerHTML = "For Season: " + season + ", Episode: " + ep_index + " - " + episode.episode;
 });
 
 d3.select("#season1").on("click", function (event, d) {
   s1Btn = !s1Btn;
   getBySeason();
+
+  let element = document.getElementById("season1")
+    if(element.classList.contains("season-btn-selected")){
+    element.classList.remove("season-btn-selected");
+  } else {
+    element.classList.add("season-btn-selected");
+  }
+
+  changeSeasonTitle();
 });
 
 d3.select("#season2").on("click", function (event, d) {
   s2Btn = !s2Btn;
   getBySeason();
+
+  let element = document.getElementById("season2")
+    if(element.classList.contains("season-btn-selected")){
+    element.classList.remove("season-btn-selected");
+  } else {
+    element.classList.add("season-btn-selected");
+  }
+
+  changeSeasonTitle();
 });
 
 d3.select("#season3").on("click", function (event, d) {
   s3Btn = !s3Btn;
   getBySeason();
+
+  let element = document.getElementById("season3")
+  if(element.classList.contains("season-btn-selected")){
+    element.classList.remove("season-btn-selected");
+  } else {
+    element.classList.add("season-btn-selected");
+  }
+
+  changeSeasonTitle();
 });
+
+function changeSeasonTitle() {
+  let seasonSelection = []
+  if (s1Btn) {
+    seasonSelection.push("Season 1");
+  }
+  if (s2Btn) {
+    seasonSelection.push("Season 2");
+  }
+  if (s3Btn) {
+    seasonSelection.push("Season 3");
+  }
+
+  console.log(seasonSelection);
+  let element = document.getElementById("selection-title")
+  if (seasonSelection.length == 0) {
+    element.innerHTML = "For All Seasons";
+  } else if  (seasonSelection.length == 1) {
+    element.innerHTML = "For " + seasonSelection[0];
+
+  }
+  else if (seasonSelection.length == 2) {
+    element.innerHTML = "For " + seasonSelection[0] + " and " + seasonSelection[1];
+  } else {
+    element.innerHTML = "For " + seasonSelection[0] + ", " + seasonSelection[1] + ", and " + seasonSelection[2];
+  }
+
+  let dropdown = document.getElementById("episodes").value = ""
+}
 
 function getBySeason() {
   updateData = [];
@@ -219,6 +288,10 @@ function formatData(input) {
     { name: "Present", value: 0 },
     { name: "Other", value: 0 },
   ];
+
+  if(input.length === 0) {
+    input = data;
+  }
 
   for (const entry of input) {
     locChart[0].value += entry.SB_Count;

@@ -27,7 +27,7 @@
         <a href="level4.html" class="active">L4? Extra Placeholder</a>
     </div>
 
-    <div style="margin: 0 auto; text-align: center;">
+    <div style="margin: 0 auto; text-align: center; margin-top: 50px">
         <div>
             <label for="episodes" style="color: white">Choose an episode:</label>
             <select id="episodes" name="episodes">
@@ -35,13 +35,15 @@
             </select>
         </div>
         <div>
-            <button id="season1">season 1</button>
-            <button id="season2">season 2</button>
-            <button id="season3">season 3</button>
+            <button style="padding: 10px 15px" class="season-btn" id="season1">season 1</button>
+            <button style="padding: 10px 15px" class="season-btn" id="season2">season 2</button>
+            <button style="padding: 10px 15px" class="season-btn" id="season3">season 3</button>
         </div>
+         <div>
+        <h1 id="selection-title" style="color: white; text-align: center">For All Seasons</h1>
     </div>
-
-    <div style="display: grid; grid-template-columns: auto auto; text-align: center">
+    </div>
+    <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px">
         <div style="position: relative; z-index: 999;" id="locationChart"></div>
         <div style="position: relative; z-index: 999;" id="tenseChart"></div>
     </div>
@@ -82,5 +84,20 @@
     #tooltip ul {
         margin: 5px 0 0 0;
         padding-left: 20px;
+    }
+
+    .season-btn {
+          background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+    }
+    .season-btn-selected {
+        background-color: blue;
     }
 </style>
