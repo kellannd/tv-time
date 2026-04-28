@@ -99,7 +99,22 @@ class Pie {
         .html(`
           <p><strong>${d.data.name}</strong></p>
           <p>Value: ${d.data.value}</p>
-        `);
+        `)
+        .html(() => {
+          if (d.data.name == "Other") {
+            return `
+            <p><strong>Other or Not Specified</strong></p>
+          <p>Number of scenes: ${d.data.value}</p>
+
+          <p></p>
+            `
+          } else {
+            return `
+          <p><strong>${d.data.name}</strong></p>
+          <p>Number of scenes: ${d.data.value}</p>
+        `
+          }
+        });
     })
     .on("mousemove", (event) => {
       d3.select("#tooltip")

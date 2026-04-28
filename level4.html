@@ -41,7 +41,7 @@
             align-items: center;
             height: 100%;
         ">
-                    <p1 >or</p1>
+                    <h3 >or</h3>
                 </div>
             </div>
             <div>
@@ -60,13 +60,24 @@
                 </label>
             </div>
         </section>
-        <section class="hero-card" style="margin-top: 18px; height: 500px">
+        <section class="hero-card" style="margin-top: 18px;">
             <h1 id="selection-title" style="color: white; text-align: center">For All Seasons</h1>
-            <div style="display: flex; text-align: center; padding-left: 40px">
-                <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px">
+            <div>
+                <div style="display: flex; text-align: center; padding-left: 40px">
+                <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px; margin-bottom: -100px">
                     <div style="position: relative; z-index: 999; margin-right: -40px" id="locationChart"></div>
                     <div style="position: relative; z-index: 999; margin-left: -40px" id="tenseChart"></div>
                 </div>
+            </div>
+            </div>
+            <div class="other-section">
+                <h3>What is considered Other or Not Specified</h3>
+                <p class="eyebrow">For location</p>
+                <p>Most of the scenes in this show take place in either The Enchanted Forest or Storybrooke. Some locations that could be included in the "other" section are minor locations, including Neverland, The Land Without Magic (aka the real world), Fairy Tale Land, and others.
+                </p>
+                <br>
+                <p class="eyebrow">For tense</p>
+                <p>The show switches between the past and present often. "Other" refers to any scene that seemed to have an ambiguous tense by just reading the scripts.</p>
             </div>
         </section>
 
@@ -94,5 +105,19 @@
     }
     .season-btn-selected {
         background-color: #0b7a75;;
+    }
+
+    .other-section {
+        min-height: 180px;
+  /* display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center; */
+  gap: 12px 18px;
+  padding: 16px;
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at top, rgba(159, 219, 212, 0.18), transparent 42%),
+    rgba(7, 16, 42, 0.54);
     }
 </style>
