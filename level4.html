@@ -19,12 +19,49 @@
     </div>
 
     <main class="analysis-shell">
-        <section class="section-card">
-            <h2>Level 4 Placeholder</h2>
-            <p>This page is intentionally empty for now.</p>
+        <section class="hero-card">
+            <p class="eyebrow">Scene Analysis</p>
+            <h2>Exploring the locations and tenses of scenes.</h2>
+            <p class="hero-copy">
+                Pick a character and optionally filter to one season. This view shows common words,
+                repeated phrases, and how their language changes across seasons.
+            </p>
         </section>
+        <section class="section-card" style="display: grid; grid-template-columns: auto auto auto;">
+            <div>
+                <label class="control-group">
+                <span>Character</span>
+                <select id="episodes"></select>
+            </label>
+            </div>
+            <div>
+                <p1>or</p1>
+            </div>
+            <div>
+                <button style="padding: 10px 15px" class="season-btn" id="season1">season 1</button>
+                <button style="padding: 10px 15px" class="season-btn" id="season2">season 2</button>
+                <button style="padding: 10px 15px" class="season-btn" id="season3">season 3</button>
+            </div>
+        </section>
+        <section class="hero-card">
+            <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px">
+        <div style="position: relative; z-index: 999; margin-right: -40px" id="locationChart"></div>
+        <div style="position: relative; z-index: 999; margin-left: -40px" id="tenseChart"></div>
+    </div>
+        </section>
+
+        <div id="tooltip"></div>
     </main>
 
+    <!-- D3 bundle -->
+    <script src="js/d3.v6.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/level4.js"></script>
+    <script src="js/pieChart.js"></script>
+
 </body>
 </html>
+
+<style>
+
+</style>
