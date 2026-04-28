@@ -1,12 +1,8 @@
-d3.json("data/character_stats.json").then(function(data) {
-
-  data = data.slice(0, 40);
-
+window.drawBubbleChart = function (data) {
   const width = 900;
   const height = 900;
 
   const format = d3.format(",d");
-
   const color = d3.scaleOrdinal(d3.schemeTableau10);
 
   const characterImages = {
@@ -35,6 +31,9 @@ d3.json("data/character_stats.json").then(function(data) {
       .sum(d => d.lines)
   );
 
+  
+  d3.select("#chart").selectAll("*").remove();
+
   const svg = d3.select("#chart")
     .append("svg")
       .attr("width", width)
@@ -54,25 +53,12 @@ d3.json("data/character_stats.json").then(function(data) {
       .attr("height", 1);
     pattern.append("image")
       .attr("href", imgPath)
-      .attr("x", 0)
-      .attr("y", 0)
-      .attr("width", 1)
-      .attr("height", 1)
+      .attr("x", 0).attr("y", 0)
+      .attr("width", 1).attr("height", 1)
       .attr("preserveAspectRatio", "xMidYMid slice");
   });
 
-  const tooltip = d3.select("body").append("div")
-    .style("position", "absolute")
-    .style("pointer-events", "none")
-    .style("background", "rgba(5,13,29,0.93)")
-    .style("color", "#f4f4f2")
-    .style("padding", "16px 22px")
-    .style("border-radius", "12px")
-    .style("border", "1px solid rgba(210,227,255,0.2)")
-    .style("font", "15px Georgia, 'Times New Roman', serif")
-    .style("line-height", "1.8")
-    .style("opacity", 0)
-    .style("transition", "opacity 0.15s");
+  const tooltip = d3.select("body").select(".bubble-tooltip");
 
   const node = svg.append("g")
     .selectAll("g")
@@ -134,4 +120,25 @@ d3.json("data/character_stats.json").then(function(data) {
     .attr("font-size", d => Math.min(11, Math.floor(d.r / 5)) + "px")
     .attr("stroke-width", 2)
     .text(d => `${d.data.episodes} eps`);
+};
+
+
+d3.select("body").append("div")
+  .attr("class", "bubble-tooltip")
+  .style("position", "absolute")
+  .style("pointer-events", "none")
+  .style("background", "rgba(4, 25, 67, 0.93)")
+  .style("color", "#f4f4f2")
+  .style("padding", "16px 22px")
+  .style("border-radius", "12px")
+  .style("border", "1px solid rgba(210,227,255,0.2)")
+  .style("font", "15px Georgia, 'Times New Roman', serif")
+  .style("line-height", "1.8")
+  .style("opacity", 0)
+  .style("transition", "opacity 0.15s");
+
+
+d3.json("data/character_stats.json").then(function(data) {
+  window._allCharData = data;
+  window.drawBubbleChart(data.slice(0, 40));
 });

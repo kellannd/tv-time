@@ -2,7 +2,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background-image:
-    linear-gradient(rgba(4, 12, 33, 0.88), rgba(5, 13, 29, 0.94)),
+    linear-gradient(rgba(4, 12, 33, 0.50), rgba(5, 13, 29, 0.50)),
     url("../images/forest_no_text.png");
   background-color: #050d1d;
   background-size: cover;

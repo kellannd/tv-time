@@ -5,49 +5,77 @@
     <meta charset="UTF-8">
     <link rel="icon" href="data:;base64,iVBORwOKGO=" />
     <link rel="stylesheet" href="css/style.css">
+    <style>
+        .analysis-shell { width: min(1400px, calc(100% - 32px)); }
+        #chart { display: flex; justify-content: center; }
+        .chart-card { text-align: center; }
+        #overview-controls { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    </style>
 </head>
 <body>
-    <!-- Add HTML content, SVG drawing area, ... -->
     <div class="header">
-         <H1><em>Once Upon a Time </em></H1>
+        <h1><em>Once Upon a Time</em></h1>
     </div>
 
     <div class="topnav" id="menu">
         <a href="index.html" class="active">Overview (L1)</a>
-        <a href="character-importance.html">Character Importance (L1)</a>
+        <!--<a href="character-importance.html">Character Importance (L1)</a> -->
         <a href="level2.html">Dialogue Analysis (L2)</a>
         <a href="level3.html">Character Interactions (L3)</a>
         <a href="level4.html">Advanced Analysis (L4)</a>
     </div>
 
-    <div class="analysis-shell">
-        <div class="section-card">
+    <main class="analysis-shell">
+        <section class="hero-card">
+            <p class="eyebrow">Overview of Show</p>
             <h2>What is Once Upon a Time?</h2>
             <p> Once Upon a Time is a fantasy drama television series that aired from 2011 to 2018 on ABC network
-                for 7 seasons with a total of 156 episodes. 
-                The show follows the story of Emma Swan, a young woman who is upended from her ordinary 
-                life in the modern world to the magical world of Storybrooke in Maine because of her son. She is 
+                for 7 seasons with a total of 156 episodes.
+                The show follows the story of Emma Swan, a young woman who is upended from her ordinary
+                life in the modern world to the magical world of Storybrooke in Maine because of her son. She is
                 introduced to fairy tales and magic, and she learns she must break a curse to save her family. </p>
-            <p> She faces off against her biological son's adoptive mother, Regina Mills aka the Evil Queen, 
-                who transported the entire town of Storybrooke from the Enchanted Forest to the modern, human realm 
+            <p> She faces off against her biological son's adoptive mother, Regina Mills aka the Evil Queen,
+                who transported the entire town of Storybrooke from the Enchanted Forest to the modern, human realm
                 and erased their memories of their true identities, which were their fairytale counterparts.
-                Emma, with the help of her son Henry, must recover everyone's, including her parents, (Snow White and Prince Charming) 
+                Emma, with the help of her son Henry, must recover everyone's, including her parents, (Snow White and Prince Charming)
                 memories and save Storybrooke from the Evil Queen's control.
-                The show explores themes of family, love, and the battle between good and evil, 
+                The show explores themes of family, love, and the battle between good and evil,
                 with a mix of classic fairy tale characters and original storylines.
             </p>
-        </div>
+        </section>
 
-        <div class="section-card">
-            <h2>Section 2</h2>
-            <p>Placeholder text </p>
-        </div>
+        <section class="control-panel" id="overview-controls">
+            <label class="control-group">
+                <span>Characters</span>
+                <select id="char-filter">
+                    <option value="all">All Characters</option>
+                </select>
+            </label>
+            <label class="control-group">
+                <span>Season</span>
+                <select id="season-filter">
+                    <option value="all">Overall</option>
+                    <option value="1">Season 1</option>
+                    <option value="2">Season 2</option>
+                    <option value="3">Season 3</option>
+                </select>
+            </label>
+            <label class="control-group">
+                <span>Episode</span>
+                <select id="episode-filter">
+                    <option value="all">All Episodes</option>
+                </select>
+            </label>
+        </section>
 
-        <div class="section-card">
-            <h2>Character Lines Across Show</h2>
-            <div id="chart"></div>
-        </div>
-    </div>
+        <section class="viz-grid">
+            <article class="viz-card viz-card-wide chart-card">
+                <h3>Character Lines Across Show</h3>
+                <div id="chart"></div>
+            </article>
+        </section>
+
+    </main>
 
 
     <!-- D3 bundle -->
@@ -56,5 +84,6 @@
     <!-- Our JS code -->
     <script src="js/main.js"></script>
     <script src="js/bubblechart.js"></script>
+    <script src="js/filters.js"></script>
 </body>
 </html>
