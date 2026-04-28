@@ -2,10 +2,11 @@ class Pie {
   constructor(_config, _data) {
     this.config = {
       parentElement: _config.parentElement,
-      containerWidth: _config.containerWidth || 600,
+      containerWidth: _config.containerWidth || 625,
       containerHeight: _config.containerHeight || 600,
       margin: _config.margin || { top: 80, right: 20, bottom: 50, left: 50 },
       tooltipPadding: _config.tooltipPadding || 15,
+      onClick: _config.onClick || null
     };
     this.data = _data;
     this.initVis();
@@ -125,14 +126,23 @@ class Pie {
     const pos = vis.outerArc.centroid(d);
 
     // move labels left/right depending on slice side
-    pos[0] = vis.radius * 1.25 * (midAngle(d) < Math.PI ? 1 : -1);
+    pos[0] = vis.radius * 1.1 * (midAngle(d) < Math.PI ? 1 : -1);
 
     return `translate(${pos})`;
   })
   .attr("text-anchor", (d) =>
     midAngle(d) < Math.PI ? "start" : "end"
   )
-  .text((d) => (d.data.value > 0 ? d.data.name : ""))
+  .text((d) => {
+      const percent =
+    (d.data.value / d3.sum(vis.data, d => d.value)) * 100;
+
+  if (d.data.name === "Other") {
+    return percent > 5 ? "Other or Not Specified" : ""
+  }
+
+  return percent > 5 ? d.data.name : "";
+})
   .attr("fill", "white");
 
   // POLYLINES
@@ -142,13 +152,15 @@ arcsEnter
   .transition()
   .duration(750)
   .attr("points", (d) => {
-    if (d.data.value === 0) return null;
+    const percent =
+    (d.data.value / d3.sum(vis.data, d => d.value)) * 100;
+    if (percent <= 5) return null;
 
     const posA = vis.arc.centroid(d); // slice center
     const posB = vis.outerArc.centroid(d); // line bend
     const posC = vis.outerArc.centroid(d); // label position
 
-    posC[0] = vis.radius * 1.2 * (midAngle(d) < Math.PI ? 1 : -1);
+    posC[0] = vis.radius * 1.05 * (midAngle(d) < Math.PI ? 1 : -1);
 
     return [posA, posB, posC];
   })
