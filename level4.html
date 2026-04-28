@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Advanced Analysis</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
     <div class="header">
         <h1><em>Advanced Analysis (L4)</em></h1>
@@ -23,31 +25,50 @@
             <p class="eyebrow">Scene Analysis</p>
             <h2>Exploring the locations and tenses of scenes.</h2>
             <p class="hero-copy">
-                Pick a character and optionally filter to one season. This view shows common words,
-                repeated phrases, and how their language changes across seasons.
+                This view the location and tenses of scenes throughout the three seasons. Select either an episode or a season to filter the graphs.
             </p>
         </section>
-        <section class="section-card" style="display: grid; grid-template-columns: auto auto auto;">
+        <section class="section-card" style="display: grid; grid-template-columns: auto auto auto; margin-top: 18px">
             <div>
                 <label class="control-group">
-                <span>Character</span>
-                <select id="episodes"></select>
-            </label>
+                    <span style="text-align: left;">Select an episode:</span>
+                    <select id="episodes"></select>
+                </label>
             </div>
             <div>
-                <p1>or</p1>
+                <div style="
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        ">
+                    <p1 >or</p1>
+                </div>
             </div>
             <div>
-                <button style="padding: 10px 15px" class="season-btn" id="season1">season 1</button>
-                <button style="padding: 10px 15px" class="season-btn" id="season2">season 2</button>
-                <button style="padding: 10px 15px" class="season-btn" id="season3">season 3</button>
+                <label class="control-group">
+                    <span style="text-align: left;">Select a season:</span>
+                     <div style="text-align: left;">
+                    <div style="    display: flex;
+    border: 1px solid rgba(216, 232, 255, 0.18);
+    border-radius: 12px;
+    overflow: hidden">
+                        <button style="padding: 12px 15px" class="season-btn" id="season1">Season 1</button>
+                    <button style="padding: 12px 15px" class="season-btn" id="season2">Season 2</button>
+                    <button style="padding: 12px 15px; border-right: none" class="season-btn" id="season3">Season 3</button>
+                    </div>
+                </div>
+                </label>
             </div>
         </section>
-        <section class="hero-card">
-            <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px">
-        <div style="position: relative; z-index: 999; margin-right: -40px" id="locationChart"></div>
-        <div style="position: relative; z-index: 999; margin-left: -40px" id="tenseChart"></div>
-    </div>
+        <section class="hero-card" style="margin-top: 18px; height: 500px">
+            <h1 id="selection-title" style="color: white; text-align: center">For All Seasons</h1>
+            <div style="display: flex; text-align: center; padding-left: 40px">
+                <div style="display: grid; grid-template-columns: auto auto; text-align: center; margin-top: -100px">
+                    <div style="position: relative; z-index: 999; margin-right: -40px" id="locationChart"></div>
+                    <div style="position: relative; z-index: 999; margin-left: -40px" id="tenseChart"></div>
+                </div>
+            </div>
         </section>
 
         <div id="tooltip"></div>
@@ -60,8 +81,19 @@
     <script src="js/pieChart.js"></script>
 
 </body>
+
 </html>
 
 <style>
-
+    .season-btn{
+        background-color: rgba(7, 16, 42, 0.82);
+        color: white;
+            border: none;
+    border-right: 1px solid rgba(216, 232, 255, 0.18);
+    font-size: 0.98rem;
+     flex: 1;
+    }
+    .season-btn-selected {
+        background-color: #0b7a75;;
+    }
 </style>
