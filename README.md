@@ -42,7 +42,22 @@ Final processed data lives in [`data/`](data/).
 
 ## Visualization Components
 
-[fill in]
+### Level 4: Advanced Analysis
+Main Advanced Analysis Page:
+<br>
+<img src="images/screenshots/l4-main-page.png" height="300">
+<br>
+This is the main page for our advanced analysis, where we analyzed the locations and tenses for each scene in the show. Here, you are given the option of looking by episode or by season to see how many scenes took place in Storybrooke vs The Enchanted Forest vs other locations, and whether the scene took place in the past or present.
+
+<br>
+<img src="images/screenshots/l4-ep.png" height="300">
+<br>
+The graphs both update when an episode is selected.
+
+<br>
+<img src="images/screenshots/l4-season.png" height="300">
+<br>
+You can select one or multiple seasons to update the graphs with.
 
 ### Design Sketches & Justifications
 
@@ -118,8 +133,8 @@ pip install requests beautifulsoup4 nltk
 | Member | Components |
 |--------|------------|
 | Fareena | Dialogue Analysis, Documentation |
-| Ikran | Show Overview |
-| Kelly | Scripting, Advanced Analysis, Data Retrieval |
+| Ikran | Show Overview, Data Analysis |
+| Kelly | Scripting, Advanced Analysis, Data Retrieval and Analysis |
 | Faith | Character Interactions |
 
 mention who deployed the site
