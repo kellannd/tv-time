@@ -155,7 +155,7 @@ function renderNetwork() {
 
   // render both force graph and chord diagram
   renderForceGraph(nodes, edges, threshold, maxEdges);
-  renderChord(nodes, edges, season);
+  renderChord(nodes, edges, season, threshold);
 }
 
 function renderForceGraph(nodes, edges, threshold, maxEdges) {
@@ -249,7 +249,7 @@ function updateStats(nodes, edges) {
   `;
 }
 
-function renderChord(nodes, edges, season) {
+function renderChord(nodes, edges, season, threshold) {
   // pick top characters by node count
   const top = nodes.slice().sort((a,b) => b.count - a.count).slice(0,12).map(d=>d.id);
 
@@ -272,13 +272,15 @@ function renderChord(nodes, edges, season) {
     }
   }
 
+  const chordMatrix = matrix.map((row) => row.map((value) => (value >= threshold ? value : 0)));
+
   chordSvg.selectAll("*").remove();
   const width = chordSvg.node().getBoundingClientRect().width || 480;
   const height = chordSvg.node().getBoundingClientRect().height || 380;
   const outerRadius = Math.min(width, height) * 0.35;
   const innerRadius = outerRadius - 18;
 
-  const chord = d3.chord().padAngle(0.03).sortSubgroups(d3.descending)(matrix);
+  const chord = d3.chord().padAngle(0.03).sortSubgroups(d3.descending)(chordMatrix);
   const arc = d3.arc().innerRadius(innerRadius).outerRadius(outerRadius);
   const ribbon = d3.ribbon().radius(innerRadius - 1);
   const color = d3.scaleOrdinal(d3.schemeCategory10).domain(d3.range(top.length));
@@ -311,7 +313,7 @@ function renderChord(nodes, edges, season) {
     .attr('d', ribbon)
     .style('fill', d => color(d.source.index))
     .style('stroke', d => d3.rgb(color(d.source.index)).darker())
-    .on('mouseover', (event, d) => showTooltip(event, `${top[d.source.index]} → ${top[d.target.index]}: ${matrix[d.source.index][d.target.index]}`))
+    .on('mouseover', (event, d) => showTooltip(event, `${top[d.source.index]} → ${top[d.target.index]}: ${chordMatrix[d.source.index][d.target.index]}`))
     .on('mouseout', hideTooltip);
 
   // update partner list for chord
