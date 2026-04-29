@@ -21,20 +21,20 @@ We built this app to make those patterns easier to see. We pulled the transcript
 
 ## Data
 
-[fill in]
+Analyzed seasons 1-3, excluding season 1 episode Dreamy and season 3 episode Think Lovely Thoughts.
 
-**Source:** [fill in]
+**Source:** [transcripts](https://onceuponatime.fandom.com/wiki/Category:Transcripts) from Fandom Wiki
 
 ### Data Collection & Processing
 
-[fill in]
+Used the Fandom Wiki API to pull data from the website. Documentation for API [here](https://onceuponatime.fandom.com/api.php)
 
 Processing scripts:
-- [`webscrape_main.py`](webscrape_main.py) — [fill in]
-- [`webscrape_other.py`](webscrape_other.py) — [fill in]
-- [`characters_alias.py`](characters_alias.py) — [fill in]
-- [`preprocess.py`](preprocess.py) — [fill in]
-- [`stemming.py`](stemming.py) — [fill in]
+- [`webscrape_main.py`](preprocessing-scripts/webscrape_main.py) — Grabbed the data from the website using the API, parsed the transcripts to get the scenes, characters, and lines, and output each transcript to a json file.
+- [`webscrape_other.py`](preprocessing-scripts/webscrape_other.py) — A few of the transcripts were formatted slightly differently than the others. This does the same as the main webscraper, but is formatted slightly differently to account for those scripts.
+- [`characters_alias.py`](preprocessing-scripts/characters_alias.py) — Many characters in this show have more than one name, and are referred to by different names (for example, both Mr. Gold and rumplestiltskin are referred to as seperate characters in the script but are the same person). This script parces the transcripts and combines the lines of characters that have different names.
+- [`preprocess.py`](preprocessing-scripts/preprocess.py) — This script got a list of characters in each episode, characters in each scene, location of each scene, and whether the scene took place in the past or present.
+- [`stemming.py`](preprocessing-scripts/stemming.py) — Stemmed the dialog.
 
 Final processed data lives in [`data/`](data/).
 
@@ -119,7 +119,7 @@ pip install requests beautifulsoup4 nltk
 |--------|------------|
 | Fareena | Dialogue Analysis, Documentation |
 | Ikran | Show Overview |
-| Kelly | Scripting, Advanced Analysis |
+| Kelly | Scripting, Advanced Analysis, Data Retrieval |
 | Faith | Character Interactions |
 
 mention who deployed the site
