@@ -261,7 +261,8 @@ body {
   gap: 16px;
   padding: 11px 0;
   border-bottom: 1px solid rgba(226, 234, 248, 0.12);
-  color: #dfe8f4;
+  color: #f1f5fb;
+  font-weight: 500;
 }
 
 .simple-list li:last-child {
