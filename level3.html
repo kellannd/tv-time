@@ -19,6 +19,69 @@
 
 
 
+    <main class="analysis-shell simple-analysis">
+        <section class="hero-card">
+            <p class="eyebrow">Character Interaction Network</p>
+            <h2>Who appears or speaks with whom?</h2>
+            <p class="hero-copy">Explore which characters co-occur in scenes or exchange dialogue. Filter by season and focus on a character to see their conversation partners.</p>
+        </section>
+
+        <section class="control-panel simple-controls">
+            <label class="control-group">
+                <span>Season</span>
+                <select id="season-select">
+                    <option value="all">Whole Show</option>
+                </select>
+            </label>
+
+            <label class="control-group">
+                <span>Min Edge Weight (minimum co-occurrences)</span>
+                <select id="threshold-select">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                </select>
+            </label>
+
+            <label class="control-group">
+                <span>Max Character Connections Displayed</span>
+                <input type="number" id="max-edges-select" min="1" max="500" value="500" style="padding:8px; border-radius:8px; border:1px solid rgba(216,232,255,0.18); background:rgba(7,16,42,0.82); color:#f4f4f2; font-size:0.98rem;">
+            </label>
+        </section>
+
+        <section class="viz-grid simple-viz-grid">
+            <article class="viz-card viz-card-wide">
+                <p class="eyebrow">Network</p>
+                <h3>Character Network</h3>
+                <p class="viz-note">Nodes are characters; edges are weighted by co-occurrence.</p>
+                <p id="network-summary" class="viz-note selected-character">Showing the strongest ties for the current threshold.</p>
+                <div id="network-wrap" style="height:1000px; padding:12px;">
+                    <svg id="network-svg" width="100%" height="1000px"></svg>
+                </div>
+            </article>
+
+            <article class="viz-card">
+                <p class="eyebrow">Top Partners</p>
+                <h3>Partners</h3>
+                <p id="selected-character" class="viz-note selected-character">Selected Character: All Characters</p>
+                <p class="viz-note">Click on a node in the network to see that character's top conversation partners.</p>
+                <div id="partners-list" class="simple-list"></div>
+            </article>
+
+            <article class="viz-card">
+                <p class="eyebrow">Network</p>
+                <h3>Chord Diagram</h3>
+                <div id="chord-wrap" style="height:400px; padding:12px;">
+                    <svg id="chord-svg" width="100%" height="400px"></svg>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <script src="js/d3.v6.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/level3.js"></script>
 </body>
 </html>
