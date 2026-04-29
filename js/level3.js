@@ -336,10 +336,11 @@ function showTooltip(event, html) {
     tt.id = 'tooltip';
     document.body.appendChild(tt);
   }
+  tt.style.color = '#fff';
   tt.style.display = 'block';
   tt.style.left = (event.pageX + 12) + 'px';
   tt.style.top = (event.pageY + 12) + 'px';
-  tt.innerHTML = `<div class="tooltip-title">${escapeHtml(html)}</div>`;
+  tt.innerHTML = `<div class="tooltip-title" style="color:#fff;">${escapeHtml(html)}</div>`;
 }
 
 function hideTooltip() {
