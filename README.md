@@ -91,7 +91,7 @@ tv-time/
 It's all static, so you just need a local server:
 
 ```bash
-git clone https://github.com/kellannd/tv-time>
+git clone https://github.com/kellannd/tv-time
 python3 -m http.server 8000
 ```
 
@@ -122,4 +122,4 @@ pip install requests beautifulsoup4 nltk
 | Kelly | Scripting, Advanced Analysis |
 | Faith | Character Interactions |
 
-who deployed the site?
+mention who deployed the site
