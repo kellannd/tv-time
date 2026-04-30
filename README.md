@@ -48,12 +48,12 @@ Final processed data lives in [`data/`](data/).
 
 ### Level 2: Dialogue Analysis
 <img src="images/level2wordcloud.png" height="300">
-<img src="images/level2features.png" height="300">
-<img src="images/Overview.png" height="300">
+<img src="images/level2features.png" height="400">
+<img src="images/Overview.png" height="400">
 
 ### Level 3: Character Interactions
 <img src="images/level3header.png" height="300">
-<img src="images/level3networkdiagram.png height="300">
+<img src="images/level3networkdiagram.png" height="300">
 <img src="images/level3network_filter.png" height="300">
 
 ### Level 4: Advanced Analysis
