@@ -77,9 +77,16 @@ The network graph shows which characters interact most often. Central characters
 
 #### Finding 2: Time Distribution Across Seasons
 
-Across seasons, a larger share of scenes takes place in the present compared to the past. Earlier episodes include more backstory, while later ones spend more time in present-day events.
+Across seasons, a larger share of scenes takes place in the present compared to the past. Earlier episodes include more share of backstory, while later ones spend more time in present-day events.
 
-<img src="images/screenshots/finding2.png" height="300">
+Season 1:
+<img src="images/screenshots/season1finding.png" height="300">
+
+Season 2:
+<img src="images/screenshots/season2finding.png" height="300">
+
+Season 3:
+<img src="images/screenshots/season3finding.png" height="300">
 
 #### Finding 3: Dialogue Patterns by Character
 
@@ -139,8 +146,6 @@ pip install requests beautifulsoup4 nltk
 | Member | Components |
 |--------|------------|
 | Fareena | Dialogue Analysis, Documentation |
-| Ikran | Show Overview, Data Analysis |
-| Kelly | Scripting, Advanced Analysis, Data Retrieval and Analysis |
-| Faith | Character Interactions |
-
-mention who deployed the site
+| Ikran | Show Overview, Data Analysis, Documentation |
+| Kelly | Scripting, Advanced Analysis, Data Retrieval and Analysis, Site Deployment, Documentation |
+| Faith | Character Interactions, Documentation |
