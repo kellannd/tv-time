@@ -42,19 +42,33 @@ Final processed data lives in [`data/`](data/).
 
 ## Visualization Components
 ### Level 1: Overview and Character Importance
-<img src="images/Overview.png" height="300">
-<img src="images/level1bubblechart.png" height="300">
-<img src="images/level1_bubblechart_Interaction.png" height="300">
-
-### Level 2: Dialogue Analysis
-<img src="images/level2wordcloud.png" height="300">
-<img src="images/level2features.png" height="400">
+This is an overview of what the show is. It includes general information like how long the show ran and on what networks, and the show's plot as well. 
 <img src="images/Overview.png" height="400">
 
+Below is a bubble chart that showcases who speaks the most and who the most important characters are, as shown by the images for those characters' bubbles. There is also hover  tool tips for all bubbles, which is helpful for the smaller ones without much text on their bubble, other than their names. 
+<img src="images/level1bubblechart.png" height="400">
+
+And the chart is filterable as well. It can filter by character, season, and episode. 
+<img src="images/level1_bubblechart_Interaction.png" height="400">
+
+### Level 2: Dialogue Analysis
+Here you can see the characters' dialogue, and their most common words and phrases. You can see the most frequent words in decreasing order in the word cloud. 
+It can be filtered by character and season. 
+<img src="images/level2wordcloud.png" height="400">
+
+The top terms and common phrases are shown as well as the season comparison by lines and words. 
+<img src="images/level2features.png" height="400">
+
 ### Level 3: Character Interactions
-<img src="images/level3header.png" height="300">
-<img src="images/level3networkdiagram.png" height="300">
-<img src="images/level3network_filter.png" height="300">
+
+Here you can see the character interaction page. 
+<img src="images/level3header.png" height="400">
+
+You can see the character network diagram and connections to each other. 
+<img src="images/level3networkdiagram.png" height="400">
+
+It is filterable by season, minimum co-occurrence, and max character connections displayed. 
+<img src="images/level3network_filter.png" height="400">
 
 ### Level 4: Advanced Analysis
 Main Advanced Analysis Page:
