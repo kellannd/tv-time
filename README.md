@@ -63,7 +63,7 @@ You can select one or multiple seasons to update the graphs with.
 
 We sketched a few designs for the levels shown below. 
 
-<img src="images/level1sketch.pdf" height="300">
+<img src="images/level1.jpeg" height="300">
 
 ---
 
