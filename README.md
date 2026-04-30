@@ -71,7 +71,7 @@ The app allows exploration of character dialogue, interactions, and scene struct
 
 #### Finding 1: Character Interactions
 
-The network graph shows which characters interact most often. Central characters like Emma Swan, Regina, and Mr. Gold connect to many others, while smaller nodes represent characters who only interact with one or two others or appear briefly.
+The network graph shows which characters interact most often. Central characters like Emma Swan, Regina, and Mr. Gold connect to many others, while smaller nodes represent characters who only interact with one or two others or appear briefly. It is worth noting that there are many non-recurring characters that only speak with one or two people.
 
 <img src="images/screenshots/finding1.png" height="300">
 
@@ -80,12 +80,15 @@ The network graph shows which characters interact most often. Central characters
 Across seasons, a larger share of scenes takes place in the present compared to the past. Earlier episodes include more share of backstory, while later ones spend more time in present-day events.
 
 Season 1:
+
 <img src="images/screenshots/season1finding.png" height="300">
 
 Season 2:
+
 <img src="images/screenshots/season2finding.png" height="300">
 
 Season 3:
+
 <img src="images/screenshots/season3finding.png" height="300">
 
 #### Finding 3: Dialogue Patterns by Character
@@ -93,6 +96,10 @@ Season 3:
 The word cloud highlights common words used by each character. For example, Regina’s dialogue includes words related to family, control, and magic, along with frequent references to Henry.
 
 <img src="images/screenshots/finding3.png" height="300">
+
+Compare this to Belle, who primarily speaks about and to Rumplestiltskin.
+
+<img src="images/screenshots/finding3.1.png" height="300">
 
 ---
 
