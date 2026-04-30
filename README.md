@@ -64,6 +64,19 @@ You can select one or multiple seasons to update the graphs with.
 We sketched a few designs for the levels shown below. 
 
 <img src="images/level1.jpeg" height="300">
+<img src="images/level2.jpeg" height="300">
+<img src="images/level13.jpeg" height="300">
+<img src="images/level4.jpeg" height="300">
+
+We wanted to include visual elements from the show, so we included its famous background from the show's theme intro. We did blue colored theme to match the background and with the opacity of sections/divs to lean clear to show off the background. 
+
+For level 1, we wanted some way of showing who the majors characters are, showing all the characters in the show, and the number of lines spoken by all. But, we wanted to do that without having overlapping and overwhelming visuals. So we decided to stick with a bubble chart, so that we can see who the majors and minors characters are by season and by episode. And we included images of the main top 10 characters in those bubbles. 
+
+For level 2, we decided on a word cloud. We realized not only was it visually appealing, but it is very effective in demonstrating what words were spoken the most and the fewest. We did it by organizing from the most common word spoken to the least. And we included top terms and common phrases as its own sections as well. 
+
+For level 3, we did a network diagram that showcased all the characters connections to each other. We did this because it was the best way to show overlapping interactions with all the characters. This diagram seemed the best network diagram to handle large amount of characters. 
+
+For level 4, we did two pie charts. This show goes between the present and past a lot. And the places scenes are in seems to be pretty consistent in the earlier season. So, without a lot of different scenes to keep track of, pie chart seem to be the best method in showing this information. 
 
 ---
 
