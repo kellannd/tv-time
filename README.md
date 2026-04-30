@@ -67,19 +67,25 @@ You can select one or multiple seasons to update the graphs with.
 
 ## Findings
 
-[fill in]
+The app allows exploration of character dialogue, interactions, and scene structure across the show.
 
-### Finding 1: [fill in]
+#### Finding 1: Character Interactions
 
-[fill in]
+The network graph shows which characters interact most often. Central characters like Emma Swan, Regina, and Mr. Gold connect to many others, while smaller nodes represent characters who only interact with one or two others or appear briefly.
 
-### Finding 2: [fill in]
+<img src="images/screenshots/finding1.png" height="300">
 
-[fill in]
+#### Finding 2: Time Distribution Across Seasons
 
-### Finding 3: [fill in]
+Across seasons, a larger share of scenes takes place in the present compared to the past. Earlier episodes include more backstory, while later ones spend more time in present-day events.
 
-[fill in]
+<img src="images/screenshots/finding2.png" height="300">
+
+#### Finding 3: Dialogue Patterns by Character
+
+The word cloud highlights common words used by each character. For example, Regina’s dialogue includes words related to family, control, and magic, along with frequent references to Henry.
+
+<img src="images/screenshots/finding3.png" height="300">
 
 ---
 
