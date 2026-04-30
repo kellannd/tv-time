@@ -65,7 +65,7 @@ We sketched a few designs for the levels shown below.
 
 <img src="images/level1.jpeg" height="300">
 <img src="images/level2.jpeg" height="300">
-<img src="images/level13.jpeg" height="300">
+<img src="images/level3.jpeg" height="300">
 <img src="images/level4.jpeg" height="300">
 
 We wanted to include visual elements from the show, so we included its famous background from the show's theme intro. We did blue colored theme to match the background and with the opacity of sections/divs to lean clear to show off the background. 
@@ -76,7 +76,7 @@ For level 2, we decided on a word cloud. We realized not only was it visually ap
 
 For level 3, we did a network diagram that showcased all the characters connections to each other. We did this because it was the best way to show overlapping interactions with all the characters. This diagram seemed the best network diagram to handle large amount of characters. 
 
-For level 4, we did two pie charts. This show goes between the present and past a lot. And the places scenes are in seems to be pretty consistent in the earlier season. So, without a lot of different scenes to keep track of, pie chart seem to be the best method in showing this information. 
+For level 4, we did two pie charts. This show goes between the present and past a lot. And the places scenes are in seems to be pretty consistent in the earlier seasons. So, without a lot of different scenes to keep track of, pie chart seem to be the best method in showing this information. 
 
 ---
 
