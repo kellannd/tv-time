@@ -61,7 +61,9 @@ You can select one or multiple seasons to update the graphs with.
 
 ### Design Sketches & Justifications
 
-[fill in]
+We sketched a few designs for the levels shown below. 
+
+<img src="images/level1sketch.pdf" height="300">
 
 ---
 
